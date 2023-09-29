@@ -1,0 +1,173 @@
+[
+  {
+    "title": "How to run your VPN with Amnezia",
+    "href": "../instructions/0starter-guide",
+    "subtext": "Buying and setting up hosting for Amnezia"
+  },
+  {
+    "title": "Automatic installation",
+    "href": "../instructions/1_auto-install",
+    "subtext": "Using Setup Wizard"
+  },
+  {
+    "title": "Manual installation",
+    "href": "../instructions/2_manual-install",
+    "subtext": "With protocol selection"
+  },
+  {
+    "title": "Connection with Key as text",
+    "href": "../instructions/3_text-key-connection",
+    "subtext": "VPN:///ue34nf\feh....."
+  },
+  {
+    "title": "Connecting with a file",
+    "href": "../instructions/4_file-connection",
+    "subtext": ".vpn, .conf или .ovpn"
+  },
+  {
+    "title": "Connection by QR code",
+    "href": "../instructions/5_qr-code_connection",
+    "subtext": "Using a mobile device"
+  },
+  {
+    "title": "Changing DNS server",
+    "href": "../instructions/6_change-dns",
+    "subtext": "To increase privacy"
+  },
+  {
+    "title": "Removing Amnezia services and protocols from the server",
+    "href": "../instructions/7_delete-servises-amnezia",
+    "subtext": "Deleting all protocols and services"
+  },
+  {
+    "title": "Clearing the cache on the server",
+    "href": "../instructions/8_clean-cash",
+    "subtext": "May be useful for troubleshooting Amnezia errors"
+  },
+  {
+    "title": "Description of protocols",
+    "href": "../instructions/9_about_protocols",
+    "subtext": "Open VPN, Wireguard, IKv2, OpenVpn over ShadowSocks, Open Vpn over Cloak"
+  },
+  {
+    "title": "Share the connection",
+    "href": "../instructions/10_sharing-connect",
+    "subtext": "Users you trust will be able to use your VPN on their devices"
+  },
+  {
+    "title": "Installing and configuring protocols",
+    "href": "../instructions/11_installation-configuration-protocols",
+    "subtext": "Install and configureOpenVPN, WireGuard, ShadowSocks, IKv2/IPsec and OpenVPN with Cloak plugin."
+  },
+  {
+    "title": "Removing a server from the application",
+    "href": "../instructions/12_delete-server",
+    "subtext": "You may need it if you no longer want to connect to it."
+  },
+  {
+    "title": "Server selection",
+    "href": "../instructions/13_select-server",
+    "subtext": "How to select a server if multiple servers are connected."
+  },
+  {
+    "title": "Changing the VPN protocol",
+    "href": "../instructions/14_protocol-change",
+    "subtext": "How to install and select a protocol"
+  },
+  {
+    "title": "Adding a new server",
+    "href": "../instructions/15_server-adding",
+    "subtext": "Connect to an unlimited number of servers"
+  },
+  {
+    "title": "Allow screen shots",
+    "href": "../instructions/16_allow-screenshots",
+    "subtext": "Prohibited by default"
+  },
+  {
+    "title": "Allow screen shots",
+    "href": "../instructions/17_application-autoloading",
+    "subtext": "Open Amnezia at device startup"
+  },
+  {
+    "title": "Changing languages",
+    "href": "../instructions/18_change_language",
+    "subtext": "The system language is selected by default"
+  },
+  {
+    "title": "Reset settings and delete all data from the application ",
+    "href": "../instructions/19_resetting",
+    "subtext": "Will remove all server information from the application"
+  },
+  {
+    "title": "Backup",
+    "href": "../instructions/20_backup",
+    "subtext": "Creating a backup file and restoring from backup"
+  },
+  {
+    "title": "Split VPN tunneling",
+    "href": "../instructions/21_split_tuneling",
+    "subtext": "Allows you to configure which sites the VPN will be used for"
+  },
+  {
+    "title": "Logging",
+    "href": "../instructions/22_logging",
+    "subtext": "Saving application logs on the device"
+  },
+  {
+    "title": "Creating a site in the TOR network",
+    "href": "../instructions/23_create_site_tor",
+    "subtext": "in two clicks with reinstalled WordPress "
+  },
+  {
+    "title": "Creating an STFP file store",
+    "href": "../instructions/24_stfp",
+    "subtext": "in two clicks"
+  },
+  {
+    "title": "Mount a disk for STFP storage ",
+    "href": "../instructions/25_stfp _mounte_disk",
+    "subtext": "disk to use file storage without third-party software"
+  },
+  {
+    "title": "Checking the server for installed Amnezia services",
+    "href": "../instructions/26_cheking-server",
+    "subtext": "If installed services are detected, Amnezia will automatically add them to the application"
+    
+  },
+
+  {
+    "title": "Alternative applications  ",
+    "href": "../instructions/27_alternetive_apk",
+    "subtext": "Applications in which you can use configurations created in Amnezia"
+    
+  },
+  {
+    "title": "How amnezia works",
+    "href": "../instructions/28_how_amnezia_works",
+    "subtext": "VPN creation, connectivity, traffic masking"
+    
+  },
+  {
+    "title": "Connection Only Access",
+    "href": "../instructions/29_connection_access_only",
+    "subtext": "VPN creation, traffic masking work"
+    
+  },
+  {
+    "title": "Table of supported devices",
+    "href": "../instructions/30_table_of_supported_devices",
+    "subtext": "by protocols"
+    
+  }
+
+
+
+
+
+
+
+
+
+
+]

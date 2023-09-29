@@ -1,0 +1,488 @@
+{
+  "h1": "How to run your VPN with Amnezia",
+  "h2": "Buy a server if you don't have one. ",
+  "p1": "To make it more convenient for you, we have selected several hosting providers.",
+  "cardText": "Amnezia works with any servers running Ubuntu (officially supported version is 20.04), Debian 10 is also supported.",
+  "p2": "Choose a suitable server from the ones below and follow the step-by-step instructions. You can also choose any other VPS provider at your discretion.",
+  "hostings":[
+    {
+      "recommend": true,
+      "logo": "/img/logos/vendor/inferno.svg",
+      "link": "https://inferno.name/",
+      "desc": "The provider offers a promo code that grants a 75% discount on the first month's payment and generates a custom link specifically for AmneziaVPN. You can start using the VPN immediately after payment with easy one-click connectivity!",
+      "serversLabel": "Servers",
+      "serversText": "USA, Russia, Netherlands, Germany, Ukraine, Poland, Sweden, Canada, Switzerland, Estonia, UK, Singapore, Czech Republic, UAE, Japan, Australia, France, Romania, Hong Kong, Spain, Norway, Bulgaria.",
+      "legalAddressLabel": "Legal address",
+      "legalAddressText": "United Kingdom",
+      "priceLabel": "Payment",
+      "priceText": "from $5/month",
+      "priceInfo": "Mastercard/Visa MIR cards of Russian banks, Mastercard/Visa, PayPal, Bitcoin, YouMoney, MIR, Qiwi, RBK.money, Advcash, Svyaznoy, Beeline, Payeer, IBOX, PaySera.",
+      "steps": [
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/inferno/if1f.png",
+          "text": "On the home page, scroll down to the bottom, select “Personal VPN/socks service”."
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/inferno/if2f.png",
+          "text": "Select a country , click “Update Cart”."
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/inferno/if3f.png",
+          "text": "Enter the Amnezia promo code, click apply, then click “Proceed to Payment”"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/inferno/if4f.png",
+          "text": "Fill in the blanks"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/inferno/if5f.png",
+          "text": "On the same screen, select your payment method, check the boxes, click “Complete Order” "
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/inferno/if6f.png",
+          "text": "Click “Pay” in the upper left corner"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/inferno/if7f.png",
+          "text": "If the payment was successful, the order number will appear. Log in to the “Customer panel”. "
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/inferno/if8f.png",
+          "text": "Статус вашего сервера должен быть “Активный”."
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/inferno/if9f.png",
+          "text": "Go to the e-mail specified during registration, you will receive an e-mail with your server data. This will be the code for automatic configuration and connection of VPN. "
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/inferno/if10f.png",
+          "text": "Install the AmneziaVPN app and enter the data you received, then follow the app's prompts, or go to the instructions section to install with a text key. "
+        }
+      ] 
+    },
+    {
+      "recommend": false,
+      "logo": "/img/logos/vendor/digital-ocean.svg",
+      "link": "https://www.digitalocean.com/",
+      "desc": "Provider does not support payment by Russian cards",
+      "serversLabel": "Servers",
+      "serversText": "USA, Netherlands, UK, Germany, Canada, Germany, Singapore, India",
+      "legalAddressLabel": "Legal address",
+      "legalAddressText": "USA",
+      "priceLabel": "Payment",
+      "priceText": "from $4/month",
+      "priceInfo": "Mastercard/Visa, PayPal",
+      "steps": [
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/digital-ocean/do1f.png",
+          "text": "On the main screen, under the Solutions tab, select VPS Hosting”."
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/digital-ocean/do2f.png",
+          "text": "Click “Get Started”."
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/digital-ocean/do3f.png",
+          "text": "Select - “Register with mail.”"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/digital-ocean/do4f.png",
+          "text": "Enter your email, create a password."
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/digital-ocean/do5f.png",
+          "text": "Access your email and confirm the registration."
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/digital-ocean/do6f.png",
+          "text": "Next you will be asked to answer 4 questions, choose any answers you like"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/digital-ocean/do7f.png",
+          "text": "Add a card or PayPal "
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/digital-ocean/do8f.png",
+          "text": "Enter the payment details, press “Save payment method” "
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/digital-ocean/do9f.png",
+          "text": "After successfully adding the card you will again be prompted to select a service, select “Deploy a virtual machine” "
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/digital-ocean/do10f.png",
+          "text": "Choose Ubuntu 20.04, or Debian 10, tariff plan “Basic”"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/digital-ocean/do11f.png",
+          "text": "Choose “Regular Intel with SSD”, cheapest tariff"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/digital-ocean/do12f.png",
+          "text": "And the server's location"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/digital-ocean/do13f.png",
+          "text": "As the authentication method, we choose a password, create it."
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/digital-ocean/do14f.png",
+          "text": "After installation, in the “Resources” section you will see the connection data: IP, login and Password. This is the data for connecting to your new server.” "
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/digital-ocean/do15f.png",
+          "text": "Wait for the server to install  "
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/digital-ocean/do16screen.png",
+          "text": "Install the Amnezia app and enter the connection data, then follow the prompts in the app, or go to the instructions section “Automatic installation”. "
+        }
+      ]
+    },
+    {
+      "recommend": false,
+      "logo": "/img/logos/vendor/aws.svg",
+      "link": "https://www.aws.name",
+      "desc": "The provider does not support payment by Russian cards. There is a period of free server testing up to 12 months with limited free traffic ",
+      "serversLabel": "Servers",
+      "serversText": " USA, South Africa, Hong Kong, India, Japan, South Korea, Singapore, Australia, Canada, Germany, Ireland, UK, Italy, France, Sweden, Bahrain, Brazil.",
+      "legalAddressLabel": "Legal address",
+      "legalAddressText": "USA",
+      "priceLabel": "Payment",
+      "priceText": "from $20/month",
+      "priceInfo": "Mastercard/Visa, PayPal Cash Card",
+      "steps": [
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aws/aws1f.png",
+          "text": "Select the “Product” tab then “Featured Services” “Amazon VPS”"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aws/aws2f.png",
+          "text": "Click “Complete Sign Up” "
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aws/aws3f.png",
+          "text": "Select “Root user” Click  “Next”"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aws/aws4f.png.png",
+          "text": "Add your email, and think of your amazon account name, then click on “Verifi email addres”"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aws/aws5f.png.png",
+          "text": "Enter the text from the picture and click again “Verifi email addres”"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aws/aws6f.png.png",
+          "text": "An email with a code will be sent to the specified mail, enter the code in the line, click “Verify”"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aws/aws7f.png.png",
+          "text": "Create a password"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aws/aws8f.png.png",
+          "text": "Enter your registration details, click “Continue”"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aws/aws9f.png",
+          "text": "Enter your payment details and payment address."
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aws/aws10f.png",
+          "text": "Add a phone number, press “Send SMS”, enter data from SMS."
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aws/aws11f.png",
+          "text": "Выберете уровень поддержки “Basic support - Free” , нажмите “Complete sing up”"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aws/aws12f.png",
+          "text": "Go to the console , click “Go to the AWS Managment Console”"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aws/aws13f.png",
+          "text": "After logging in to your personal cabinet, on the top panel select the tab “Services”, then “All services” and “EC2”"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aws/aws14f.png.png",
+          "text": "Select the country to which your server will be located. "
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aws/aws15f.png.png",
+          "text": "In the left pane, select the tab “Intances”. Click “Launch intances”"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aws/aws16f.png",
+          "text": "Choose OS, Officially supported version of Ubuntu 20.04 and Debian 10, in this case choose Ubuntu 20.04"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aws/aws17f.png.png",
+          "text": "Select a variant suitable for free use with a green bar."
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aws/aws18f.png.png",
+          "text": "Leave the default values, press “Next: Add Storage”."
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aws/aws19f",
+          "text": "Next, in the Size column increase the disk space to 30 GB, press “Next: Add tags”"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aws/aws20f",
+          "text": "Этот шаг пропускаем “Next Configure Security Group”."
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aws/aws21f",
+          "text": "Here you need to open the ports used for VPN. Enter them as shown in the screenshot below."
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aws/aws22f",
+          "text": "Final step -  Click “Launch”"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aws/aws23f",
+          "text": "Here you need to create a key pair for further remote access to the VPS, select“Create a new key pair”, name them and press “Download Key Pair” , then “Launch Instances”."
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aws/aws24f",
+          "text": "Select the Instances tab on the left pane, then select your new server and click “Connect”, a window will open with the password for the server save it, the IP can be found in the bottom right corner as indicated in the screenshot, and as login use ubuntu or root. "
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aws/aws25f",
+          "text": "Install the AmneziaVPN app and enter the data you received, then follow the app's prompts or go to the instructions section “Automatic installation” "
+        }
+
+      ]
+    },
+    {
+      "recommend": false,
+      "logo": "/img/logos/vendor/sinfu.svg",
+      "link": "https://www.cinfu.com/",
+      "desc": "The provider does not support payment by Russian cards.",
+      "serversLabel": "Servers",
+      "serversText": "USA, Bulgaria, France, Germany, Netherlands",
+      "legalAddressLabel": "Legal address",
+      "legalAddressText": "Seychelles",
+      "priceLabel": "Payment",
+      "priceText": "$5/month",
+      "priceInfo": "Mastercard/Visa, PayPal, AdvCash Mir, Skril, Litecoin, Ethereum & other Cryptocurrencies, Paxum, EpayFasaPay, NixMoney, Bitcoin, Brick (Powered by Paymentwall), Paymentwall, Payeer (30+ other payment option) ",
+      "steps": [
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/cinfu/CF1f.png",
+          "text": "Select the country of the server to be purchased."
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/cinfu/CF2f.png",
+          "text": "Choose a tariff"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/cinfu/CF3f",
+          "text": "Think of a hosting name and enter it on the line “Hostname”, create a password and enter it in the “root Password”, choose an operating system, officially supported by Ubuntu 20.04, Debian 10"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/cinfu/CF4f",
+          "text": "Click on “Checkout”"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/cinfu/CF5f",
+          "text": "Заполните данные, придумайте пароль"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/cinfu/CF6f",
+          "text": "Choose a payment method, check the box and complete your order “Complete Order”"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/cinfu/CF7f",
+          "text": "Pay the server, click on “Make One off Payment”"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/cinfu/CF8f",
+          "text": "If the payment was successful, you will see your order number, click “Continue To Client Area”"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/cinfu/CF9f",
+          "text": "Under “My Products & Services” the status of your server should change to “active”, this may take some time"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/cinfu/CF10f",
+          "text": "You will receive a letter with data for connecting to your new server to the e-mail specified during registration. "
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/cinfu/cf11screen",
+          "text": "Install the Amnezia app and enter the connection data, then follow the prompts in the app, or go to the instructions section “Automatic installation”"
+        }
+
+      ]
+    },
+    {
+      "recommend": false,
+      "logo": "/img/logos/vendor/pqhosting.svg",
+      "link": "https://pq.hosting/",
+      "desc": "Payment by Russian cards is possible.",
+      "serversLabel": "Servers",
+      "serversText": "Netherlands, Canada, UK, Latvia, USA, Ukraine, Bulgaria, Romania, Portugal, Sweden, Ireland, France, Estonia, Denmark, Germany, Moldova, Czech Republic, Italy, Switzerland, Spain, Austria, Russia, and another +12)  ",
+      "legalAddressLabel": "Legal address",
+      "legalAddressText": "Moldova",
+      "priceLabel": "Payment",
+      "priceText": "from $4.77/month",
+      "priceInfo": "Mastercard/Visa/MIR (Russian banks), Mastercard/Visa (Foreign banks) PayPal, SPB, Bank transfer for legal entities, Cashless payment for legal entities, QIWI, WebMoney, YouMoney, ApplePay, SamsungPay, GooglePay, Crypto Payment)  ",
+      "steps": [
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/pq-hosting/PQ1f.png",
+          "text": "“On the main page on the top panel select VPS/VDS server” ."
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/pq-hosting/PQ2f.png",
+          "text": "Select a server, click  “Order a server”"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/pq-hosting/PQ3f.png",
+          "text": "Enter the data"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/pq-hosting/PQ4f.png",
+          "text": "Select OS, officially supported version is Ubuntu 20.04 , Debian 10, other settings can be left unchanged, add to cart."
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/pq-hosting/PQ5f.png",
+          "text": "Click “Cart”"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/pq-hosting/PQ6f.png",
+          "text": "Next, “Pay”"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/pq-hosting/PQ7f.png",
+          "text": "Choose the most suitable payment method."
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/pq-hosting/PQ8f.png",
+          "text": "Select a country, click next "
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/pq-hosting/PQ9f.png",
+          "text": " in the Contact person column specify the first and last name, fill in the actual address, click “next”, in the next window confirm the payment."
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/pq-hosting/PQ10f.png",
+          "text": "In your personal cabinet in the menu on the left in the column Virtual Servers you will see your server data and a notification that the service is ready for use, click on the notification."
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/pq-hosting/PQ11f.png",
+          "text": "The notification will have a box with IP address, user and password. To connect to the VPN we need these data. "
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/pq-hosting/PQ12screen.png",
+          "text": "Install the Amnezia app and enter the connection data, then follow the prompts in the app, or go to the instructions section “Automatic installation”. "
+        }
+      ] 
+    },
+    {
+      "recommend": false,
+      "logo": "/img/logos/vendor/sinfu.svg",
+      "link": "https://timeweb.cloud/",
+      "desc": "Payment by Russian cards is possible.",
+      "serversLabel": "Servers",
+      "serversText": "Netherlands, Russia, Poland, Kazkhstan, USA",
+      "legalAddressLabel": "Legal address",
+      "legalAddressText": "Russia",
+      "priceLabel": "Payment",
+      "priceText": "from $3/month",
+      "priceInfo": "Mastercard/Visa/MIR (Russian banks),Mastercard/Visa (foreign banks), UMoneu, Account, Receipt, QIWI, Pay ",
+      "steps": [
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/timeweb/twc1f.png",
+          "text": "Enter your e-mail address, click “Create Account"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/timeweb/twc2f.png",
+          "text": "Choose Ubuntu 20.04, or Debian 10, choose the country of the server location, to bypass blocking inside Russia choose a server outside Russia, click “Заказать”"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/timeweb/twc3f.png",
+          "text": "Choose the cheapest tariff, click on “Order”"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/timeweb/twc4f.png",
+          "text": "Choose a payment method, click “Pay”"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/timeweb/twc5f.png",
+          "text": "Select the tab “Cloud servers”, wait until the server configuration is complete"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/timeweb/twc6f.png",
+          "text": " In the Cloud Servers tab select Dashboard, to the right of the CPU Load graph you will see the data to connect to the IPv4 server, the login is root and the password you can copy."
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/timeweb/twc7screen.png",
+          "text": "Install the Amnezia app and enter the connection data, then follow the prompts in the app, or go to the instructions section “Automatic installation”"
+        }
+        
+      ] 
+    },
+    {
+      "recommend": false,
+      "logo": "/img/logos/vendor/sinfu.svg",
+      "link": "https://aeza.net/",
+      "desc": "Payment by Russian cards is possible.",
+      "serversLabel": "Servers",
+      "serversText": "Austria, France, Netherlands, Sweden, Finland",
+      "legalAddressLabel": "Legal address",
+      "legalAddressText": "Russia",
+      "priceLabel": "Payment",
+      "priceText": "from $4/month",
+      "priceInfo": "Mastercard/Visa/МИР (Russian banks),Mastercard/Visa/ (Ukraine), Mastercard/Visa(other banks), Tinkoff Pay, СПБ, Yandex Pay, Steam Pay, FKWallet RUB/USD, QIWI, LAVA, QMoney, Perfect Money USD, WebMoney, Crypto Payment ",
+      "steps": [
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aeza/aeza_en_1.png",
+          "text": "Register on the website"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aeza/aeza_en_2.png",
+          "text": "Paste the e-mail into the line"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aeza/aeza_en_3png",
+          "text": "Confirm registration"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aeza/aeza_en_4.png",
+          "text": "Select Virtual Server "
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aeza/aeza_en_5.png",
+          "text": "Choose a server country different from yours and the cheapest tariff"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aeza/aeza_en_6.png",
+          "text": "Choose Ubuntu 20.04, disable Backups and auto-renewal, click Pay"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aeza/aeza_en_7.png",
+          "text": "Select a payment method."
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aeza/aeza_en_8.png",
+          "text": "If the payment was successful, the IP address will appear and the status will change to Active "
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aeza/aeza_en_9.png",
+          "text": "Click on the server name"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aeza/aeza_en_10.png",
+          "text": "Here we need a username, password and IP"
+        },
+        {
+          "image": "https://ru.amnezia.org/img/instructions/sterted-guide/img/aeza/aeza_en_10.png",
+          "text": "Install the AmneziaVPN app and enter the data you received, then follow the app's prompts, or go to the Automatic Installation section of the instructions"
+        }
+        
+      ] 
+    }
+    
+  ]
+  
+  }
