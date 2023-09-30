@@ -1,52 +1,52 @@
 [
   {
     "title": "Как запустить свой VPN с помощью Amnezia",
-    "href": "../instructions/0starter-guide",
+    "href": "../instructions/0_starter-guide",
     "subtext": "Покупка и настройка хостинга для Amnezia"
   },
   {
     "title": "Автоматическая настройка",
-    "href": "../instructions/1_auto-install",
+    "href": "../instructions/01_auto-install",
     "subtext": "Через Setup Wizard"
   },
   {
     "title": "Ручная настройка",
-    "href": "../instructions/2_manual-install",
+    "href": "../instructions/02_manual-install",
     "subtext": "С выбором протоколов"
   },
   {
     "title": "Подключение через Ключ в виде текста",
-    "href": "../instructions/3_text-key-connection",
+    "href": "../instructions/03_text-key-connection",
     "subtext": "VPN:///ue34nf\feh....."
   },
   {
     "title": "Подключение через файл",
-    "href": "../instructions/4_file-connection",
+    "href": "../instructions/04_file-connection",
     "subtext": ".vpn, .conf или .ovpn"
   },
   {
     "title": "Подключение через QR-код",
-    "href": "../instructions/5_qr-code_connection",
+    "href": "../instructions/05_qr-code_connection",
     "subtext": "С помощью мобильного устройства"
   },
   {
     "title": "Смена  DNS сервера",
-    "href": "../instructions/6_change-dns",
+    "href": "../instructions/06_change-dns",
     "subtext": "Чтобы повысить уровень приватности "
   },
   {
     "title": "Удаление сервисов Amnezia с сервера",
-    "href": "../instructions/7_delete-servises-amnezia",
+    "href": "../instructions/07_delete-servises-amnezia",
     "subtext": "Удаление всех протоколов и сервисов"
   },
   {
     "title": "Очистка кэша на сервере",
-    "href": "../instructions/8_clean-cash",
+    "href": "../instructions/08_clean-cash",
     "subtext": "Может пригодиться для устранения ошибок в работе Amnezia"
   },
   {
     "title": "Описание протоколов",
-    "href": "../instructions/9_about_protocols",
+    "href": "../instructions/09_about_protocols",
     "subtext": "Open VPN, Wireguard, IKv2, OpenVpn over ShadowSocks, Open Vpn over Cloak"
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "title": "Автозагрузка приложения",
-    "href": "../instructions/17_application-autoloading",
+    "href": "../instructions/17_application-autostart",
     "subtext": "Открывать Amnezia при запуске устройства"
   },
   {
@@ -126,7 +126,7 @@
   },
   {
     "title": "Смонтировать диск для STFP хранилища ",
-    "href": "../instructions/25_stfp _mounte_disk",
+    "href": "../instructions/25_stfp_mounte_disk",
     "subtext": "диск для использования файлвого хранилища без стороннего ПО"
   },
   {
