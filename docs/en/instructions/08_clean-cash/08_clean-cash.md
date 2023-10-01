@@ -15,7 +15,7 @@ Select the server on which you want to clear the cache
 Select the "Data" tab, 
 In the "Data" tab, select "Clear Amnezia cache".
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/08_clean-cashimg/cc_en_3.png)
+![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/08_clean-cash/img/cc_en_3.png)
 
 
 If you still have questions, please refer to the [FAQ], our [Telegram chat] or [other sections of the manual]

@@ -76,7 +76,7 @@ If you choose to configure VPN yourself, you will be offered a list of protocols
 
 ![instruction5](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/01_auto-install/img/ai_en_5.png)
 
-Click on the **“Подключиться”** button. 
+Click on the **“Connect”** button. 
 
 ![instruction6](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/01_auto-install/img/ai_en_6.png.png)
 
