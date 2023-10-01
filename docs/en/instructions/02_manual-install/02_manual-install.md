@@ -20,7 +20,7 @@ On the first screen, the application will ask for your connection details.  Thes
 Install the Amnezia app
 
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/02_manual-install/img/mi_en_1.png)
+![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/02_manual-install/img/mi_en_1.png)
 
 > If you purchased VPS for Amnezia from Inferno solution, instead of IP login and password you may be sent a key in the form of text in the following format VPN:///ue34nf\feh......
 In this case, please refer to the instructions [Connect via text key].
@@ -33,7 +33,7 @@ If other Amnezia users have shared the connection with you, please refer to the 
 
 In these instructions we will look at connecting via IP, username and password, so choose them.
 
-![instruction2](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/02_manual-install/img/mi_en_2.png)
+![instruction2](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/02_manual-install/img/mi_en_2.png)
 
 &nbsp;
 
@@ -46,7 +46,7 @@ In these instructions we will look at connecting via IP, username and password, 
 > Instead of a password, you can use an SSH key.
 
 
-![instruction3](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/02_manual-install/img/mi_en_3.png)
+![instruction3](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/02_manual-install/img/mi_en_3.png)
 
 &nbsp;
 
@@ -54,7 +54,7 @@ In these instructions we will look at connecting via IP, username and password, 
 
 Scroll down, select "Set up VPN by yourself", click "Continue".
 
-![instruction4](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/02_manual-install/img/mi_en_4.png)
+![instruction4](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/02_manual-install/img/mi_en_4.png)
 
 &nbsp;
 
@@ -72,18 +72,18 @@ More detailed description of all protocols and traffic masking can be found [her
 
 > If your region has a high level of censorship, blocked all non-government-controlled sites, commercial and non-commercial VPNs, we advise you to use OpenVPN over Clock from the first connection.
 
-![instruction5](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/02_manual-install/img/mi_en_5.png)
+![instruction5](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/02_manual-install/img/mi_en_5.png)
 
 &nbsp;
 
 ### Wait for Amnezia to configure your VPN.
 
-![instruction5](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/02_manual-install/img/mi_en_6.png)
+![instruction5](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/02_manual-install/img/mi_en_6.png)
 
 Click on the **“Connect”** button.
 
 
-![instruction6](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/02_manual-install/img/mi_en_7.png)
+![instruction6](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/02_manual-install/img/mi_en_7.png)
 
 
 Now you can share your connection with other people, add and remove protocols, select exclusion sites, set your own DNS and much more... 

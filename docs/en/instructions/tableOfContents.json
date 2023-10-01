@@ -126,7 +126,7 @@
   },
   {
     "title": "Mount a disk for STFP storage ",
-    "href": "../instructions/25_stfp _mounte_disk",
+    "href": "../instructions/25_stfp _mount_disk",
     "subtext": "disk to use file storage without third-party software"
   },
   {
@@ -138,7 +138,7 @@
 
   {
     "title": "Alternative applications  ",
-    "href": "../instructions/27_alternetive_apk",
+    "href": "../instructions/27_alternetive-apk",
     "subtext": "Applications in which you can use configurations created in Amnezia"
     
   },

@@ -19,7 +19,7 @@ On the first screen, the application will ask for your connection details. This 
 Select "I have data to connect".
 
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/04_file-connection/img/fc_ru_1.png)
+![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/04_file-connection/img/fc_ru_1.png)
 
 
 ## Select the type of data you have. 
@@ -27,27 +27,27 @@ Select "I have data to connect".
 In this instruction we will consider connection via a configuration file, so select "QR code. key or configuration file"
 
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/04_file-connection/img/fc_ru_2.png)
+![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/04_file-connection/img/fc_ru_2.png)
 
 >If your connection data is in a different format, please refer to the sections [QR code] connection, [text key], [manual] or [automatic installation].
 
 Click on "Connection settings file", then select the file on your device.
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/04_file-connection/img/fc_ru_3.png)
+![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/04_file-connection/img/fc_ru_3.png)
 
 
 Next, click "Connect"
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/04_file-connection/img/fc_ru_4.png)
+![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/04_file-connection/img/fc_ru_4.png)
 
 Wait for Amnezia to configure your VPN.
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/04_file-connection/img/fc_ru_5.png)
+![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/04_file-connection/img/fc_ru_5.png)
 
 Click on the "Connect" button on the main screen.
 
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/04_file-connection/img/fc_ru_6.pn)
+![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/04_file-connection/img/fc_ru_6.pn)
 
 
 Now you can share your connection with other people, add and remove protocols, select exclusion sites, set your own DNS and much more... 

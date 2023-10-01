@@ -1,4 +1,4 @@
-# Принцип работы Amnezia
+# How Amnezia works
 
 
 &nbsp;
