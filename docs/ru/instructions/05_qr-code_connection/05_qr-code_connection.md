@@ -37,7 +37,7 @@
 На этом экране вы можете посмотреть содержимое QR-кода
 Далее кликните “Подключиться”
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/05_qr-code_connectionimg/qrc_ru_4.png)
+![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/05_qr-code_connection/img/qrc_ru_4.png)
 
 Дождитесь пока Amnezia настроит ваш VPN.
 
