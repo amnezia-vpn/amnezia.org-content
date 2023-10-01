@@ -24,7 +24,7 @@ In the "Data" tab, select "Clear server from Amnezia software".
 
 All changes made on the server using the Amnezia client will be deleted.
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/07_delete-servises-amnezia/img/dsa_em_3.png)
+![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/07_delete-servises-amnezia/img/dsa_en_3.png)
 
 
 If you still have questions, please refer to the [FAQ], our [Telegram chat] or [other sections of the manual]
