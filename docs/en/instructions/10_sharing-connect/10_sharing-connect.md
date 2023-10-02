@@ -13,11 +13,11 @@ use your VPN, but will not be able to change its settings and protocols.
 
 On the home screen, click on the share icon (in the middle) at the bottom.
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/10_sharing-connect/img/sc_en_1.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/10_sharing-connect/img/sc_en_1.png)
 
 Click the "Add" button
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/10_sharing-connect/img/sc_en_2.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/10_sharing-connect/img/sc_en_2.png)
 
 Next, you will be prompted to select the type of access you want to share:
 Connection is access without the ability to configure the server and select and configure protocols
@@ -42,19 +42,19 @@ Depending on the client for which you are creating the configuration, the file c
 
 After selecting all the settings, click on the "Share" button.
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/10_sharing-connect/img/sc_en_3.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/10_sharing-connect/img/sc_en_3.png)
 
 You can scan the QR-code, 
 copy the code to the clipboard and share the key as text. or
 save the settings file by clicking "Share Settings",
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/10_sharing-connect/img/sc_en_4.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/10_sharing-connect/img/sc_en_4.png)
 
 >The user with whom you shared the configuration will be able to connect to the VPN through the Amnezia app, here you will find more detailed instructions: connection via [QR code], [text key], [file] , or [alternative clients].
 
 Now if you click on the "Share" icon from the home screen, you can see all the users you have shared the connection with
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/10_sharing-connect/img/sc_en_5.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/10_sharing-connect/img/sc_en_5.png)
 
 
 If you still have questions, please refer to the [FAQ], our [Telegram chat] or [other sections of the manual]

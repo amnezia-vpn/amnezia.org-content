@@ -11,12 +11,12 @@ OpenVPN, WireGuard, ShadowSocks, IKv2/IPsec и OpenVPN с плагином Cloak
 
 На главном экране  внизу  кликните на название сервера, как на скриншоте. 
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/11_installation-configuration-protocols/img/icp_ru_1.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/11_installation-configuration-protocols/img/icp_ru_1.png)
 
 Кликните на значок шестеренки справа от названия сервера 
 
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/11_installation-configuration-protocols/img/icp_ru_2.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/11_installation-configuration-protocols/img/icp_ru_2.png)
 
 Кликните на вкладку “Протоколы” 
 Выберете протокол, который вы хотите установить .
@@ -27,11 +27,11 @@ OpenVPN, WireGuard, ShadowSocks, IKv2/IPsec и OpenVPN с плагином Cloak
 
 >Инструкция как подключатся протоколам [здесь].
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/11_installation-configuration-protocols/img/icp_ru_3.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/11_installation-configuration-protocols/img/icp_ru_3.png)
 
 Выберете протокол или плагин для изменения настроек.
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/11_installation-configuration-protocols/img/icp_ru_4.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/11_installation-configuration-protocols/img/icp_ru_4.png)
 
 ### Настройка OpenVPN
 
@@ -44,18 +44,18 @@ TLS-auth добавляет еще одну подпись к HMAC к handshake-
 Это обеспечит дополнительный уровень безопасности протокола SSL/TLS, защищая систему от некоторых видов атак. 
 Block DNS request outside of VPN - предотвращает утечку адреса вашего  DNS-сервера.
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/11_installation-configuration-protocols/img/icp_ru_5.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/11_installation-configuration-protocols/img/icp_ru_5.png)
 
 В плагине Cloak  можно поменять шифрование и порт. 
 
 А так же выбрать маскировку для тарфика. 
 В эту графу можно вписать любой сайт и при попытке  обнаружения и перехвата  VPN-трафика  системами анализа DPI,  вместо VPN трафика будет  отображаться только  эта маскировка.
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/11_installation-configuration-protocols/img/icp_ru_6.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/11_installation-configuration-protocols/img/icp_ru_6.png)
 
 В настройках ShadowSocks можно изменить метод шифрования и порт. 
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/11_installation-configuration-protocols/img/icp_ru_7.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/11_installation-configuration-protocols/img/icp_ru_7.png)
 
 Если у вас остались вопросы, обратитесь к [FAQ], в наш [телеграм чат] или к [другим разделам инструкции]
 

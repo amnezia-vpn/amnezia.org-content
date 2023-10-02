@@ -17,38 +17,38 @@
 
 На главном экране  внизу  кликните на значок настроек (крайний правый). 
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/06_change-dns/img/cd_ru_1.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/06_change-dns/img/cd_ru_1.png)
 
 Далее перейдите в раздел “Серверы” 
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/06_change-dns/img/cd_ru_2.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/06_change-dns/img/cd_ru_2.png)
 
 Выберете сервер, в котором вы хотите поменять DNS
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/06_change-dns/img/cd_ru_3.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/06_change-dns/img/cd_ru_3.png)
 
 Выберете вкладку Сервисы, 
 Во вкладке Сервисы выберете Amnezia DNS. 
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/06_change-dns/img/cd_ru_4.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/06_change-dns/img/cd_ru_4.png)
 
 Кликните "Установить"
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/06_change-dns/img/cd_ru_5.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/06_change-dns/img/cd_ru_5.png)
 
 В дальнейшем  вы сможете менять настройки своего DNS сервера. 
 Для этого откройте главный экран и нажмите на эконку настроек в правом нижнем углу приложения.  
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/06_change-dns/img/cd_ru_6.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/06_change-dns/img/cd_ru_6.png)
 
 Далее выберете раздел “Соединение”
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/06_change-dns/img/cd_ru_7.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/06_change-dns/img/cd_ru_7.png)
 
 
 Здесь вы сможете выбрать опцию “Использовать Amnezia DNS” , или же использовать другие DNS серверы. 
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/06_change-dns/img/cd_ru_8.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/06_change-dns/img/cd_ru_8.png)
 
 
 Если у вас остались вопросы, обратитесь к [FAQ], в наш [телеграм чат] или к [другим разделам инструкции]

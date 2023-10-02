@@ -5,12 +5,12 @@ Amnezia supports almost all modern protocols: OpenVPN, Wireguard, ShadowSocks IK
 
 On the main screen, click on the server name (in the screenshot it is labeled Server1).
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/14_protocol-change/img/pc_en_1.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/14_protocol-change/img/pc_en_1.png)
 
 Click on the white rectangle with the name of the VPN protocol, 
 as in the screenshot
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/14_protocol-change/img/pc_en_2.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/14_protocol-change/img/pc_en_2.png)
 
 Select a protocol from the list
 
@@ -18,11 +18,11 @@ Select a protocol from the list
 > with you, or [connect to your own server].
 
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/14_protocol-change/img/pc_en_3.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/14_protocol-change/img/pc_en_3.png)
 
 Go back to the home screen, tap the "Connect" button
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/14_protocol-change/img/pc_en_4.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/14_protocol-change/img/pc_en_4.png)
 
 
 If you still have questions, please refer to the [FAQ], our [Telegram chat] or [other sections of the manual]

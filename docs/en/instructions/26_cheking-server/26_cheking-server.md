@@ -9,17 +9,17 @@ And in this section we will tell you how to check if these services are installe
 
 On the main screen at the bottom, click on the name of your server (in the screenshot it is labeled Server1).
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/26_cheking-server/img/cs_en_1.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/26_cheking-server/img/cs_en_1.png)
 
 Select the server you want to check for installed services.
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/26_cheking-server/img/cs_en_2.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/26_cheking-server/img/cs_en_2.png)
 
 Select the "Data" tab, 
 In the "Data" tab, select "Check server for installed Amnezia services". 
 All protocols and services installed on the server will be added to the application automatically.
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/26_cheking-server/img/cs_en_3.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/26_cheking-server/img/cs_en_3.png)
 
 
 If you still have questions, please refer to the [FAQ], our [Telegram chat] or [other sections of the manual]

@@ -21,7 +21,7 @@ On the first screen, the application will ask for your connection details.  Thes
 Select "I have data to connect".
 
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/01_auto-install/img/ai_en_1.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/01_auto-install/img/ai_en_1.png)
 
 > If you purchased VPS for Amnezia from Inferno solution, instead of IP login and password you may be sent a key in the form of text in the following format VPN:///ue34nf\feh......
 >In this case, please refer to the instructions [Connect via text key]
@@ -36,7 +36,7 @@ Select "I have data to connect".
 In these instructions we will look at connecting via IP, username and password, so choose them.
 
 
-![instruction2](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/01_auto-install/img/ai_en_2.png)
+![instruction2](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/01_auto-install/img/ai_en_2.png)
 
 &nbsp;
 
@@ -44,7 +44,7 @@ In these instructions we will look at connecting via IP, username and password, 
 
 Enter IP login and password from VPS-server, click "Continue".
 
-![instruction2](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/01_auto-install/img/ai_en_3.png)
+![instruction2](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/01_auto-install/img/ai_en_3.png)
 
 
 >If you changed the port, specify it with a colon after the IP. 
@@ -65,7 +65,7 @@ If you choose to configure VPN yourself, you will be offered a list of protocols
 
 
 
-![instruction3](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/01_auto-install/img/ai_en_4.png)
+![instruction3](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/01_auto-install/img/ai_en_4.png)
 
 >  If in your region all non-government-controlled sites and almost all commercial and non-commercial VPNs are blocked, we recommend to choose High level of control from the first connection, and do not install other protocols, because otherwise IP address of your VPS can be recognized and blocked by analysis systems, and you will not be able to use it in the future.
 
@@ -74,11 +74,11 @@ If you choose to configure VPN yourself, you will be offered a list of protocols
 
 ### Wait for Amnezia to configure your VPN.
 
-![instruction5](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/01_auto-install/img/ai_en_5.png)
+![instruction5](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/01_auto-install/img/ai_en_5.png)
 
 Click on the **“Connect”** button. 
 
-![instruction6](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/01_auto-install/img/ai_en_6.png.png)
+![instruction6](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/01_auto-install/img/ai_en_6.png.png)
 
 Now you can share your connection with other people, add and remove protocols, select sites for which you want or don't want to use VPN, set your own DNS and much more.... 
 

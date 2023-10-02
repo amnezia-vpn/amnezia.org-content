@@ -8,11 +8,11 @@ Instructions on how to select and connect to the server [here]
 
  On the main screen at the bottom, click on the name of your server (in the screenshot it is labeled Server1).
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/15_server-adding/img/sa_en_1.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/15_server-adding/img/sa_en_1.png)
 
 Click on the plus sign in the upper right corner near the "Servers" label
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/15_server-adding/img/sa_en_2.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/15_server-adding/img/sa_en_2.png)
 
 Select the type of data you have. 
 It could be an IP, login and password.
@@ -26,7 +26,7 @@ login and password
 
 and connect via [file], [text key] или [QR code]. 
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/15_server-adding/img/sa_en_3.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/15_server-adding/img/sa_en_3.png)
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about

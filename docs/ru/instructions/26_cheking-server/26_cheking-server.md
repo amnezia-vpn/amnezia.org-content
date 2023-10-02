@@ -9,17 +9,17 @@
 
 На главном экране  внизу  кликните на название вашего сервера  (на скриншоте он обозначен как Server1). 
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/26_cheking-server/img/cs_ru_1.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/26_cheking-server/img/cs_ru_1.png)
 
 Выберете сервер, который вы хотите проверить на наличие установленных сервисов.
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/26_cheking-server/img/cs_ru_2.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/26_cheking-server/img/cs_ru_2.png)
 
 Выберете вкладку “Данные”, 
 Во вкладке “Данные” выберете  “Проверить сервер на наличие установленных сервисов Amnezia”. 
 Все установленные на сервер протоколы и севисы будут добавлены в приложение автоматически.
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/26_cheking-server/img/cs_ru_3.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/26_cheking-server/img/cs_ru_3.png)
 
 
 Если у вас остались вопросы, обратитесь к [FAQ], в наш [телеграм чат] или к [другим разделам инструкции]

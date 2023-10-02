@@ -25,7 +25,7 @@
 Выберете “У меня есть данные для подключения”.
 
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/01_auto-install/img/ai_ru_1.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/01_auto-install/img/ai_ru_1.png)
 
 > Если вы приобрели VPS для Amnezia у  Inferno solution, вместо IP логина и пароля вам могут отправить  ключ в виде текста примерно в таком формате VPN:///ue34nf\feh.....
 >В этом случае  обратитесь к инструкции  [Подключение через ключ в виде текста] 
@@ -39,7 +39,7 @@
 В этом руководстве мы рассмотрим вариант подключения через IP, логин и пароль, поэтому выбираем их. 
 
 
-![instruction2](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/01_auto-install/img/ai_ru_2.png)
+![instruction2](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/01_auto-install/img/ai_ru_2.png)
 
 &nbsp;
 
@@ -49,7 +49,7 @@
 
 Внесите IP логин и пароль от VPS - сервера, нажмите  “Подолжить”.
 
-![instruction2](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/01_auto-install/img/ai_ru_3.png)
+![instruction2](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/01_auto-install/img/ai_ru_3.png)
 
 
 Если вы меняли port, укажите его через двоеточие после IP.
@@ -70,7 +70,7 @@
 
 При выборе **низкого уровня контроля**, будет установлен  OpenVPN  без маскировки трафика. Подойдет для регионов, где не блокируются VPN -приложения  и VPN- протоколы. Повышает уровень приватности пользователя, и дополнительно шифрует трафик. 
 
-![instruction3](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/01_auto-install/img/ai_ru_4.png)
+![instruction3](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/01_auto-install/img/ai_ru_4.png)
 
 
 >  Если в вашем регионе заблокированы все неподконтрольные государству сайты и практически все коммерческие и некоммерчесские VPN, рекомендуем с первого подключения выбрать Высокий уровень контроля, и не устанавливать другие протоколы, так как в ином случае IP адрес вашего VPS может быть распознан и заблокирован системами анализа и вы не сможете использовать его в будущем.  
@@ -80,11 +80,11 @@
 ### Дождитесь пока Amnezia настроит ваш VPN.
 &nbsp;
 
-![instruction5](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/01_auto-install/img/ai_ru_5.png)
+![instruction5](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/01_auto-install/img/ai_ru_5.png)
 
 Нажмите на кнопку **“Подключиться”**.
 
-![instruction6](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/01_auto-install/img/ai_ru_6.png)
+![instruction6](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/01_auto-install/img/ai_ru_6.png)
 
 Теперь вы можете делиться подключением с другими людьми, добавлять и удалять  протоколы, выбрать сайты-исключения,  установить  собственный DNS и еще многое другое... 
 Если у вас остались вопросы, обратитесь к [FAQ], в наш [телеграм чат] или к [другим разделам инструкции].

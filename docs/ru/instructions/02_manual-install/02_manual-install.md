@@ -24,7 +24,7 @@
 
 
 
-![instruction1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/02_manual-install/img/mi_ru_1.png)
+![instruction1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/02_manual-install/img/mi_ru_1.png)
 
 > Если в приобрели VPS для Amnezia у  Inferno solution вместо IP логина и пароля вам может прийти  ключ в виде текста примерно в таком формате VPN:///ue34nf\feh.....
 В этом случае  обратитесь к инструкции  [Подключение через ключ в виде текста].
@@ -36,7 +36,7 @@
 
 В этой инструкции мы рассмотрим подключение через IP, логин и пароль, поэтому выбираем их.  
 
-![instruction2](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/02_manual-install/img/mi_ru_2.png)
+![instruction2](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/02_manual-install/img/mi_ru_2.png)
 
 &nbsp;
 
@@ -45,7 +45,7 @@
 Внесите IP  логин и пароль от VPS - сервера, нажмите “Подолжить”.
 
 
-![instruction3](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/02_manual-install/img/mi_ru_3.png)
+![instruction3](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/02_manual-install/img/mi_ru_3.png)
 
  Если вы меняли port, укажите его через двоеточие после IP.
 
@@ -59,7 +59,7 @@
 
 Пролистайте вниз, выберете “Настроить VPN самостоятельно”, нажмите “Продолжить”.
 
-![instruction4](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/02_manual-install/img/mi_ru_4.png)
+![instruction4](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/02_manual-install/img/mi_ru_4.png)
 
 &nbsp;
 
@@ -77,18 +77,18 @@ OpenVPN over Cloak - это OpenVPN  с протоколом ShadowSocks и c д
 
 > Если в вашем регионе высокий уровень цензуры, заблокированы все неподконтрольные государству сайты, коммерческие и некоммерческие VPN советуем с первого подключения использовать OpenVPN over Clock
 
-![instruction5](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/02_manual-install/img/mi_ru_5.png)
+![instruction5](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/02_manual-install/img/mi_ru_5.png)
 
 &nbsp;
 
 ### Дождитесь пока Amnezia настроит ваш VPN.
 
-![instruction5](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/02_manual-install/img/mi_ru_6.png)
+![instruction5](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/02_manual-install/img/mi_ru_6.png)
 
 Нажмите на кнопку **“Подключиться”**.
 
 
-![instruction6](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/ru/instructions/02_manual-install/img/mi_ru_7.png)
+![instruction6](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/02_manual-install/img/mi_ru_7.png)
 
 
 Теперь вы можете делиться подключением с другими людьми, добавлять и удалять  протоколы, выбрать сайты-исключения,  установить  собственный DNS и еще многое другое... 
