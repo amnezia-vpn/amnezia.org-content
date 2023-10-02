@@ -1,4 +1,4 @@
-# Allow screen shots 
+# Allow screenshots 
 
 By default, screenshots are not allowed, but you can enable this option in the settings.
 
