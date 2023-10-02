@@ -5,7 +5,7 @@ Amnezia supports almost all modern protocols: OpenVPN, Wireguard, ShadowSocks IK
 
 On the main screen, click on the server name (in the screenshot it is labeled Server1).
 
-![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/14_protocol-change/img/pc_en_1png)
+![instruction 1](https://raw.githubusercontent.com/Aftershock669/amnezia-open-docs/master/docs/en/instructions/14_protocol-change/img/pc_en_1.png)
 
 Click on the white rectangle with the name of the VPN protocol, 
 as in the screenshot
