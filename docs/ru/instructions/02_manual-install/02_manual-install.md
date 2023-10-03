@@ -95,13 +95,12 @@ OpenVPN over Cloak - это OpenVPN  с протоколом ShadowSocks и c д
 Если у вас остались вопросы, обратитесь к [FAQ], в наш [телеграм чат] или к [другим разделам инструкции]
 
 
-[Подключение через ключ в виде текста]: /about
-[Как запустить свой VPN с помощью Amnezia]: /about
-[здесь]: /about
-[инструкции]: /about 
+[Подключение через ключ в виде текста]: ../instructions/03_text-key-connection
+[Как запустить свой VPN с помощью Amnezia]: ../instructions/0_starter-guide
+[здесь]: / ..instructions/09_about_protocols
 [FAQ]: /about 
-[телеграм чат]: /about 
-[другим разделам инструкции]: /about
-[файла]: /about 
-[ключа в виде текста]: /about 
-[qr-кода]: /about 
+[телеграм чат]: https://t.me/amnezia_vpn
+[другим разделам инструкции]: /instructions
+[файла]: ../instructions/04_file-connection
+[ключа в виде текста]: ../instructions/03_text-key-connection
+[qr-кода]: ../instructions/05_qr-code_connection

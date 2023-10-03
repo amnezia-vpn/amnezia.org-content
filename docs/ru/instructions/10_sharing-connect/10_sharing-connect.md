@@ -59,12 +59,12 @@
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
-[QR-кода]
-[файла] 
-[альтернативные клиенты]
+[QR-кода] ../instructions/05_qr-code_connection
+[файла] ../instructions/04_file-connection
+[альтернативные клиенты] ../instructions/27_alternetive_apk
 [FAQ]
-[телеграм чат] 
-[другим разделам инструкции]
+[телеграм чат] https://t.me/amnezia_vpn
+[другим разделам инструкции] ../instructions
 
 
 
