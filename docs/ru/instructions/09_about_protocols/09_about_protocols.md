@@ -87,6 +87,10 @@ Cloak может изменять метаданные пакетов таким
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
+[FAQ]: ../faq 
+[телеграм чат]: https://t.me/amnezia_vpn
+[другим разделам инструкции]:  ../instructions
+
 
 
 
