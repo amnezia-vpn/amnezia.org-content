@@ -23,9 +23,9 @@
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
-[FAQ]: /about 
-[телеграм чат]: /about 
-[другим разделам инструкции]: /about
+[FAQ]: ../faq
+[телеграм чат]: https://t.me/amnezia_vpn
+[другим разделам инструкции]: ../instructions
 
 
 

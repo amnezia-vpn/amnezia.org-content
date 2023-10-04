@@ -28,6 +28,9 @@
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
-[здесь]
-[файл]
-[QR-код]
+[здесь] ../instructions/13_select-server
+[файл] ../instructions/04_file-connection
+[QR-код] ../instructions/05_qr-code_connection
+[ключ в виде текста] ../instructions/03_text-key-connection
+[Ручная настройка] ../instructions/02_manual-install
+[Автоматическая настройка] ../instructions/01_auto-install

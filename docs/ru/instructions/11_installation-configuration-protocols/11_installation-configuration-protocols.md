@@ -25,7 +25,7 @@ OpenVPN, WireGuard, ShadowSocks, IKv2/IPsec и OpenVPN с плагином Cloak
 
 В этом случае при нажатии на названии  протокола, вы попадете в меню его настроек . 
 
->Инструкция как подключатся протоколам [здесь].
+>Инструкция как подключатся к протоколам [здесь].
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/11_installation-configuration-protocols/img/icp_ru_3.png)
 
@@ -61,11 +61,11 @@ Block DNS request outside of VPN - предотвращает утечку ад�
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
-[этой] 
-[здесь]
-[FAQ]
-[телеграм чат]
-[другим разделам инструкции]
+[этой]: ../instructions/09_about_protocols
+[здесь]: ../instructions/14_protocol-change
+[FAQ]: ../faq 
+[телеграм чат] https://t.me/amnezia_vpn
+[другим разделам инструкции] ../instructions
 
 
 

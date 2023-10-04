@@ -1,4 +1,4 @@
-# Очистка кэша на сервере\
+# Очистка кэша на сервере
 &nbsp;
 
 Очистка кеша на сервере может пригодиться для устранения ошибок в работе Amnezia, а так же для корректной настройки приложения. 
@@ -26,8 +26,8 @@
 
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
-[FAQ]: /about 
-[телеграм чат]: : https://t.me/amnezia_vpn
+[FAQ]: ../faq 
+[телеграм чат]: https://t.me/amnezia_vpn
 [другим разделам инструкции]:  ../instructions
 
 

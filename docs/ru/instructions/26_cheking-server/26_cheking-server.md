@@ -27,12 +27,12 @@
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
-[DNS-сервер]
-[сайт в сети Tor]
-[файловое хранилище]
-[FAQ]
-[телеграм чат]
-[другим разделам инструкции]
+[DNS-сервер]: ../instructions/06_change-dns
+[сайт в сети Tor]: ../instructions/23_create_site_tor
+[файловое хранилище]: ../instructions/04_file-connection
+[FAQ] ../FAQ
+[телеграм чат] https://t.me/amnezia_vpn
+[другим разделам инструкции] ../instructions/
 
 
 

@@ -47,7 +47,7 @@
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/10_sharing-connect/img/sc_ru_4.png)
 
->Пользователь, с которым вы поделились конфигурацией, сможет  подключиться к VPN, черeз приложение Amnezia, здесь собраны более подробные инструкции: подключение с помошью [QR-кода], [ключа в виде текста], [файла] , или через [альтернативные клиенты].
+>Пользователь, с которым вы поделились конфигурацией, сможет  подключиться к VPN, черeз приложение Amnezia, здесь собраны более подробные инструкции: подключение с помощью [QR-кода], [ключа в виде текста], [файла] , или через [альтернативные клиенты].
 
 Теперь если вы  кликните на значок “Поделиться” с главного экрана, вы сможете увидеть всех пользователей, с которыми вы поделились подключением.
 
@@ -58,13 +58,12 @@
 
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
-[about-int-link]: /about
-[QR-кода] ../instructions/05_qr-code_connection
-[файла] ../instructions/04_file-connection
-[альтернативные клиенты] ../instructions/27_alternetive_apk
-[FAQ]
-[телеграм чат] https://t.me/amnezia_vpn
-[другим разделам инструкции] ../instructions
+[QR-кода]: ../instructions/05_qr-code_connection
+[файла]: ../instructions/04_file-connection
+[альтернативные клиенты]: ../instructions/27_alternetive_apk
+[FAQ]: ../faq 
+[телеграм чат]: https://t.me/amnezia_vpn
+[другим разделам инструкции]: ../instructions
 
 
 
