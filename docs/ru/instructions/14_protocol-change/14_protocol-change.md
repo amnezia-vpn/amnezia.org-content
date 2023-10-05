@@ -37,9 +37,9 @@ OpenVPN, Wireguard, ShadowSocks IKv2 и OpenVPN с плагином  Cloak, бо
 [about-int-link]: /about  
 [FAQ]: ../faq
 [телеграм чат]: https://t.me/amnezia_vpn
-[описании протоколов] ../instructions/09_about_protocols
-[только для подключения] ../instructions/29_connection_access_only
-[подключитесь к собственному серверу] ../instructions/0_starter-guide
+[описании протоколов]: ../instructions/09_about_protocols
+[только для подключения]: ../instructions/29_connection_access_only
+[подключитесь к собственному серверу]: ../instructions/0_starter-guide
 
 
 

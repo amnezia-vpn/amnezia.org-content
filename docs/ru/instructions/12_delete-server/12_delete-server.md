@@ -30,7 +30,7 @@
 [about-int-link]: /about
 [FAQ]: ../faq
 [телеграм чат]: https://t.me/amnezia_vpn
-[другим разделам инструкции] ../instructions
+[другим разделам инструкции]: ../instructions
 
 
 

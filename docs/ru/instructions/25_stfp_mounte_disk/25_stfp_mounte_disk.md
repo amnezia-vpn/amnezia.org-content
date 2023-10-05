@@ -51,9 +51,13 @@ Amnezia смонтирует Диск на вашем устройстве, та
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/25_stfp_mounte_disk/img/stftpmd_ru_9.png)
 
+Если у вас остались вопросы, обратитесь к [FAQ], в наш [телеграм чат] или к [другим разделам инструкции]
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
+[FAQ]: ../faq
+[телеграм чат]: https://t.me/amnezia_vpn
+[другим разделам инструкции]: ../instructions
 [Как запустить свой VPN c помощью Amnezia]: https://amnezia-web-nx1r.vercel.app  
 [здесь]: https://codex.wordpress.org/ 
 [WinFsp]: https://github.com/winfsp/winfsp/releases/tag/v2.0

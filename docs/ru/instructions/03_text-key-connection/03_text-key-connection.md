@@ -66,6 +66,6 @@
 [FAQ]: /about 
 [телеграм чат]: https://t.me/amnezia_vpn
 [другим разделам инструкции]: ../instructions
-[файла] ../instructions/04_file-connection
-[ручная] ../instructions/02_manual-install
-[автоматическая] ../instructions/01_auto-install
+[файла]: ../instructions/04_file-connection
+[ручная]: ../instructions/02_manual-install
+[автоматическая]: ../instructions/01_auto-install

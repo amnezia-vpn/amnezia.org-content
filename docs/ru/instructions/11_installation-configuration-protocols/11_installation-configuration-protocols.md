@@ -65,7 +65,7 @@ Block DNS request outside of VPN - предотвращает утечку ад�
 [здесь]: ../instructions/14_protocol-change
 [FAQ]: ../faq 
 [телеграм чат]: https://t.me/amnezia_vpn
-[другим разделам инструкции] ../instructions
+[другим разделам инструкции]: ../instructions
 
 
 
