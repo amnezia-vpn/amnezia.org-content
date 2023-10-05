@@ -56,3 +56,4 @@
 [FAQ]: ../faq
 [телеграм чат]: https://t.me/amnezia_vpn
 [другим разделам инструкции]: ../instructions
+[смонтировать директорию]: ../instructions/24_stfp
