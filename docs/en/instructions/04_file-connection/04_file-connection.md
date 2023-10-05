@@ -47,7 +47,7 @@ Wait for Amnezia to configure your VPN.
 Click on the "Connect" button on the main screen.
 
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/04_file-connection/img/fc_en_6.pn)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/04_file-connection/img/fc_en_6.png)
 
 
 Now you can share your connection with other people, add and remove protocols, select exclusion sites, set your own DNS and much more... 

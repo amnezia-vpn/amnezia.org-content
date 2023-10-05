@@ -30,9 +30,9 @@
 [DNS-сервер]: ../instructions/06_change-dns
 [сайт в сети Tor]: ../instructions/23_create_site_tor
 [файловое хранилище]: ../instructions/04_file-connection
-[FAQ] ../FAQ
-[телеграм чат] https://t.me/amnezia_vpn
-[другим разделам инструкции] ../instructions/
+[FAQ]: ../FAQ
+[телеграм чат]: https://t.me/amnezia_vpn
+[другим разделам инструкции]: ../instructions/
 
 
 
