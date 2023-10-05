@@ -21,7 +21,7 @@
 
 ## Выберете тип данных, который у вас есть. 
 
- В этом руководстве мы рассмотрим вариант подключения через QR-код., поэтому выбираем "QR-код. ключ или файл настроек”
+ В этом руководстве мы рассмотрим вариант подключения через QR-код, поэтому выбираем "QR-код, ключ или файл настроек”
 
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/05_qr-code_connection/img/qrc_ru_2.png)
