@@ -3,9 +3,10 @@
 
 To create your own VPN, buy a virtual VPS server. For step-by-step instructions on how to buy a VPS from some of the popular hosting providers, see [How to run your VPN with Amnezia].  
 
+If your connection data has been shared with you in the form of a [file], [text key], or [qr code], you do not need to buy a server, please refer to the relevant instructions .
+
 > Amnezia works with any server running Ubuntu (officially supported version is 20.04), Debian 10 is also supported.
 
- *If another Amnezia user has shared the connection data with you, you do not need to buy a server.
 
 &nbsp;
 
@@ -25,7 +26,7 @@ Install the Amnezia app
 > If you purchased VPS for Amnezia from Inferno solution, instead of IP login and password you may be sent a key in the form of text in the following format VPN:///ue34nf\feh......
 In this case, please refer to the instructions [Connect via text key].
 
-If other Amnezia users have shared the connection with you, please refer to the sections: connecting with a [QR code], [file] , or [key in text].    
+
 
 &nbsp;
 
@@ -87,15 +88,15 @@ Click on the **“Connect”** button.
 
 
 Now you can share your connection with other people, add and remove protocols, select exclusion sites, set your own DNS and much more... 
-If you still have questions, check out the [FAQ], our [Telegram chat] or other [sections of the manual]
+If you still have questions, check out the [FAQ], our [Telegram chat] or [other sections of the manual]
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
-[How to run your VPN with Amnezia]: https://amnezia-web-nx1r.vercel.app
-[QR code]
-[file]
-[key in text]
-[here]
-[FAQ]
-[Telegram chat]
-[sections of the manual]
+[How to run your VPN with Amnezia]: ../instructions/0_starter-guide
+[here]: ../instructions/09_about_protocols
+[FAQ]: ../faq
+[Telegram chat]: https://t.me/amnezia_vpn_en
+[other sections of the manual]: ../instructions
+[file]: ../instructions/04_file-connection
+[key in text]: ../instructions/03_text-key-connection
+[QR code]: ../instructions/05_qr-code_connection

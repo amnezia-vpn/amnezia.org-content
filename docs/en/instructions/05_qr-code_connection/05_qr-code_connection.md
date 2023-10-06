@@ -51,11 +51,11 @@ If you still have questions, please refer to the [FAQ], our [Telegram chat] or [
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app\
 [about-int-link]: /about
-[file]: /about
-[key in the form of text]: /about
-[manual]
-[automatic installation]
-[FAQ]
-[Telegram chat]
-[other sections of the manual]
+[file]: ../instructions/04_file-connection
+[key in the form of text]: ../instructions/03_text-key-connection
+[manual]: ../instructions/02_manual-install
+[automatic installation]: ../instructions/01_auto-install
+[FAQ]: /faq
+[Telegram chat]: https://t.me/amnezia_vpn_en
+[other sections of the manual]: ../instructions
 

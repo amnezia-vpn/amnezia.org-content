@@ -52,15 +52,18 @@ Click the "Connect" button.
 
 
 Now you can share your connection with other people, add and remove protocols, select exclusion sites, set your own DNS and much more.... 
-If you still have questions, check out the [FAQ], our  [Telegram chat] or other [sections of the instructions]
+If you still have questions, check out the [FAQ], our  [Telegram chat] or [other sections of the instructions]
 
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
-[QR code]
-[file]
-[manual]
-[automatic installation]
-[FAQ]
-[Telegram chat] 
-[sections of the instructions]
+[QR code]: ../instructions/05_qr-code_connection
+[file]: ../instructions/04_file-connection
+[manual]: ../instructions/02_manual-install
+[automatic installation]: ../instructions/01_auto-install
+[FAQ]: ../faq
+[Telegram chat]: https://t.me/amnezia_vpn_en
+[other sections of the instructions]: ../instructions
+
+
+

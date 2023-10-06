@@ -24,7 +24,7 @@
 
 ## Выберете  тип данных, который у вас есть. 
 
-В этой инструкции мы рассмотрим подключение через файл c конфигурацией, поэтому выбираем “QR-код. ключ или файл настроек”
+В этой инструкции мы рассмотрим подключение через файл c конфигурацией, поэтому выбираем “QR-код, ключ или файл настроек”
 
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/04_file-connection/img/fc_ru_2.png)
@@ -36,7 +36,7 @@
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/04_file-connection/img/fc_ru_3.png)
 
 Здесь вы можете посмотреть соделжимое файла
-Далее нажмите “Подключиться” 
+далее нажмите “Подключиться” 
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/04_file-connection/img/fc_ru_4.png)
 

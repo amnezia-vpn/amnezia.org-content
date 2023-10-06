@@ -4,15 +4,16 @@
 To create your own VPN, you will need a VPS server. 
 For step-by-step instructions on how to purchase a VPS from some popular hosting providers, see [How to Start Your VPN with Amnezia].
 
+If your connection data has been shared with you in the form of a [file], [text key], or [qr code], you do not need to buy a server, please refer to the relevant instructions .
+
 > Amnezia works with any servers running Ubuntu (officially supported version is 20.04), Debian 10 is also supported.
 
-If another Amnezia user has shared their connection data with you, you do not need to buy a server.
 
 &nbsp;
 
 ### Install the Amnezia app
 
-On the first screen, the application will ask for your connection details.  These are the details of your VPS server. Hosting providers will send them to your mail after you buy a VPS.  In the email you will find
+On the first screen, the application will ask for your connection details. These are the details of your VPS server. Hosting providers will send them to your mail after you buy a VPS. In the email you will find
 
 - **IP** : 192.565.ххx.xxx
 - **Username** : root  (or other)
@@ -23,11 +24,10 @@ Select "I have data to connect".
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/01_auto-install/img/ai_en_1.png)
 
-> If you purchased VPS for Amnezia from Inferno solution, instead of IP login and password you may be sent a key in the form of text in the following format VPN:///ue34nf\feh......
+>If you purchased VPS for Amnezia from Inferno solution, instead of IP login and password you may be sent a key in the form of text in the following format VPN:///ue34nf\feh......
 >In this case, please refer to the instructions [Connect via text key]
 
->If other Amnezia users have shared the connection with you, please refer to the sections: connecting with a [QR code], [file] , or [key in text]..    
-
+ 
 
 &nbsp;
 
@@ -47,9 +47,11 @@ Enter IP login and password from VPS-server, click "Continue".
 ![instruction2](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/01_auto-install/img/ai_en_3.png)
 
 
->If you changed the port, specify it with a colon after the IP. 
->If your connection data does not include a login, leave root as the default. 
->Instead of a password, you can use an SSH key.
+If you changed the port, specify it with a colon after the IP. 
+
+If your connection data does not include a login, leave root as the default. 
+
+Instead of a password, you can use an SSH key.
 
 
 
@@ -85,9 +87,10 @@ Now you can share your connection with other people, add and remove protocols, s
 If you still have questions, check out the [FAQ], our [Telegram chat] or [other sections of the manual]..
 
 [How to Start Your VPN with Amnezia]: ../instructions/starter-guide
-[file]: /about
-[QR code]: /about
-[key in text]: /about
-[FAQ]
-[Telegram chat]
-[other sections of the manual]
+[file]: ../instructions/04_file-connection
+[QR code]: ../instructions/05_qr-code_connection
+[key in text]: ../instructions/03_text-key-connection
+[FAQ]: ../faq
+[Telegram chat]: https://t.me/amnezia_vpn_en
+[other sections of the manual]: ../instructions
+[Connect via text key]: ../instructions/03_text-key-connection

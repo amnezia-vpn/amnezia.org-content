@@ -24,7 +24,7 @@ Select "I have data to connect".
 
 ## Select the type of data you have. 
 
-In this instruction we will consider connection via a configuration file, so select "QR code. key or configuration file"
+In this instruction we will consider connection via a configuration file, so select "QR code key or configuration file"
 
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/04_file-connection/img/fc_en_2.png)
@@ -55,11 +55,11 @@ If you still have questions, check out the [FAQ], our [Telegram chat] or [other 
 
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
-[QR code]: /about
-[text key]: /about
-[manual]: /about 
-[FAQ]: /about 
-[Telegram chat]: /about 
-[other sections of the manual]: /about
-
+[QR code]: ../instructions/05_qr-code_connection
+[text key]: ../instructions/03_text-key-connection
+[manual]: ../instructions/02_manual-install
+[FAQ]: /faq
+[Telegram chat]: https://t.me/amnezia_vpn_en
+[other sections of the manual]: ../instructions
+[automatic installation]: ../instructions/01_auto-install
 
