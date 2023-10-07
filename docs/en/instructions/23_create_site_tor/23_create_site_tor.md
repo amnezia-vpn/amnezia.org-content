@@ -55,11 +55,16 @@ You have logged into the console to create websites using the WordPress builder,
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/23_create_site_tor/img/cst_en_11.png)\
 
+
+ If you still have questions, please refer to the [FAQ], our [Telegram chat] or [other sections of the manual]
+
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
 [Tor browser]: https://www.torproject.org/
 [here]: https://codex.wordpress.org/ 
-
+[FAQ]: ../faq
+[telegram chat]: https://t.me/amnezia_vpn_en
+[other sections of the manual]: ../instructions
 
 
 

@@ -38,13 +38,11 @@ You can also disable split tunneling by moving the orange switch in the upper ri
  If you still have questions, please refer to the [FAQ], our [Telegram chat] or [other sections of the manual]
 
 
-
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
-[FAQ]
-[Telegram chat]
-[other sections of the manual]
-
+[FAQ]: ../faq
+[telegram chat]: https://t.me/amnezia_vpn_en
+[other sections of the manual]: ../instructions
 
 
 

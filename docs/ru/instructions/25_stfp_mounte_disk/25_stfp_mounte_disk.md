@@ -58,7 +58,7 @@ Amnezia смонтирует Диск на вашем устройстве, та
 [FAQ]: ../faq
 [телеграм чат]: https://t.me/amnezia_vpn
 [другим разделам инструкции]: ../instructions
-[Как запустить свой VPN c помощью Amnezia]: https://amnezia-web-nx1r.vercel.app  
+ 
 [здесь]: https://codex.wordpress.org/ 
 [WinFsp]: https://github.com/winfsp/winfsp/releases/tag/v2.0
 [SSHFS-Win]: https://github.com/winfsp/sshfs-win/releases

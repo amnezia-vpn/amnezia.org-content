@@ -62,11 +62,12 @@ If you still have questions, please refer to the [FAQ], our [Telegram chat] or [
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
-[QR code]
-[text key]
-[file]
-[alternative clients]
-[FAQ]
-[Telegram chat]
-[other sections of the manual]
+[QR code] ../instructions/05_qr-code_connection
+[text key] ../instructions/03_text-key-connection
+[file] ../instructions/04_file-connection
+[alternative clients] ../instructions/27_alternetive_apk
+[FAQ]../faq 
+[Telegram chat] https://t.me/amnezia_vpn
+[other sections of the manual] ../instructions
+
 

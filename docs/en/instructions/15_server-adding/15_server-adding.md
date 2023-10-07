@@ -30,9 +30,10 @@ and connect via [file], [text key] или [QR code].
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
-[here]: /instructions/0_starter-guide
-[Automatic setup]
-[Manual setup]
-[file]
-[text key] 
-[QR code]
+[here]: ../instructions/13_select-server
+[Automatic setup]: ../instructions/01_auto-install
+[Manual setup]: ../instructions/02_manual-install
+[file]: ../instructions/04_file-connection
+[text key]: ../instructions/03_text-key-connection 
+[QR code]: ../instructions/05_qr-code_connection
+

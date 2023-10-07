@@ -48,7 +48,14 @@ extracted" - this means that the connection was successful and you can use the f
 
 > You can use file storage using FileZilla and other third-party applications, or you can [mount a directory] for storage on your computer. 
 
+ If you still have questions, please refer to the [FAQ], our [Telegram chat] or [other sections of the manual]
+
+
+
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
-[mount a directory]
-[FileZilla]
+[mount a directory]: ../instructions/24_stfp
+[FileZilla]: https://filezilla-project.org/
+[FAQ]: ../faq
+[Telegram chat]: https://t.me/amnezia_vpn_en
+[other sections of the manual]: ../instructions

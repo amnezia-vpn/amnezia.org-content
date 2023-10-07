@@ -14,7 +14,7 @@ as in the screenshot
 
 Select a protocol from the list
 
-> If the protocol you want to connect to is not in the list, it means that the configuration for connection [only was shared with you], request the configuration with the required protocols from the one who shared it
+> If the desired protocol is not in the list, it means that a [connect-only] configuration has been shared with you, request a configuration with the desired protocols from the person who shared it
 > with you, or [connect to your own server].
 
 
@@ -30,11 +30,13 @@ If you still have questions, please refer to the [FAQ], our [Telegram chat] or [
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
-[only was shared with you]
-[connect to your own server]
-[FAQ]
-[Telegram chat]
-[other sections of the manual]
+[connect-only]: /instructions/29_connection_access_only
+[connect to your own server]: ../instructions/0_starter-guide
+[FAQ] ../faq
+[Telegram chat]: https://t.me/amnezia_vpn_en
+[other sections of the manual]: ../instructions/
+
+
 
 
 

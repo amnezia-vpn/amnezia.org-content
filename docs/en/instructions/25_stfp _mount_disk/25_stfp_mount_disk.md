@@ -50,8 +50,17 @@ Amnezia will mount the Drive on your device, so you can access your storage with
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/25_stfp_mount_disk/img/stftpmd_en_9.png)
 
 
+ If you still have questions, please refer to the [FAQ], our [Telegram chat] or [other sections of the manual]
+
+
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
 [here]: https://codex.wordpress.org/ 
-[WinFsp] 
-[SSHFS-Win] 
+[WinFsp]: https://github.com/winfsp/winfsp/releases/tag/v2.0
+[SSHFS-Win]: https://github.com/winfsp/sshfs-win/releases
+[FAQ]: ../faq
+[Telegram chat]: https://t.me/amnezia_vpn_en
+[other sections of the manual]: ../instructions
+
+
+

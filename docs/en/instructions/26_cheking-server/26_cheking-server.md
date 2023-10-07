@@ -27,9 +27,9 @@ If you still have questions, please refer to the [FAQ], our [Telegram chat] or [
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
-[DNS server]
-[file storage]
-[Tor network site] 
-[FAQ]
-[Telegram chat]
-[other sections of the manual]
+[DNS server]: ../instructions/06_change-dns
+[file storage]: ../instructions/04_file-connection
+[Tor network site]: ../instructions/23_create_site_tor
+[FAQ]: ../faq
+[Telegram chat]: https://t.me/amnezia_vpn_en
+[other sections of the manual]: ../instructions/

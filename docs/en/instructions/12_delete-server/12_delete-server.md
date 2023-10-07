@@ -27,9 +27,10 @@ If you still have questions, please refer to the [FAQ], our [Telegram chat] or [
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
-[FAQ]
-[Telegram chat] 
-[other sections of the manual]
+[FAQ]: ../faq
+[Telegram chat]: https://t.me/amnezia_vpn_en 
+[other sections of the manual] ../instructions
+
 
 
 
