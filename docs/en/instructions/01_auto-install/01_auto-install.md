@@ -80,11 +80,11 @@ If you choose to configure VPN yourself, you will be offered a list of protocols
 
 Click on the **“Connect”** button. 
 
-![instruction6](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/01_auto-install/img/ai_en_6.png.png)
+![instruction6](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/01_auto-install/img/ai_en_6.png)
 
 Now you can share your connection with other people, add and remove protocols, select sites for which you want or don't want to use VPN, set your own DNS and much more.... 
 
-If you still have questions, check out the [FAQ], our [Telegram chat] or [other sections of the manual]..
+If you still have questions, check out the [FAQ], our [Telegram chat] or [other sections of the manual].
 
 [How to Start Your VPN with Amnezia]: ../instructions/starter-guide
 [file]: ../instructions/04_file-connection

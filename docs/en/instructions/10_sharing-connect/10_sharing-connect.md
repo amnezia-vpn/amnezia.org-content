@@ -38,7 +38,7 @@ Depending on the client for which you are creating the configuration, the file c
 
 **.vpn**  - for Amnezia \
 **.conf** - for "Wireguard \
-**.ovpn** - for OpenVPN \
+**.ovpn** - for OpenVPN 
 
 After selecting all the settings, click on the "Share" button.
 
