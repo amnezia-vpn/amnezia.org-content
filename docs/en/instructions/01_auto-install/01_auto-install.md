@@ -94,3 +94,4 @@ If you still have questions, check out the [FAQ], our [Telegram chat] or [other 
 [Telegram chat]: https://t.me/amnezia_vpn_en
 [other sections of the manual]: ../instructions
 [Connect via text key]: ../instructions/03_text-key-connection
+[text key]: ../instructions/03_text-key-connection

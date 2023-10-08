@@ -17,7 +17,7 @@
   {
     "title": "Connection with Key as text",
     "href": "../instructions/03_text-key-connection",
-    "subtext": "VPN:///ue34nf\feh....."
+    "subtext": "VPN:///ue34nffeh....."
   },
   {
     "title": "Connecting with a file",
@@ -79,7 +79,16 @@
     "href": "../instructions/15_server-adding",
     "subtext": "Connect to an unlimited number of servers"
   },
-
+  {
+    "title": "Allow screenshots",
+    "href": "../instructions/16_allow-screenshots",
+    "subtext": "By default, they're banned"
+  },
+  {
+    "title": "Application autostart",
+    "href": "../instructions/17_application-autostart",
+    "subtext": "Open Amnezia at device startup"
+  },
 
   {
     "title": "Changing languages",
