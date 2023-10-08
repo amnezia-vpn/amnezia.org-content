@@ -36,9 +36,9 @@ and use it in other clients, such as OpenVPN Wireguard Shadowsocks, etc..
 
 Depending on the client for which you are creating the configuration, the file can have formats: 
 
-**.vpn**  - for Amnezia 
-**.conf** - for "Wireguard
-**.ovpn** - for OpenVPN
+**.vpn**  - for Amnezia \
+**.conf** - for "Wireguard \
+**.ovpn** - for OpenVPN \
 
 After selecting all the settings, click on the "Share" button.
 
@@ -62,12 +62,12 @@ If you still have questions, please refer to the [FAQ], our [Telegram chat] or [
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
-[QR code] ../instructions/05_qr-code_connection
-[text key] ../instructions/03_text-key-connection
-[file] ../instructions/04_file-connection
-[alternative clients] ../instructions/27_alternetive_apk
-[FAQ]../faq 
-[Telegram chat] https://t.me/amnezia_vpn
-[other sections of the manual] ../instructions
+[QR code]: ../instructions/05_qr-code_connection
+[text key]: ../instructions/03_text-key-connection
+[file]: ../instructions/04_file-connection
+[alternative clients]: ../instructions/27_alternetive_apk
+[FAQ]: ../faq 
+[Telegram chat]: https://t.me/amnezia_vpn
+[other sections of the manual]: ../instructions
 
 

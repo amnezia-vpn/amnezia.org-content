@@ -22,9 +22,8 @@ Then follow the prompts of the application, or refer
 to the corresponding sections of the manual
 
 [Automatic setup], or [Manual setup] if you have an IP 
-login and password
 
-and connect via [file], [text key] или [QR code]. 
+login and password and connect via [file], [text key] или [QR code]. 
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/15_server-adding/img/sa_en_3.png)
 

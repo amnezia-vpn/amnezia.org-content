@@ -100,3 +100,4 @@ If you still have questions, check out the [FAQ], our [Telegram chat] or [other 
 [file]: ../instructions/04_file-connection
 [key in text]: ../instructions/03_text-key-connection
 [QR code]: ../instructions/05_qr-code_connection
+[text key]: ../instructions/03_text-key-connection

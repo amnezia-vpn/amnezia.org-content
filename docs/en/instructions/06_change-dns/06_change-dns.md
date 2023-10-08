@@ -30,26 +30,22 @@ On the Services tab, select Amnezia DNS.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/06_change-dns/img/cd_en_4.png)
 
-Here you can change the DNS servers to any of your own .
-
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/06_change-dns/img/cd_en_5.png)
-
 Click "Install" 
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/06_change-dns/img/cd_en_6.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/06_change-dns/img/cd_en_5.png)
 
 In the future you will be able to change your DNS server settings.
 To do this, open the home screen and click the settings icon in the lower right corner of the application.
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/06_change-dns/img/cd_en_7.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/06_change-dns/img/cd_en_6.png)
 
 Next, select the "Connection" section
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/06_change-dns/img/cd_en_8.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/06_change-dns/img/cd_en_7.png)
 
 Here you can select "Use Amnezia DNS" , or you can use other DNS servers.
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/06_change-dns/img/cd_en_9.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/06_change-dns/img/cd_en_8.png)
 
 
 If you still have questions, please refer to the [FAQ], our [Telegram chat] or [other sections of the manual]

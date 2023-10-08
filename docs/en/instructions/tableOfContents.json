@@ -84,11 +84,7 @@
     "href": "../instructions/16_allow-screenshots",
     "subtext": "Prohibited by default"
   },
-  {
-    "title": "Allow screen shots",
-    "href": "../instructions/17_application-autostart",
-    "subtext": "Open Amnezia at device startup"
-  },
+
   {
     "title": "Changing languages",
     "href": "../instructions/18_change_language",
@@ -126,7 +122,7 @@
   },
   {
     "title": "Mount a disk for STFP storage ",
-    "href": "../instructions/25_stfp _mount_disk",
+    "href": "../instructions/25_stfp_mount_disk",
     "subtext": "disk to use file storage without third-party software"
   },
   {

@@ -32,7 +32,7 @@ If you still have questions, please refer to the [FAQ], our [Telegram chat] or [
 [about-int-link]: /about
 [connect-only]: /instructions/29_connection_access_only
 [connect to your own server]: ../instructions/0_starter-guide
-[FAQ] ../faq
+[FAQ]: ../faq
 [Telegram chat]: https://t.me/amnezia_vpn_en
 [other sections of the manual]: ../instructions/
 

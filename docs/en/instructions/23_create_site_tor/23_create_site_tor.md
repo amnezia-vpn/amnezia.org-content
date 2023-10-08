@@ -26,7 +26,7 @@ On the Services tab, select "Tor network site".
 
 Click "Install."
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/223_create_site_tor/img/cst_en_5.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/23_create_site_tor/img/cst_en_5.png)
 
 # Site settings on the Tor network
 
@@ -49,11 +49,11 @@ Done! You have installed WordPress to create a website on the Tor network. Next,
 
 Enter the user name specified during registration and password
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/23_create_site_tor/img/cst_en_10.png)\
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/23_create_site_tor/img/cst_en_10.png)
 
 You have logged into the console to create websites using the WordPress builder, for more information on creating websites on WordPress click [here] 
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/23_create_site_tor/img/cst_en_11.png)\
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/23_create_site_tor/img/cst_en_11.png)
 
 
  If you still have questions, please refer to the [FAQ], our [Telegram chat] or [other sections of the manual]
