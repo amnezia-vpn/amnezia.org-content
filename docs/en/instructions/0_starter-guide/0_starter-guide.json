@@ -7,7 +7,7 @@
   "hostings":[
     {
       "recommend": true,
-      "logo": "/img/logos/vendor/inferno.svg",
+      "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/inferno/inferno.svg",
       "link": "https://inferno.name/",
       "desc": "The provider offers a promo code that grants a 75% discount on the first month's payment and generates a custom link specifically for AmneziaVPN. You can start using the VPN immediately after payment with easy one-click connectivity!",
       "serversLabel": "Servers",
