@@ -134,7 +134,7 @@
           "text": "Wait for the server to install  "
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/digital-ocean/do16f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/digital-ocean/do16screen.png",
           "text": "Install the Amnezia app and enter the connection data, then follow the prompts in the app, or go to the instructions section “Automatic installation”. "
         }
       ]
@@ -249,7 +249,7 @@
           "text": "Select the Instances tab on the left pane, then select your new server and click “Connect”, a window will open with the password for the server save it, the IP can be found in the bottom right corner as indicated in the screenshot, and as login use ubuntu or root. "
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws25f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws25screen.jpg",
           "text": "Install the AmneziaVPN app and enter the data you received, then follow the app's prompts or go to the instructions section “Automatic installation” "
         }
 
@@ -309,7 +309,7 @@
           "text": "You will receive a letter with data for connecting to your new server to the e-mail specified during registration. "
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu/cf11f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu/cf11screen.png",
           "text": "Install the Amnezia app and enter the connection data, then follow the prompts in the app, or go to the instructions section “Automatic installation”"
         }
 
@@ -416,7 +416,7 @@
           "text": " In the Cloud Servers tab select Dashboard, to the right of the CPU Load graph you will see the data to connect to the IPv4 server, the login is root and the password you can copy."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc7f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc7screen.jpg",
           "text": "Install the Amnezia app and enter the connection data, then follow the prompts in the app, or go to the instructions section “Automatic installation”"
         }
         
