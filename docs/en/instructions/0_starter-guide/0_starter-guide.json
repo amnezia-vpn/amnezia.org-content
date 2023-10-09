@@ -173,7 +173,7 @@
           "text": "Enter the text from the picture and click again “Verifi email addres”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws6f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws6f.png",
           "text": "An email with a code will be sent to the specified mail, enter the code in the line, click “Verify”"
         },
         {
@@ -194,7 +194,7 @@
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws11f.jpg",
-          "text": "Выберете уровень поддержки “Basic support - Free” , нажмите “Complete sing up”"
+          "text": "Select support level Basic support - Free , click Complete sing up"
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws12f.jpg",
@@ -213,11 +213,11 @@
           "text": "In the left pane, select the tab “Intances”. Click “Launch intances”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws16f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws16f.png",
           "text": "Choose OS, Officially supported version of Ubuntu 20.04 and Debian 10, in this case choose Ubuntu 20.04"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws17f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws17f.png",
           "text": "Select a variant suitable for free use with a green bar."
         },
         {
@@ -230,7 +230,7 @@
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws20f.jpg",
-          "text": "Этот шаг пропускаем “Next Configure Security Group”."
+          "text": "We skip this step “Next Configure Security Group”."
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws21f.jpg",
@@ -249,7 +249,7 @@
           "text": "Select the Instances tab on the left pane, then select your new server and click “Connect”, a window will open with the password for the server save it, the IP can be found in the bottom right corner as indicated in the screenshot, and as login use ubuntu or root. "
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws25screen.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws25screen.png",
           "text": "Install the AmneziaVPN app and enter the data you received, then follow the app's prompts or go to the instructions section “Automatic installation” "
         }
 
@@ -329,51 +329,51 @@
       "priceInfo": "Mastercard/Visa/MIR (Russian banks), Mastercard/Visa (Foreign banks) PayPal, SPB, Bank transfer for legal entities, Cashless payment for legal entities, QIWI, WebMoney, YouMoney, ApplePay, SamsungPay, GooglePay, Crypto Payment)  ",
       "steps": [
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pq1f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pq1f.png",
           "text": "“On the main page on the top panel select VPS/VDS server” ."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pq2f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pq2f.png",
           "text": "Select a server, click  “Order a server”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pq3f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pq3f.png",
           "text": "Enter the data"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pq4f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pq4f.png",
           "text": "Select OS, officially supported version is Ubuntu 20.04 , Debian 10, other settings can be left unchanged, add to cart."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pq5f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pq5f.png",
           "text": "Click “Cart”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pq6f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pq6f.png",
           "text": "Next, “Pay”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pq7f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pq7f.png",
           "text": "Choose the most suitable payment method."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pq8f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pq8f.png",
           "text": "Select a country, click next "
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pq9f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pq9f.png",
           "text": " in the Contact person column specify the first and last name, fill in the actual address, click “next”, in the next window confirm the payment."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pq10f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pq10f.png",
           "text": "In your personal cabinet in the menu on the left in the column Virtual Servers you will see your server data and a notification that the service is ready for use, click on the notification."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pq11f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pq11f.png",
           "text": "The notification will have a box with IP address, user and password. To connect to the VPN we need these data. "
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pq12screen.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pq12screen.png",
           "text": "Install the Amnezia app and enter the connection data, then follow the prompts in the app, or go to the instructions section “Automatic installation”. "
         }
       ] 
@@ -392,31 +392,31 @@
       "priceInfo": "Mastercard/Visa/MIR (Russian banks),Mastercard/Visa (foreign banks), UMoneu, Account, Receipt, QIWI, Pay ",
       "steps": [
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc1f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc1f.png",
           "text": "Enter your e-mail address, click “Create Account"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc2f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc2f.png",
           "text": "Choose Ubuntu 20.04, or Debian 10, choose the country of the server location, to bypass blocking inside Russia choose a server outside Russia, click “Заказать”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc3f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc3f.png",
           "text": "Choose the cheapest tariff, click on “Order”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc4f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc4f.png",
           "text": "Choose a payment method, click “Pay”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc5f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc5f.png",
           "text": "Select the tab “Cloud servers”, wait until the server configuration is complete"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc6f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc6f.png",
           "text": " In the Cloud Servers tab select Dashboard, to the right of the CPU Load graph you will see the data to connect to the IPv4 server, the login is root and the password you can copy."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc7screen.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc7screen.png",
           "text": "Install the Amnezia app and enter the connection data, then follow the prompts in the app, or go to the instructions section “Automatic installation”"
         }
         
