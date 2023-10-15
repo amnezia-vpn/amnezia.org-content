@@ -11,7 +11,8 @@
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/13_select-server/img/ss_ru_1.png)
 
 Выберете сервер. Если название сервера стало оранжевым, значит сервер выбран . 
-Вернитесь  на главный экран, нажмите “Подключиться”
+Вернитесь  на главный экран, нажмите “Подключиться”.
+Вы так же модете выбрать протокол
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/13_select-server/img/ss_ru_2.png)
 

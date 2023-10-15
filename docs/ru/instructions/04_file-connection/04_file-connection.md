@@ -56,8 +56,6 @@
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
-[Как запустить свой VPN c помощью Amnezia]: ../instructions/0_starter-guide
-[файл]: ../instructions/04_file-connection
 [QR-кода]: ../instructions/05_qr-code_connection
 [ключа в виде текста]: ../instructions/03_text-key-connection
 [FAQ]: /about 

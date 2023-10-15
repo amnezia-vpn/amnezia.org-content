@@ -57,8 +57,7 @@ Amnezia смонтирует Диск на вашем устройстве, та
 [about-int-link]: /about
 [FAQ]: ../faq
 [телеграм чат]: https://t.me/amnezia_vpn
-[другим разделам инструкции]: ../instructions
- 
+[другим разделам инструкции]: ../instructions 
 [здесь]: https://codex.wordpress.org/ 
 [WinFsp]: https://github.com/winfsp/winfsp/releases/tag/v2.0
 [SSHFS-Win]: https://github.com/winfsp/sshfs-win/releases
