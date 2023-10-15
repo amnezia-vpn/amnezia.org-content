@@ -380,7 +380,7 @@
     },
     {
       "recommend": false,
-      "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/timeweb/timeweb-logo.png",
+      "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/timeweb/timeweb_logo.png",
       "link": "https://timeweb.cloud/",
       "desc": "Payment by Russian cards is possible.",
       "serversLabel": "Servers",
