@@ -209,7 +209,7 @@
           "text": "Select the country to which your server will be located. "
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aws/aws15f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aws/aws15f.jpg",
           "text": "In the left pane, select the tab “Intances”. Click “Launch intances”"
         },
         {
@@ -281,7 +281,7 @@
           "text": "Think of a hosting name and enter it on the line “Hostname”, create a password and enter it in the “root Password”, choose an operating system, officially supported by Ubuntu 20.04, Debian 10"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/cinfu/cinf4f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/cinfu/cinf1f.png",
           "text": "Click on “Checkout”"
         },
         {
