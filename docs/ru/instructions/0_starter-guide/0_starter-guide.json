@@ -309,7 +309,7 @@
           "text": "На указанную при регитсрации почту Вам придет письмо с данными для подключения к Вашему новому серверу. "
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cin11f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf11screen.png",
           "text": "Установите приложение Amnezia и внесите данные для подключения, далее следуйте подсказка в приложении, или зайдите в раздел инструкций “Автоматическая установка”"
         }
 
@@ -373,7 +373,7 @@
           "text": "В уведомлении будет графа с IP адресом, пользователем и паролем. Для VPN нам нужны только эти данные. "
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pq12screen.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pqh12screen.jpg",
           "text": "Установите приложение AmneziaVPN и внесите полученные данные, далее следуйте подсказкам приложения, или зайдите в раздел инструкций “Автоматическая установка” "
         }
       ] 
