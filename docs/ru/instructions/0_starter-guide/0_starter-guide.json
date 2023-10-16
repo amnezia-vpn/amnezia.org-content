@@ -19,43 +19,43 @@
       "priceInfo": "Доступна оплата картами РФ, Mastercard/Visa, PayPal, Bitcoin, ЮMoney, МИР, Qiwi, RBK.money, Advcash, Связной, Beeline, Payeer, IBOX, PaySera.",
       "steps": [
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guideimg/inferno1/if1f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/inferno1/if1f.png",
           "text": "На главной странице, пролистайте вниз до конца, выберете “Персональный VPN/socks сервис”."
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/inferno1/if2f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/inferno1/if2f.png",
           "text": "Выберете страну , нажмите “Обновить корзину”."
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/inferno1/if3f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/inferno1/if3f.png",
           "text": "Введите промокод Amnezia, нажмите применить, далее нажмите “Перейти к оплате”"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/inferno1/if4f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/inferno1/if4f.png",
           "text": "Заполните поля"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/inferno1/if5f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/inferno1/if5f.png",
           "text": "На том же экране выберете способ оплаты, поставьте галочки, нажмите “Завершить заказ” "
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/inferno1/if6f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/inferno1/if6f.png",
           "text": "В верхнем левом углу нажмите “Оплатить”"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/inferno1/if7f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/inferno1/if7f.png",
           "text": "Если оплата прошла успешно, появится номер заказа. Войдите в “Панель клиента”. "
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/inferno1/if8f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/inferno1/if8f.png",
           "text": "Статус вашего сервера должен быть “Активный”."
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/inferno1/if9f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/inferno1/if9f.png",
           "text": "Зайдите на почту указанную при регистрации, прийдет письмо с данными вашего сервера. Это будет код для автоматической настройки и поключения VPN. "
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/inferno1/if10f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/inferno1/if10f.png",
           "text": "Установите приложение AmneziaVPN и внесите полученне данные, далее следуйте подсказкам приложения, или зайдите в раздел инструкций установка с помощью ключа в виде текста. "
         }
       ] 
@@ -74,67 +74,67 @@
       "priceInfo": "Mastercard/Visa (иностранные банки), PayPal",
       "steps": [
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/digital-ocean/do1f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/digital-ocean/do1f.png",
           "text": "На главном экране во вкладке “Solutions выберете VPS Hosting”."
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/digital-ocean/do2f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/digital-ocean/do2f.png",
           "text": "Нажмите “Get Started”."
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/digital-ocean/do3f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/digital-ocean/do3f.png",
           "text": "Выберете - “Зарегистрироваться с помощью почты.”"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/digital-ocean/do4f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/digital-ocean/do4f.png",
           "text": "Введите почту, придумайте пароль"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/digital-ocean/do5f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/digital-ocean/do5f.png",
           "text": "Зайдите на почту, подтвердите регистрацию "
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/digital-ocean/do6f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/digital-ocean/do6f.png",
           "text": "Далее вас попросят ответить на 4 вопроса, выберете любые ответы"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/digital-ocean/do7f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/digital-ocean/do7f.png",
           "text": "Добавьте карту или PayPal "
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/digital-ocean/do8f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/digital-ocean/do8f.png",
           "text": "Внесите платежные данные, нажмите “Save payment method” "
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guideimg/digital-ocean/do9f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/digital-ocean/do9f.png",
           "text": "После успешного добавления карты вам снова предложат выбрать услугу, выбираем “Deploy a virtual machine” "
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/digital-ocean/do10f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/digital-ocean/do10f.png",
           "text": "Выбираем ОС Ubuntu 20.04, или Debian 10, тарифный план “Basic”"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/digital-ocean/do11f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/digital-ocean/do11f.png",
           "text": "Выбираем “Regular Intel with SSD”, самый дешевый тариф"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/digital-ocean/do12f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/digital-ocean/do12f.png",
           "text": "И местанахождение сервера"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/digital-ocean/do13f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/digital-ocean/do13f.png",
           "text": "Способом аутентификации выбираем пароль, его нужно придумать."
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/digital-ocean/do14f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/digital-ocean/do14f.png",
           "text": "После установки в разделе “Resources” появятся данные для подключения: IP, login и Password. Это данные для подключения к вашему новому серверу. "
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/digital-ocean/do15f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/digital-ocean/do15f.png",
           "text": "Дождитесь установки сервера"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/digital-ocean/do16screen.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/digital-ocean/do16screen.png",
           "text": "Установите приложение Amnezia и внесите данные для подключения, далее следуйте подсказкам в приложении, или зайдите в раздел инструкций “Автоматическая установка”. "
         }
       ]
@@ -153,103 +153,103 @@
       "priceInfo": "Mastercard/Visa(иностранные банки), PayPal Cash Card",
       "steps": [
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aws/aws1f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws1f.jpg",
           "text": "Выберете вкладку “Product” далее “Featured Services” “Amazon VPS”"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aws/aws2f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws2f.jpg",
           "text": "Нажмите “Complete Sign Up” "
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aws/aws3f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws3f.jpg",
           "text": "Выберете “Root user” нажмите “Next”"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aws/aws4f.png.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws4f.jpg",
           "text": "Добавьте вашу почту, и придумайте имя совего амазон аккаунта, далее кликните “Verifi email addres”"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aws/aws5f.png.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws5f.jpg",
           "text": "Введите  текст с картинки снова кликните “Verifi email addres”"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aws/aws6f.png.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws6f.png",
           "text": "На указанную почту придет письмо с кодом, введите код в строку, кликните “Verify”"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aws/aws7f.png.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws7f.jpg",
           "text": "Придумайте пароль"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aws/aws8f.png.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws8f.jpg",
           "text": "Внесите данные для регистрации, нажмите “Continue”"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aws/aws9f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws9f.jpg",
           "text": "Внесите платежные данные и платежный адрес. Amazon не принимает российские карты"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aws/aws10f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws10f.jpg",
           "text": "Добавьте номер телефона, нажмите “Send SMS”, внесите данные из SMS ."
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aws/aws11f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws11f.jpg",
           "text": "Выберете уровень поддержки “Basic support - Free” , нажмите “Complete sing up”"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aws/aws12f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws12f.jpg",
           "text": "Перейдите в консоль , нажмите “Go to the AWS Managment Console”"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aws/aws13f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws13f.jpg",
           "text": "После входа в личный кабинет, на верхней панели выберете вкладку “Services”, далее “All services” и “EC2”"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aws/aws14f.png.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws14f.jpg",
           "text": "Выберете страну, к которой будет находиться ваш сервер. "
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aws/aws15f.png.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws15f.jpg",
           "text": "На левой панели выберете вкладку “Intances”. Нажмите “Launch intances”"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aws/aws16f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws16f.png",
           "text": "Выберете ОС, Официально поддерживаемая версия Ubuntu 20.04 и Debian 10,в данном случае выберем Ubuntu 20.04"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aws/aws17f.png.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws17f.png",
           "text": "Выберете вариант подходящий под условия бесплатного использования с зеленой плашкой."
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aws/aws18f.png.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws18f.jpg",
           "text": "Оставьте значения по умолчанию, нажмите “Next: Add Storage”."
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aws/aws19f",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws19f.jpg",
           "text": "Далее в столбец Size увеличиваем дисковое простарнство до 30 Гб, нажимаем “Next: Add tags”"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aws/aws20f",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws20f.jpg",
           "text": "Этот шаг пропускаем “Next Configure Security Group”."
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aws/aws21f",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws21f.jpg",
           "text": "Здесь необходимо открыть используемые для VPN порты. Впишите их так как изображено на скриншоте."
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aws/aws22f",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws22f.jpg",
           "text": "Завершающий шаг: нажмите “Launch”"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aws/aws23f",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws23f.jpg",
           "text": "Здесь нужно создать пару ключей для последующего удаленного доступа к VPS, выберете “Create a new key pair”, дайте им название и нажмите “Download Key Pair” , далее “Launch Instances”."
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aws/aws24f",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws24f.jpg",
           "text": "Выберете вкладку Instances на левой панели, далее выберете ваш новый сервер и нажмите “Connect”, откроется окно с паролем для сервера сохраните его, IP можно в найти парвом нижнем углу, как указано на скриншоте, а в качестве логина используйте ubuntu или root. "
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aws/aws25f",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws25screen.png",
           "text": "Установите приложение AmneziaVPN и внесите полученнье данные, далее следуйте подсказкам приложения, или зайдите в раздел инструкций “Автоматическая установка” "
         }
 
@@ -262,54 +262,54 @@
       "desc": "Провайдер не поддерживает оплату Российскими картами..",
       "serversLabel": "Серверы",
       "serversText": "США, Болгария, Франция, Германия, Нидерланды",
-      "legalAddressLabel": "Юридический адрес",
+      "legalAddressLabel": "Юридический адрес", 
       "legalAddressText": "Сейшельские острова",
       "priceLabel": "Оплата",
       "priceText": "от $5/мес",
       "priceInfo": "Mastercard/Visa(иностранные банки), PayPal, AdvCash Mir, Skril, Litecoin, Ethereum & other Cryptocurrencies, Paxum, EpayFasaPay, NixMoney, Bitcoin, Brick (Powered by Paymentwall), Paymentwall, Payeer (30+ other payment option) ",
       "steps": [
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/cinfu/CF1f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf1f.png",
           "text": "Выберете страну приобретаемого сервера."
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/cinfu/CF2f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf2f.png",
           "text": "Выберете тариф"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/cinfu/CF3f",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf3f.png",
           "text": "Придумайте имя хостинга и внесите в строку “Hostname”, придумайте и введите пароль в строку “root Password”, выберете операционную систему, официально поддерживается Ubuntu 20.04, Debian 10"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/cinfu/CF4f",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf4f.png",
           "text": "Нажмите на “Checkout”"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/cinfu/CF5f",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf5f.png",
           "text": "Заполните данные, придумайте пароль"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/cinfu/CF6f",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf6f.png",
           "text": "Выберете способ оплаты, поставьте галочку и завершите заказа “Complete Order”"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/cinfu/CF7f",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf7f.png",
           "text": "Оплатите сервер, нажмите на “Make One off Payment”"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/cinfu/CF8f",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf8f.png",
           "text": "Если оплата прошла успешно, вы увидите номер вашего заказа, нажмите “Continue To Client Area”"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/cinfu/CF9f",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf9f.png",
           "text": "В разделе “My Products & Services” статус вашего сервера должен поменять на “active”, это может занять некоторое время."
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/cinfu/CF10f",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf10f.png",
           "text": "На указанную при регитсрации почту Вам придет письмо с данными для подключения к Вашему новому серверу. "
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/cinfu/cf11screen",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cin11f.png",
           "text": "Установите приложение Amnezia и внесите данные для подключения, далее следуйте подсказка в приложении, или зайдите в раздел инструкций “Автоматическая установка”"
         }
 
@@ -329,51 +329,51 @@
       "priceInfo": "Mastercard/Visa/МИР (Российские банки), Mastercard/Visa (Иностранные банки) PayPal, СПБ, Банковский перевод для Юр. Лиц, Безналичный расчет для Юр. Лиц, QIWI, WebMoney, ЮMoney, ApplePay, SamsungPay, GooglePay, Crypto Payment)  ",
       "steps": [
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/pq-hosting/PQ1f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pqh1f.png",
           "text": "“На главной странице на верхней панели выберете VPS/VDS server” ."
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/pq-hosting/PQ2f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pqh2f.png",
           "text": "Выберете сервер, клините “Order a server”"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/pq-hosting/PQ3f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pqh3f.png",
           "text": "Внесите данные"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/pq-hosting/PQ4f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pqh4f.png",
           "text": "Выберете ОС, официально поддерживаемая версия Ubuntu 20.04 , Debian 10, остальные настройки можно оставить без изменений, добавьте в корзину."
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/pq-hosting/PQ5f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pqh5f.png",
           "text": "Нажмите “В корзину”"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/pq-hosting/PQ6f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pqh6f.png",
           "text": "Далее “Оплатить”"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/pq-hosting/PQ7f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pqh7f.png",
           "text": "Выберете наиболее подходящий метод отплаты."
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/pq-hosting/PQ8f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pqh8f.png",
           "text": "Выбрете страну, нажмите далее "
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/pq-hosting/PQ9f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pqh9f.png",
           "text": "В статусе плательщика выберете “Физическо лицо”, в графе Контактное лицо укажите имя и фамилию, заполните фактический адрес, нажмите кнопку “далее”, в следующем окне подтвердите оплату."
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/pq-hosting/PQ10f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pqh10f.png",
           "text": "В личном кабинете в меню слева в графе виртуальные серверы вы увидите данные вашего сервера и уведомление что услуга готова к использвоанию, кликните на уведомление."
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/pq-hosting/PQ11f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pqh11f.png",
           "text": "В уведомлении будет графа с IP адресом, пользователем и паролем. Для VPN нам нужны только эти данные. "
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/pq-hosting/PQ12screen.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pq12screen.png",
           "text": "Установите приложение AmneziaVPN и внесите полученные данные, далее следуйте подсказкам приложения, или зайдите в раздел инструкций “Автоматическая установка” "
         }
       ] 
@@ -392,31 +392,31 @@
       "priceInfo": "Mastercard/Visa/МИР (Российские банки),Mastercard/Visa(иностранные банки), ЮMoney, Счет, Квитанция, QIWI, Pay ",
       "steps": [
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/timeweb/twc1f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc1f.png",
           "text": "Введите e-mail , нажмите “Создать аккаунт”"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/timeweb/twc2f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc2f.png",
           "text": "Выберете Ubuntu 20.04, или Debian 10, выберете страну расположения сервера, чтобы обходить блокировки внутри России выбирайте сервер за пределами России, нажмите “Заказать”"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/timeweb/twc3f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc3f.png",
           "text": "Выберете самый дешевый тариф, кликните “Заказать”"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/timeweb/twc4f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc4f.png",
           "text": "Выберте способ оплаты, кликните “Оплатить”"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/timeweb/twc5f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc5f.png",
           "text": "Выберете вкладку “Облачные серверы”, дождитесь пока закончится настройка сервера"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/timeweb/twc6f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc6f.png",
           "text": " Во вкладке “Облачные серверы” выберете Дашборд, справа от графика “Нагрузка процессора” Вы увидите данные для подключения к серверу IPv4, логин - root и пароль, который можно скопировать."
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/timeweb/twc7screen.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc7screen.png",
           "text": "Установите приложение AmneziaVPN и внесите полученные данные, далее следуйте подсказкам приложения, или зайдите в раздел инструкций “Автоматическая установка”"
         }
         
@@ -436,47 +436,47 @@
       "priceInfo": "Mastercard/Visa/МИР (Российские банки),Mastercard/Visa/МИР (Украина), Mastercard/Visa(иностранные банки), Tinkoff Pay, СПБ, Yandex Pay, Steam Pay, FKWallet RUB/USD, QIWI, LAVA, QMoney, Perfect Money USD, WebMoney, Crypto Payment ",
       "steps": [
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aeza/aeza_1.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aeza/aeza_ru_1.png",
           "text": "Регистрируемся на сайте"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aeza/aeza_2.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aeza/aeza_ru_2.png",
           "text": "Вставляем e-mail в строку"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aeza/aeza_3png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aeza/aeza_ru_3.png",
           "text": "Подтверждаем регистрацию"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aeza/aeza_4.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aeza/aeza_ru_4.png",
           "text": "Выбираем Виртуальный сервер "
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aeza/aeza_5.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aeza/aeza_ru_5.png",
           "text": "Выбираем страну сервера отличную от вашей и самый дешевый тариф"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aeza/aeza_6.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aeza/aeza_ru_6.png",
           "text": "Выбираем Ubuntu 20.04, отключаем Бэкапы и автопродление, нажимаем Оплатить"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aeza/aeza_7.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aeza/aeza_ru_7.png",
           "text": "Выбираем метод оплаты."
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aeza/aeza_8.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aeza/aeza_ru_8.png",
           "text": "Если оплата прошла успешно, появится IP адрес, а состояние изменится на Активен "
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aeza/aeza_9.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aeza/aeza_ru_9.png",
           "text": "Нажмите на имя сервера"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aeza/aeza_10.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aeza/aeza_ru_10.png",
           "text": "Тут нам нужны имя пользователя, пароль и IP"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/aeza/aeza_10.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aeza/aeza_ru_11.png",
           "text": "Установите приложение AmneziaVPN и внесите полученные данные, далее следуйте подсказкам приложения, или зайдите в раздел инструкций Автоматическая установка"
         }
         
