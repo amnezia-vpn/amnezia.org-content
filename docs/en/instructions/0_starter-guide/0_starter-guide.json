@@ -48,7 +48,7 @@
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/inferno1/if8f.png",
-          "text": "Статус вашего сервера должен быть “Активный”."
+          "text": "Your server status should be 'Active'"
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/inferno1/if9f.png",
@@ -177,39 +177,39 @@
           "text": "An email with a code will be sent to the specified mail, enter the code in the line, click “Verify”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aws/aws7f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aws/aws7f.png",
           "text": "Create a password"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aws/aws8f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aws/aws8f.png",
           "text": "Enter your registration details, click “Continue”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aws/aws9f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aws/aws9f.png",
           "text": "Enter your payment details and payment address."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aws/aws10f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aws/aws10f.png",
           "text": "Add a phone number, press “Send SMS”, enter data from SMS."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aws/aws11f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aws/aws11f.png",
           "text": "Select support level Basic support - Free , click Complete sing up"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aws/aws12f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aws/aws12f.png",
           "text": "Go to the console , click “Go to the AWS Managment Console”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aws/aws13f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aws/aws13f.png",
           "text": "After logging in to your personal cabinet, on the top panel select the tab “Services”, then “All services” and “EC2”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aws/aws14f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aws/aws14f.png",
           "text": "Select the country to which your server will be located. "
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aws/aws15f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aws/aws15f.png",
           "text": "In the left pane, select the tab “Intances”. Click “Launch intances”"
         },
         {
@@ -373,7 +373,7 @@
           "text": "The notification will have a box with IP address, user and password. To connect to the VPN we need these data. "
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pqh12screen.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pqh12screen.jpg",
           "text": "Install the Amnezia app and enter the connection data, then follow the prompts in the app, or go to the instructions section “Automatic installation”. "
         }
       ] 
