@@ -19,43 +19,43 @@
       "priceInfo": "Доступна оплата картами РФ, Mastercard/Visa, PayPal, Bitcoin, ЮMoney, МИР, Qiwi, RBK.money, Advcash, Связной, Beeline, Payeer, IBOX, PaySera.",
       "steps": [
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guideimg/inferno/if1f.png",
+          "image": "https://ru.amnezia.org/img/instructions/0_starter-guideimg/inferno1/if1f.png",
           "text": "На главной странице, пролистайте вниз до конца, выберете “Персональный VPN/socks сервис”."
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/inferno/if2f.png",
+          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/inferno1/if2f.png",
           "text": "Выберете страну , нажмите “Обновить корзину”."
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/inferno/if3f.png",
+          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/inferno1/if3f.png",
           "text": "Введите промокод Amnezia, нажмите применить, далее нажмите “Перейти к оплате”"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/inferno/if4f.png",
+          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/inferno1/if4f.png",
           "text": "Заполните поля"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/inferno/if5f.png",
+          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/inferno1/if5f.png",
           "text": "На том же экране выберете способ оплаты, поставьте галочки, нажмите “Завершить заказ” "
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/inferno/if6f.png",
+          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/inferno1/if6f.png",
           "text": "В верхнем левом углу нажмите “Оплатить”"
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/inferno/if7f.png",
+          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/inferno1/if7f.png",
           "text": "Если оплата прошла успешно, появится номер заказа. Войдите в “Панель клиента”. "
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/inferno/if8f.png",
+          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/inferno1/if8f.png",
           "text": "Статус вашего сервера должен быть “Активный”."
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/inferno/if9f.png",
+          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/inferno1/if9f.png",
           "text": "Зайдите на почту указанную при регистрации, прийдет письмо с данными вашего сервера. Это будет код для автоматической настройки и поключения VPN. "
         },
         {
-          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/inferno/if10f.png",
+          "image": "https://ru.amnezia.org/img/instructions/0_starter-guide/img/inferno1/if10f.png",
           "text": "Установите приложение AmneziaVPN и внесите полученне данные, далее следуйте подсказкам приложения, или зайдите в раздел инструкций установка с помощью ключа в виде текста. "
         }
       ] 

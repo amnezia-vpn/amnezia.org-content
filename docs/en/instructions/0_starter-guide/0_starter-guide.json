@@ -19,43 +19,43 @@
       "priceInfo": "Mastercard/Visa MIR cards of Russian banks, Mastercard/Visa, PayPal, Bitcoin, YouMoney, MIR, Qiwi, RBK.money, Advcash, Svyaznoy, Beeline, Payeer, IBOX, PaySera.",
       "steps": [
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/inferno/if1f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/inferno1/if1f.png",
           "text": "On the home page, scroll down to the bottom, select “Personal VPN/socks service”."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/inferno/if2f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/inferno1/if2f.png",
           "text": "Select a country , click “Update Cart”."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/inferno/if3f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/inferno1/if3f.png",
           "text": "Enter the Amnezia promo code, click apply, then click “Proceed to Payment”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/inferno/if4f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/inferno1/if4f.png",
           "text": "Fill in the blanks"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/inferno/if5f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/inferno1/if5f.png",
           "text": "On the same screen, select your payment method, check the boxes, click “Complete Order” "
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/inferno/if6f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/inferno1/if6f.png",
           "text": "Click “Pay” in the upper left corner"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/inferno/if7f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/inferno1/if7f.png",
           "text": "If the payment was successful, the order number will appear. Log in to the “Customer panel”. "
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/inferno/if8f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/inferno1/if8f.png",
           "text": "Статус вашего сервера должен быть “Активный”."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/inferno/if9f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/inferno1/if9f.png",
           "text": "Go to the e-mail specified during registration, you will receive an e-mail with your server data. This will be the code for automatic configuration and connection of VPN. "
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/inferno/if10f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/inferno1/if10f.png",
           "text": "Install the AmneziaVPN app and enter the data you received, then follow the app's prompts, or go to the instructions section to install with a text key. "
         }
       ] 
@@ -286,7 +286,7 @@
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/cinfu/cf5f.png",
-          "text": "Заполните данные, придумайте пароль"
+          "text": "Fill in your details, make up a password"
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/cinfu/cf6f.png",
