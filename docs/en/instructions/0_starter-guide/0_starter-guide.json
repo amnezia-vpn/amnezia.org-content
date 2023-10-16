@@ -269,47 +269,47 @@
       "priceInfo": "Mastercard/Visa, PayPal, AdvCash Mir, Skril, Litecoin, Ethereum & other Cryptocurrencies, Paxum, EpayFasaPay, NixMoney, Bitcoin, Brick (Powered by Paymentwall), Paymentwall, Payeer (30+ other payment option) ",
       "steps": [
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/cinfu/cf1f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/cinfu/cif1f.png",
           "text": "Select the country of the server to be purchased."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/cinfu/cf2f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/cinfu/cif2f.png",
           "text": "Choose a tariff"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/cinfu/cf3f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/cinfu/cif3f.png",
           "text": "Think of a hosting name and enter it on the line “Hostname”, create a password and enter it in the “root Password”, choose an operating system, officially supported by Ubuntu 20.04, Debian 10"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/cinfu/cf4f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/cinfu/cif4f.png",
           "text": "Click on “Checkout”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/cinfu/cf5f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/cinfu/cif5f.png",
           "text": "Fill in your details, make up a password"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/cinfu/cf6f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/cinfu/cif6f.png",
           "text": "Choose a payment method, check the box and complete your order “Complete Order”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/cinfu/cf7f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/cinfu/cif7f.png",
           "text": "Pay the server, click on “Make One off Payment”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/cinfu/cf8f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/cinfu/cif8f.png",
           "text": "If the payment was successful, you will see your order number, click “Continue To Client Area”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/cinfu/cf9f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/cinfu/cif9f.png",
           "text": "Under “My Products & Services” the status of your server should change to “active”, this may take some time"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/cinfu/cf10f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/cinfu/cif10f.png",
           "text": "You will receive a letter with data for connecting to your new server to the e-mail specified during registration. "
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/cinfu/cf11screen.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/cinfu/cif11screen.png",
           "text": "Install the Amnezia app and enter the connection data, then follow the prompts in the app, or go to the instructions section “Automatic installation”"
         }
 
@@ -329,51 +329,51 @@
       "priceInfo": "Mastercard/Visa/MIR (Russian banks), Mastercard/Visa (Foreign banks) PayPal, SPB, Bank transfer for legal entities, Cashless payment for legal entities, QIWI, WebMoney, YouMoney, ApplePay, SamsungPay, GooglePay, Crypto Payment)  ",
       "steps": [
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pq1f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pqh1f.png",
           "text": "“On the main page on the top panel select VPS/VDS server” ."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pq2f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pqh2f.png",
           "text": "Select a server, click  “Order a server”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pq3f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pqh3f.png",
           "text": "Enter the data"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pq4f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pqh4f.png",
           "text": "Select OS, officially supported version is Ubuntu 20.04 , Debian 10, other settings can be left unchanged, add to cart."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pq5f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pqh5f.png",
           "text": "Click “Cart”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pq6f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pqh6f.png",
           "text": "Next, “Pay”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pq7f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pqh7f.png",
           "text": "Choose the most suitable payment method."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pq8f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pqh8f.png",
           "text": "Select a country, click next "
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pq9f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pqh9f.png",
           "text": " in the Contact person column specify the first and last name, fill in the actual address, click “next”, in the next window confirm the payment."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pq10f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pqh10f.png",
           "text": "In your personal cabinet in the menu on the left in the column Virtual Servers you will see your server data and a notification that the service is ready for use, click on the notification."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pq11f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pqh11f.png",
           "text": "The notification will have a box with IP address, user and password. To connect to the VPN we need these data. "
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pq12screen.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pqh12screen.png",
           "text": "Install the Amnezia app and enter the connection data, then follow the prompts in the app, or go to the instructions section “Automatic installation”. "
         }
       ] 
