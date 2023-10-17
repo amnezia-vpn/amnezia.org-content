@@ -15,7 +15,7 @@ operating systems.
 
 Normal power consumption on mobile devices /
 Flexible customization to meet user needs to work with different operating systems and devices. /
-Recognized by DPI analysis systems, and therefore susceptible to blocking.   /
+Recognized by DPI analysis systems, and therefore susceptible to blocking. /
 Can operate over both TCP and UDP network protocols 
 
 ### ShadowSocks
@@ -27,9 +27,9 @@ virtually identical to a normal HTTPS connection.
 However, some traffic analysis systems can still recognize a ShadowSocks connection, so in countries with
 high levels of censorship we recommend using OpenVPN in conjunction with Cloak.
 
-Average power consumption on mobile devices (higher than OpenVPN)./
-It is possible to customize the encryption protocol. /
-Recognized by some DPI analysis systems  /
+Average power consumption on mobile devices (higher than OpenVPN). \
+It is possible to customize the encryption protocol. \
+Recognized by some DPI analysis systems  \
 Works only via TCP network protocol
 
 
@@ -42,9 +42,9 @@ virtually identical to a normal HTTPS connection.
 However, some traffic analysis systems can still recognize a ShadowSocks connection, so in countries with
  high levels of censorship we recommend using OpenVPN in conjunction with Cloak.
 
-Average power consumption on mobile devices (higher than OpenVPN). /
-It is possible to customize the encryption protocol.  /
-Recognized by some DPI analysis systems  /
+Average power consumption on mobile devices (higher than OpenVPN). \
+It is possible to customize the encryption protocol. \
+Recognized by some DPI analysis systems \
 Works only via TCP network protocol
 
  penVPN over Cloak versions installed on client versions younger than 3 are not compatible with > subsequent versions of the client. 
@@ -57,9 +57,9 @@ Relatively new popular VPN protocol with simplified architecture.
 Provides stable VPN connection, high performance on all devices. Uses hard-coded encryption settings. 
 WireGuard compared to OpenVPN has lower latency and better data throughput.
 
-Low power consumption on mobile devices. /
-Minimum number of settings. /
-Easily recognized by DPI analysis systems, susceptible to blocking.    /
+Low power consumption on mobile devices. \
+Minimum number of settings. \
+Easily recognized by DPI analysis systems, susceptible to blocking. \
 Works via UDP network protocol.
 
 ###  IKEv2
@@ -69,10 +69,11 @@ Works via UDP network protocol.
 > networks and devices. Due to its security, stability and speed, IKEv2 is currently one of the best VPN
 > solutions for mobile devices. Vulnerable to detection and blocking.
 
-Low power consumption, on mobile devices /
-Minimal amount of customization. /
-Recognized by DPI analysis systems. /
-Works only over UDP network protocol
+
+Low power consumption, on mobile devices \
+Minimal amount of customization. \
+Recognized by DPI analysis systems. \
+Works only over UDP network protocol 
 
 
 
@@ -83,9 +84,9 @@ A modern iteration of the popular VPN protocol, AmneziaWG builds upon the founda
 While WireGuard is known for its efficiency, it had issues with being easily detected due to its distinct packet signatures. AmneziaWG solves this problem by using better obfuscation methods, making its traffic blend in with regular internet traffic.
 This means that AmneziaWG keeps the fast performance of the original while adding an extra layer of stealth, making it a great choice for those wanting a fast and discreet VPN connection.
 
-Available in the AmneziaVPN across all platforms Low power consumption  /
-Minimum number of settings /
-Not recognised by DPI analysis systems, resistant to blocking /
+Available in the AmneziaVPN across all platforms Low power consumption \
+Minimum number of settings. \
+Not recognised by DPI analysis systems, resistant to blockingю. \
 Works over UDP network protocol.
 
 If you still have questions, please refer to the [FAQ], our [Telegram chat] or [other sections of the manual]
