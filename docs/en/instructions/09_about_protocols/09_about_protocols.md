@@ -13,10 +13,10 @@ The time-tested most popular VPN protocol.  Uses proprietary security protocol w
 and key exchange and supports various authentication methods, making it suitable for different devices and
 operating systems.
 
-Normal power consumption on mobile devices \
+Normal power consumption on mobile devices. \
 Flexible customization to meet user needs to work with different operating systems and devices. \
 Recognized by DPI analysis systems, and therefore susceptible to blocking. \
-Can operate over both TCP and UDP network protocols 
+Can operate over both TCP and UDP network protocols. 
 
 ### ShadowSocks
 
