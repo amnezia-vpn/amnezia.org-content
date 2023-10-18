@@ -5,7 +5,7 @@ To create your own VPN, buy a virtual VPS server. For step-by-step instructions 
 
 If your connection data has been shared with you in the form of a [file], [text key], or [qr code], you do not need to buy a server, please refer to the relevant instructions .
 
-> Amnezia works with any server running Ubuntu (officially supported version is 20.04), Debian 10 is also supported.
+> Amnezia works with any server running Ubuntu (officially supported version is 22.04), Debian 11 is also supported.
 
 
 &nbsp;
@@ -32,7 +32,7 @@ In this case, please refer to the instructions [Connect via text key].
 
 ### Choose the data type you have.
 
-In these instructions we will look at connecting via IP, username and password, so choose them.
+In these instructions we will look at connecting via IP, username and password, so choose "Configure your server.
 
 ![instruction2](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/02_manual-install/img/mi_en_2.png)
 
@@ -61,13 +61,13 @@ Scroll down, select "Set up VPN by yourself", click "Continue".
 
 ### Select the VPN protocol
 
-A bit of information about the protocols to make it easier for you to make a choice. 
+OpenVPN, WireGuard and IKEv2 are VPN protocols, each will add traffic encryption and provide access to blocked sites.  We recommend using them only in low censorship regions where VPN applications and VPN protocols are not blocked.  
 
-OpenVPN, WireGuard and IKEv2 are VPN protocols, each will add traffic encryption and provide access to blocked sites.  We recommend using them only in low-censorship regions where VPN applications and VPN protocols are not blocked.  
+ShadowSocks is a protocol that masks traffic as http traffic.  However, ShadowSocks cloaking is detected by firewalls by traffic analysis systems in some countries with high level of Internet censorship, so to protect your VPN from blocking we recommend to use Cloak additionally.
 
-OpenVPN over ShadowSocks is a protocol bundle that masks traffic as http traffic. This option can be useful in cases where you don't want sites to know that you are using a VPN.  However, ShadowSocks cloaking is recognized by firewalls by traffic analysis systems in some countries with high level of Internet censorship, so to protect your VPN from blocking we recommend to use Cloak additionally.
+AmneziaWG is a fork of Wireguard-GO protocol with blocking protection. Its distinctive feature is changed Jank packet sizes and Magic header names, by which DPI system usually recognises WireGuard protocol. These parameters can also be changed in the settings. Ideal balance between cloaking and speed.    
 
-OpenVPN over Cloak is OpenVPN with ShadowSocks protocol and additional Cloak traffic masking.  It will allow you to visit blocked sites and add VPN traffic masking to http traffic. Traffic analysis systems will not be able to recognize that you are using a VPN.  Your VPN will be protected from blocking even in regions with the highest level of censorship.  
+OpenVPN over Cloak is OpenVPN with additional Cloak traffic masking. It will allow you to visit blocked sites and add VPN traffic cloaking to http traffic. Traffic analysis systems will not be able to recognise that you are using a VPN. Your VPN will be protected from blocking even in regions with the highest level of censorship.
 
 More detailed description of all protocols and traffic masking can be found [here].
 

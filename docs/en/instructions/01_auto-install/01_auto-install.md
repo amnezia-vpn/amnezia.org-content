@@ -6,7 +6,7 @@ For step-by-step instructions on how to purchase a VPS from some popular hosting
 
 If your connection data has been shared with you in the form of a [file], [text key], or [qr code], you do not need to buy a server, please refer to the relevant instructions .
 
-> Amnezia works with any servers running Ubuntu (officially supported version is 20.04), Debian 10 is also supported.
+> Amnezia works with any servers running Ubuntu (officially supported version is 22.04), Debian 11 is also supported.
 
 
 &nbsp;
@@ -33,7 +33,7 @@ Select "I have data to connect".
 
 ### Choose the data type you have.
 
-In these instructions we will look at connecting via IP, username and password, so choose them.
+In these instructions we will look at connecting via IP, username and password, so choose "Configure your server".
 
 
 ![instruction2](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/01_auto-install/img/ai_en_2.png)
@@ -57,19 +57,17 @@ Instead of a password, you can use an SSH key.
 
 ### Select the level of control in your region
 
-If you select a **high level of control**, OpenVPN will be installed in conjunction with Cloak and ShadowSocks protocol.  This will allow you to visit blocked sites and add cloaking of VPN traffic as http traffic. Traffic analysis systems will not be able to recognize that you are using a VPN.  Your VPN will be protected from blocking even in regions with the highest level of censorship. 
+Selecting **Extreme** level of control will install OpenVPN in conjunction with Cloak. This will allow you to visit blocked sites and add cloaking of VPN traffic as http traffic. Traffic analysis systems will not be able to recognise that you are using a VPN. Your VPN will be protected from blocking even in regions with the highest level of censorship. 
 
-If you choose the **medium level of control**, OpenVPN will be installed in conjunction with ShadowSocks. ShadowSocks like Cloak masks traffic as http traffic.  However, ShadowSocks masking is recognized by traffic analysis systems in some highly censored countries, so we do not recommend using OpenVPN over ShadowSocks in regions where other VPNs are blocked.  
+If you select **Medium or High** level of control, AmneziaWG will be installed. This is a fork of the Wireguard-GO protocol with blocking protection. Its distinctive feature is modified Jank packet sizes and Magic header names, by which the DPI system usually recognises the WireGuard protocol, these parameters can also be changed in the settings. Ideal balance between masking and speed.
 
-If you select **low level of control**, OpenVPN without traffic masking will be installed. Suitable for regions where VPN applications and VPN protocols are not blocked. Increases the level of user privacy, and additionally encrypts traffic.
-
-If you choose to configure VPN yourself, you will be offered a list of protocols. For more details on how to configure it yourself, please read the manual configuration instructions.
+Selecting **Low** control level will install Wireguard without traffic masking. Suitable for regions where VPN applications and VPN protocols are not blocked. Increases user privacy and additionally encrypts traffic.
 
 
 
 ![instruction3](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/01_auto-install/img/ai_en_4.png)
 
->  If in your region all non-government-controlled sites and almost all commercial and non-commercial VPNs are blocked, we recommend to choose High level of control from the first connection, and do not install other protocols, because otherwise IP address of your VPS can be recognized and blocked by analysis systems, and you will not be able to use it in the future.
+>  If in your region all non-government-controlled sites and almost all commercial and non-commercial VPNs are blocked, we recommend to choose Extreme level of control from the first connection, and do not install other protocols, because otherwise IP address of your VPS can be recognized and blocked by analysis systems, and you will not be able to use it in the future.
 
 
 &nbsp;

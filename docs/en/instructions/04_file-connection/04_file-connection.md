@@ -7,7 +7,7 @@ In this case, we will consider the option of connecting via a configuration file
 
 Do not use files from public sources, they may have been posted for the purpose of capturing your personal data.
 
-> Amnezia works with any server running Ubuntu (officially supported version is 20.04), Debian 10 is also supported.
+> Amnezia works with any server running Ubuntu (officially supported version is 22.04), Debian 11 is also supported.
 
 
 &nbsp;
@@ -24,7 +24,7 @@ Select "I have data to connect".
 
 ## Select the type of data you have. 
 
-In this instruction we will consider connection via a configuration file, so select "QR code key or configuration file"
+In this instruction we will consider connection via a configuration file, so select "Open a config file, key or QR code"
 
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/04_file-connection/img/fc_en_2.png)

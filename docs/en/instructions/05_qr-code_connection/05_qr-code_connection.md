@@ -4,7 +4,7 @@ In this case, we will consider the option of connecting via QR code
 Do not use a QR code from public sources, they may have been posted with the intention of capturing your personal data. 
 
 
-> Amnezia works with any server running Ubuntu (officially supported version is 20.04), Debian 10 is also supported.
+> Amnezia works with any server running Ubuntu (officially supported version is 22.04), Debian 11 is also supported.
 
 
 &nbsp;
@@ -21,7 +21,7 @@ Select "I have connection details".
 
 ## Choose the data type you have.
 
-In this guide, we will consider the option of connecting via a QR code.
+In this guide, we will consider the option of connecting via a QR code, so select "Open a config file, key or QR code"
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/05_qr-code_connection/img/qrc_en_2.png)
 

@@ -5,7 +5,7 @@ In this instruction we will consider the option of connecting via a key in the f
 The key should look something like this **VPN:///ue34nf\feh.....**  
 Do not use keys from public sources, they may have been posted for the purpose of intercepting your personal data.
 
->  Amnezia works with any server running Ubuntu (officially supported version is 20.04), Debian 10 is also supported.
+>  Amnezia works with any server running Ubuntu (officially supported version is 22.04), Debian 11 is also supported.
 
 
 &nbsp;
@@ -22,7 +22,7 @@ Select "I have data to connect".
 
 ## Choose the data type you have. 
 
-In these instructions, we will look at connecting via a text key, so choose "QR code. key or settings file"
+In these instructions, we will look at connecting via a text key, so choose "Open a config file, key or QR-code"
 
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/03_text-key-connection/img/tkc_en_2.png)
