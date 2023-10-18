@@ -1,8 +1,7 @@
 # Connection by QR code
 
 In this case, we will consider the option of connecting via QR code
-Do not use a QR code from public sources, they may have been posted with the intention of capturing your personal data. 
-
+Do not use a QR code from public sources, it may have been posted for the purpose of intercepting your personal data.
 
 > Amnezia works with any server running Ubuntu (officially supported version is 22.04), Debian 11 is also supported.
 

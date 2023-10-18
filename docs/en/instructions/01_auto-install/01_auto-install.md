@@ -55,11 +55,11 @@ Instead of a password, you can use an SSH key.
 
 
 
-### Select the level of control in your region
+### Select the level of internet control in your region
 
 Selecting **Extreme** level of control will install OpenVPN in conjunction with Cloak. This will allow you to visit blocked sites and add cloaking of VPN traffic as http traffic. Traffic analysis systems will not be able to recognise that you are using a VPN. Your VPN will be protected from blocking even in regions with the highest level of censorship. 
 
-If you select **Medium or High** level of control, AmneziaWG will be installed. This is a fork of the Wireguard-GO protocol with blocking protection. Its distinctive feature is modified Jank packet sizes and Magic header names, by which the DPI system usually recognises the WireGuard protocol, these parameters can also be changed in the settings. Ideal balance between masking and speed.
+If you select **Medium or High** level of control, AmneziaWG will be installed. This is a fork of the Wireguard-GO protocol with blocking protection. Its distinctive feature is modified Junk packets sizes and Magic headers names, by which the DPI system usually recognises the WireGuard protocol, these parameters can also be changed in the settings. Ideal balance between masking and speed.
 
 Selecting **Low** control level will install Wireguard without traffic masking. Suitable for regions where VPN applications and VPN protocols are not blocked. Increases user privacy and additionally encrypts traffic.
 
@@ -67,7 +67,7 @@ Selecting **Low** control level will install Wireguard without traffic masking. 
 
 ![instruction3](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/01_auto-install/img/ai_en_4.png)
 
->  If in your region all non-government-controlled sites and almost all commercial and non-commercial VPNs are blocked, we recommend to choose Extreme level of control from the first connection, and do not install other protocols, because otherwise IP address of your VPS can be recognized and blocked by analysis systems, and you will not be able to use it in the future.
+>  If in your region all non-government-controlled sites and almost all commercial and non-commercial VPNs are blocked, we recommend to choose **Extreme** level of control from the first connection, and do not install other protocols, because otherwise IP address of your VPS can be recognized and blocked by analysis systems, and you will not be able to use it in the future.
 
 
 &nbsp;
