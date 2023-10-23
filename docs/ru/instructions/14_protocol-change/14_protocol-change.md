@@ -13,7 +13,7 @@ OpenVPN, Wireguard, ShadowSocks IKv2 и OpenVPN с плагином  Cloak, бо
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/14_protocol-change/img/cp_ru_1.png)
 
-Нажмите  на белый прямоугольник  с названием VPN-протокола, 
+Нажмите на белый прямоугольник с названием VPN-протокола, 
 как на скриншоте
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/14_protocol-change/img/cp_ru_2.png)
@@ -40,7 +40,7 @@ OpenVPN, Wireguard, ShadowSocks IKv2 и OpenVPN с плагином  Cloak, бо
 [описании протоколов]: ../instructions/09_about_protocols
 [только для подключения]: ../instructions/29_connection_access_only
 [подключитесь к собственному серверу]: ../instructions/0_starter-guide
-
+[другим разделам инструкции]: ../instructions
 
 
 

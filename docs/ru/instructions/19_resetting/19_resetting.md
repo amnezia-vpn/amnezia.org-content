@@ -4,11 +4,11 @@
 
 ### Откройте главный экран Amnezia
 
-На главном экране  внизу  кликните на значок настроек (крайний правый).
+На главном экране  внизу  кликните на значок настроек.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/19_resetting/img/r_ru_1.png)
 
-Далее перейдите в раздел настроек  “Приложение”
+Далее перейдите в раздел настроек, выберете “Приложение”.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/19_resetting/img/r_ru_2.png)
 

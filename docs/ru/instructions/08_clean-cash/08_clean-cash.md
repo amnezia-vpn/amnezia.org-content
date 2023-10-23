@@ -1,14 +1,14 @@
-# Очистка кэша на сервере
+# Очистка кэша приложения
 &nbsp;
 
-Очистка кеша на сервере может пригодиться для устранения ошибок в работе Amnezia, а так же для корректной настройки приложения. 
+Очистка кэша может пригодиться для устранения ошибок в работе Amnezia, а так же для корректной настройки приложения. 
 
 
 
 ### Откройте приложение Amnezia
 
 
- На главном экране  внизу  кликните на название вашего сервера  (на скриншоте он обозначен как Server1).
+ На главном экране  внизу  кликните на название вашего сервера (на скриншоте он обозначен как Server1).
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/08_clean-cash/img/cc_ru_1.png)
 
@@ -16,8 +16,8 @@
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/08_clean-cash/img/cc_ru_2.png)
 
-Выберете вкладку “Данные”, 
-Во вкладке “Данные” выберете  “Очистить кэш Amnezia”. 
+Выберете вкладку “Данные”, \
+во вкладке “Данные” выберете “Очистить кэш Amnezia”. 
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/08_clean-cash/img/cc_ru_3.png)
 

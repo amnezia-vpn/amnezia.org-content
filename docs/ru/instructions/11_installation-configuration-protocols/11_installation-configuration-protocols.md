@@ -25,7 +25,7 @@ OpenVPN, WireGuard, ShadowSocks, IKv2/IPsec и OpenVPN с плагином Cloak
 
 В этом случае при нажатии на названии  протокола, вы попадете в меню его настроек . 
 
->Инструкция как подключатся к протоколам [здесь].
+>Инструкция как подключатся к разным протоколам [здесь].
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/11_installation-configuration-protocols/img/icp_ru_3.png)
 
@@ -35,27 +35,30 @@ OpenVPN, WireGuard, ShadowSocks, IKv2/IPsec и OpenVPN с плагином Cloak
 
 ### Настройка OpenVPN
 
-Протокол  OpenVPN очень гибкий для настроек.
-В нем можно поменять адрес подсети. 
-Сетевой протокол 
-Порт 
-Выбрать метод  шифрования кода и хэша
-TLS-auth добавляет еще одну подпись к HMAC к handshake-пакетам SSL/TLS, инициируя дополнительную проверку целостности пакетов. Пакет без подписи не будет обрабатываясь. 
-Это обеспечит дополнительный уровень безопасности протокола SSL/TLS, защищая систему от некоторых видов атак. 
+Протокол OpenVPN очень гибкий для настроек. /
+В нем можно поменять адрес подсети, /
+Сетевой протокол, /
+Порт, /
+Выбрать метод  шифрования кода и хэша, /
+TLS-auth добавляет еще одну подпись к HMAC к handshake-пакетам SSL/TLS, инициируя дополнительную проверку целостности пакетов. Пакет без подписи не будет обрабатываться. Это обеспечит дополнительный уровень безопасности протокола SSL/TLS, защищая систему от некоторых видов атак. /
 Block DNS request outside of VPN - предотвращает утечку адреса вашего  DNS-сервера.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/11_installation-configuration-protocols/img/icp_ru_5.png)
 
 В плагине Cloak  можно поменять шифрование и порт. 
 
-А так же выбрать маскировку для тарфика. 
-В эту графу можно вписать любой сайт и при попытке  обнаружения и перехвата  VPN-трафика  системами анализа DPI,  вместо VPN трафика будет  отображаться только  эта маскировка.
+А также выбрать маскировку для тарфика. 
+В эту графу можно вписать любой сайт и при попытке обнаружения и перехвата VPN-трафика системами анализа DPI,  вместо VPN трафика будет отображаться только эта маскировка.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/11_installation-configuration-protocols/img/icp_ru_6.png)
 
 В настройках ShadowSocks можно изменить метод шифрования и порт. 
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/11_installation-configuration-protocols/img/icp_ru_7.png)
+
+В настройках AmneziaWG можно изменить "Magic" заголовки и размеры "Junk" пакетов.     
+
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/11_installation-configuration-protocols/img/icp_ru_8.png)
 
 Если у вас остались вопросы, обратитесь к [FAQ], в наш [телеграм чат] или к [другим разделам инструкции]
 

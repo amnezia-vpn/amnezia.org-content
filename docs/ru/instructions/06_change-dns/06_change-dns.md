@@ -6,16 +6,14 @@
  определенным веб-сайтам или сервисам через свой DNS. Изменение DNS-сервера может помочь 
 обойти такие блокировки и получить доступ к ограниченному контенту. 
 
-Кроме того, некоторые DNS-серверы могут собирать данные о вашей активности в Интернете, такие 
-как посещенные вами веб-сайты и запросы DNS. Переключение на свой DNS-сервер, помогает 
-защитить вашу личную информацию.
+Кроме того, некоторые DNS-серверы могут собирать данные о вашей активности в Интернете, например, посещенные вами веб-сайты и запросы DNS. Переключение на свой DNS-сервер, помогает защитить вашу личную информацию.
 
 
 &nbsp;
 
 ### Откройте главный экран  
 
-На главном экране  внизу  кликните на значок настроек (крайний правый). 
+На главном экране  внизу  кликните на значок настроек. 
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/06_change-dns/img/cd_ru_1.png)
 
@@ -27,7 +25,7 @@
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/06_change-dns/img/cd_ru_3.png)
 
-Выберете вкладку Сервисы, 
+Выберете вкладку Сервисы. 
 Во вкладке Сервисы выберете Amnezia DNS. 
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/06_change-dns/img/cd_ru_4.png)
@@ -36,8 +34,8 @@
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/06_change-dns/img/cd_ru_5.png)
 
-В дальнейшем  вы сможете менять настройки своего DNS сервера. 
-Для этого откройте главный экран и нажмите на эконку настроек в правом нижнем углу приложения.  
+В дальнейшем, вы сможете менять настройки своего DNS сервера. 
+Для этого откройте главный экран и нажмите на эконку настроек на нижней панели приложения.  
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/06_change-dns/img/cd_ru_6.png)
 
@@ -46,7 +44,7 @@
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/06_change-dns/img/cd_ru_7.png)
 
 
-Здесь вы сможете выбрать опцию “Использовать Amnezia DNS” , или же использовать другие DNS серверы. 
+Здесь вы сможете выбрать опцию “Использовать Amnezia DNS”, или использовать другие DNS серверы. 
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/06_change-dns/img/cd_ru_8.png)
 

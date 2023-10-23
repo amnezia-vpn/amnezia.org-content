@@ -7,11 +7,11 @@
 ### Откройте главный экран Amnezia
 
 
-На главном экране  внизу  кликните на значок настроек (крайний правый).
+На главном экране  внизу  кликните на значок настроек.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/16_allow-screenshots/img/as_ru_1.png)
 
-Далее перейдите в раздел настроек  “Приложение”
+Далее перейдите в раздел настроек, “Приложение”
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/16_allow-screenshots/img/as_ru_2.png)
 

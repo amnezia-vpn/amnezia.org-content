@@ -7,7 +7,7 @@
 ### Откройте главный экран Amnezia
 
 
-На главном экране  внизу  кликните на значок настроек (крайний правый).
+На главном экране  внизу  кликните на значок настроек.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/17_application-autostart/img/aa_ru_1.png)
 
@@ -15,7 +15,7 @@
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/17_application-autostart/img/aa_ru_2.png)
 
-Включите или отключите Автозагрузку.
+Включите или отключите автозагрузку.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/17_application-autostart/img/aa_ru_3.png)
 

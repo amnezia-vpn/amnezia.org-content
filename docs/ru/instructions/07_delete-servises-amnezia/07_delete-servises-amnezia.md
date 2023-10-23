@@ -1,13 +1,13 @@
 # Удаление сервисов Amnezia с сервера 
 
-В этом случае будут удалены все установленныe протоколы, а так же все сервисы Amnezia, такие как cайт в сети Tor файловое хранилище и Amnezia DNS.  
+При удалении сервисов Amnezia с сервера, будут удалены все установленныe протоколы, а так же все сервисы Amnezia, такие как cайт в сети Tor файловое хранилище и Amnezia DNS.  
 
 &nbsp;
 
 ### Откойте приложение Amnezia
 
 
-На главном экране  внизу  кликните на значок настроек (крайний правый). 
+На главном экране  внизу  кликните на значок настроек. 
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/07_delete-servises-amnezia/img/dsa_ru_1.png)
 
@@ -19,7 +19,7 @@
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/07_delete-servises-amnezia/img/dsa_ru_3.png)
 
-Выберете вкладку “Данные”, 
+Выберете вкладку “Данные”.\
 Во вкладке “Данные” выберете  “Удалить сервисы Amnezia с сервера”.
 
 Будут удалены все изменения на сервере,  сделанные с помощью  клиента Amnezia. 

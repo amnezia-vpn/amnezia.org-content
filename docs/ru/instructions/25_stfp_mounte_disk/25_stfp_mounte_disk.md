@@ -5,7 +5,7 @@
 
 ### Откройте главный экран Amnezia
 
- Внизу кликните на значок настроек (крайний правый).
+ Внизу кликните на значок настроек.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/25_stfp_mounte_disk/img/stftpmd_ru_1.png)
 
@@ -19,31 +19,32 @@
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/25_stfp_mounte_disk/img/stftpmd_ru_3.png)
 
 
-Выберете вкладку Сервисы, 
-Во вкладке Сервисы выберете  “STFP”.
+Выберете вкладку "Сервисы", / 
+Во вкладке "Сервисы" выберете  “STFP”.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/25_stfp_mounte_disk/img/stftpmd_ru_4.png)
 
-
 Вы попадете в настройки файлового хранилища. 
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/25_stfp_mounte_diskp/img/stftpmd_ru_5.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/25_stfp_mounte_disk/img/stftpmd_ru_5.png)
 
-Перед тем,как смонтировать диск установите  [WinFsp] и [SSHFS-Win].
+Перед тем, как смонтировать диск, установите [WinFsp] и [SSHFS-Win].
+
 
 [WinFsp] 
-Перейдите по ссылке на гитхаб, пролистайте страницу до конца, выберете файл в формате .msi, как указано на скриншоте
+
+ Перейдите по ссылке на гитхаб, пролистайте страницу до конца, выберете файл в формате **.msi**, как указано на скриншоте.
 
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/25_stfp_mounte_disk/img/stftpmd_ru_6.png)
 
 [SSHFS-Win] 
 
-Перейдите по ссылке на гитхаб, пролистайте страницу до раздела Assets, выберете файл в формате .msi,  как указано на скриншоте..
+Перейдите по ссылке на гитхаб, пролистайте страницу до раздела "Assets", выберете файл в формате .msi,  как указано на скриншоте.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/25_stfp_mounte_disk/img/stftpmd_ru_7.png)
 
-После установки нажмите “Смонтировать папку на устройстве ”
+После установки нажмите “Смонтировать папку на устройство ”
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/25_stfp_mounte_disk/img/stftpmd_ru_8.png)
 
@@ -58,6 +59,6 @@ Amnezia смонтирует Диск на вашем устройстве, та
 [FAQ]: ../faq
 [телеграм чат]: https://t.me/amnezia_vpn
 [другим разделам инструкции]: ../instructions 
-[здесь]: https://codex.wordpress.org/ 
+[здесь]: ../instructions/24_stfp 
 [WinFsp]: https://github.com/winfsp/winfsp/releases/tag/v2.0
 [SSHFS-Win]: https://github.com/winfsp/sshfs-win/releases
