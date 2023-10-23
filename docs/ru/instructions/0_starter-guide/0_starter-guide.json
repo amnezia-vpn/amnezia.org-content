@@ -111,7 +111,7 @@
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/digital-ocean/do10f.png",
-          "text": "Выбираем ОС Ubuntu 20.04, или Debian 10, тарифный план “Basic”"
+          "text": "Выбираем ОС Ubuntu 22.04, или Debian 11, тарифный план “Basic”"
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/digital-ocean/do11f.png",
@@ -214,7 +214,7 @@
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws16f.png",
-          "text": "Выберете ОС, Официально поддерживаемая версия Ubuntu 20.04 и Debian 10,в данном случае выберем Ubuntu 20.04"
+          "text": "Выберете ОС, Официально поддерживаемая версия Ubuntu 22.04 и Debian 11,в данном случае выберем Ubuntu 20.04"
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws17f.png",
@@ -259,7 +259,7 @@
       "recommend": false,
       "logo": "/img/logos/vendor/sinfu.svg",
       "link": "https://www.cinfu.com/",
-      "desc": "Провайдер не поддерживает оплату Российскими картами..",
+      "desc": "Провайдер не поддерживает оплату Российскими картами.",
       "serversLabel": "Серверы",
       "serversText": "США, Болгария, Франция, Германия, Нидерланды",
       "legalAddressLabel": "Юридический адрес", 
@@ -278,7 +278,7 @@
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf3f.png",
-          "text": "Придумайте имя хостинга и внесите в строку “Hostname”, придумайте и введите пароль в строку “root Password”, выберете операционную систему, официально поддерживается Ubuntu 20.04, Debian 10"
+          "text": "Придумайте имя хостинга и внесите в строку “Hostname”, придумайте и введите пароль в строку “root Password”, выберете операционную систему, официально поддерживается Ubuntu 22.04, Debian 11"
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf4f.png",
@@ -342,7 +342,7 @@
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pqh4f.png",
-          "text": "Выберете ОС, официально поддерживаемая версия Ubuntu 20.04 , Debian 10, остальные настройки можно оставить без изменений, добавьте в корзину."
+          "text": "Выберете ОС, официально поддерживаемая версия Ubuntu 22.04 , Debian 11, остальные настройки можно оставить без изменений, добавьте в корзину."
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pqh5f.png",
@@ -397,7 +397,7 @@
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc2f.png",
-          "text": "Выберете Ubuntu 20.04, или Debian 10, выберете страну расположения сервера, чтобы обходить блокировки внутри России выбирайте сервер за пределами России, нажмите “Заказать”"
+          "text": "Выберете Ubuntu 22.04, или Debian 11, выберете страну расположения сервера, чтобы обходить блокировки внутри России выбирайте сервер за пределами России, нажмите “Заказать”"
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc3f.png",
