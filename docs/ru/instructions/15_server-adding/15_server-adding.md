@@ -13,9 +13,9 @@
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/15_server-adding/img/sa_ru_1.png)
 
 
-Выберете тип данных, которые у вас есть. 
-Это могут быть IP, login и пароль.
-или QR-код, или ключ, или файл с настройками.
+Выберете тип данных, которые у вас есть. \
+Это могут быть IP, login и пароль. \
+или QR-код, или ключ, или файл с настройками. 
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/15_server-adding/img/sa_ru_3.png)
 
