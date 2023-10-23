@@ -346,7 +346,7 @@
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pqh5f.png",
-          "text": "Click “Cart”"
+          "text": "Click “Add to cart”"
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pqh6f.png",
@@ -436,47 +436,47 @@
       "priceInfo": "Mastercard/Visa/МИР (Russian banks),Mastercard/Visa/ (Ukraine), Mastercard/Visa(other banks), Tinkoff Pay, СПБ, Yandex Pay, Steam Pay, FKWallet RUB/USD, QIWI, LAVA, QMoney, Perfect Money USD, WebMoney, Crypto Payment ",
       "steps": [
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_ru_1.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_en_1.png",
           "text": "Register on the website"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_ru_2.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_en_2.png",
           "text": "Paste the e-mail into the line"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_ru_3.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_en_3.png",
           "text": "Confirm registration"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_ru_4.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_en_4.png",
           "text": "Select Virtual Server "
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_ru_5.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_en_5.png",
           "text": "Choose a server country different from yours and the cheapest tariff"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_ru_6.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_en_6.png",
           "text": "Choose Ubuntu 20.04, disable Backups and auto-renewal, click Pay"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_ru_7.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_en_7.png",
           "text": "Select a payment method."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_ru_8.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_en_8.png",
           "text": "If the payment was successful, the IP address will appear and the status will change to Active "
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_ru_9.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_en_9.png",
           "text": "Click on the server name"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_ru_10.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_en_10.png",
           "text": "Here we need a username, password and IP"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_ru_11.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_en_11.png",
           "text": "Install the AmneziaVPN app and enter the data you received, then follow the app's prompts, or go to the Automatic Installation section of the instructions"
         }
         
