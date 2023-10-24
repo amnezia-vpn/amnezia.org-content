@@ -160,6 +160,12 @@
     "href": "../instructions/30_table_of_supported_devices",
     "subtext": "by protocols"
     
+  },
+  {
+    "title": "AmneziaWG",
+    "href": "../instructions/31_amneziawg",
+    "subtext": "Описание принципа работы"
+    
   }
 
 
