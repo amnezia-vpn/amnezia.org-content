@@ -34,7 +34,7 @@ AmneziaWG работает в рамках обратной совместимо
 
 Ссылки:
 
-[WireGuard1-Go] 
+[WireGuard-Go] 
 
 Вспомогательные утилиты:
 
@@ -51,7 +51,7 @@ AmneziaWG работает в рамках обратной совместимо
 [FAQ]: ../faq 
 [телеграм чат]: https://t.me/amnezia_vpn
 [другим разделам инструкции]:  ../instructions
-[WireGuard1-Go]: https://github.com/amnezia-vpn/amnezia-wg
+[WireGuard-Go]: https://github.com/amnezia-vpn/amnezia-wg
 [Для Android]: https://github.com/amnezia-vpn/awg-android
 [Для Windows]: https://github.com/amnezia-vpn/awg-windows
 [Для MacOS и IOS]: https://github.com/amnezia-vpn/awg-apple
