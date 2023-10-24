@@ -2,7 +2,7 @@
 #  AmneziaWG
 
 Современная версия популярного VPN-протокола WireGuard. 
-AmneziaWG - это форк [WireGuard-Go]. Он защищен от обнаружения системами DPI, при этом сохранил в себе упрощенную архитектуру и высокую производительность оригинала.
+[AmneziaWG] - это форк WireGuard-Go. Он защищен от обнаружения системами DPI, при этом сохранил в себе упрощенную архитектуру и высокую производительность оригинала.
 
 Прородитель AmneziaWG - WireGuard известен своей эффективностью, но у него есть проблемы с обнаружением из-за характерных сигнатур пакетов.\
 AmneziaWG решает эту проблему за счет использования более совершенных методов обфускации, благодаря чему его трафик сливается с обычным интернет-трафиком. \
@@ -34,7 +34,7 @@ AmneziaWG работает в рамках обратной совместимо
 
 Ссылки:
 
-[WireGuard-Go] 
+[AmneziaWG]
 
 Вспомогательные утилиты:
 
@@ -51,7 +51,7 @@ AmneziaWG работает в рамках обратной совместимо
 [FAQ]: ../faq 
 [телеграм чат]: https://t.me/amnezia_vpn
 [другим разделам инструкции]:  ../instructions
-[WireGuard-Go]: https://github.com/amnezia-vpn/amnezia-wg
+[AmneziaWG]: https://github.com/amnezia-vpn/amnezia-wg
 [Для Android]: https://github.com/amnezia-vpn/awg-android
 [Для Windows]: https://github.com/amnezia-vpn/awg-windows
 [Для MacOS и IOS]: https://github.com/amnezia-vpn/awg-apple
