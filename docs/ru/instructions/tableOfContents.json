@@ -158,7 +158,14 @@
     "href": "../instructions/30_table_of_supported_devices",
     "subtext": "По протоколам"
     
+  },
+  {
+    "title": "AmneziaWG",
+    "href": "../instructions/31_AmneziaWG",
+    "subtext": "Описание принципа работы"
+    
   }
+
 
 
 
