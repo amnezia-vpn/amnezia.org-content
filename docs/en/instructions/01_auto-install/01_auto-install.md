@@ -36,7 +36,7 @@ Select "I have data to connect".
 In these instructions we will look at connecting via IP, username and password, so choose "Configure your server".
 
 
-![instruction2](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/01_auto-install/img/ai_en_2.png)
+![instruction 2](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/01_auto-install/img/ai_en_2.png)
 
 &nbsp;
 
