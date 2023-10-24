@@ -19,8 +19,8 @@ In this way, AmneziaWG maintains high performance while adding an extra layer of
 AmneziaWG works within the framework of backward compatibility. That is, the AmneziaWG implementation allows you to change some static parameters in WireGuard, by which the protocol is usually recognised by DPI systems. And if these parameters are left as default (equal to 0), the protocol will work as a normal WireGuard.
 
 In AmneziaWG the headers of all packets have been changed: 
-- handshake packet (Initiator to Responder), 
-- response packet (Responder to Initiator), 
+- Initiator to Responder, 
+- Responder to Initiator, 
 - data packet, as well as 
 - special packet "Under Load" - by default they are random values, but you can change them in the settings.
 
