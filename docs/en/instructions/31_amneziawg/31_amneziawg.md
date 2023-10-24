@@ -52,9 +52,9 @@ If you still have questions, please refer to [FAQ], our [telegram chat] or [othe
 [telegram chat]: https://t.me/amnezia_vpn
 [other sections of the manual]:  ../instructions
 [WireGuard-Go]: https://github.com/amnezia-vpn/amnezia-wg
-[For Android] : https://github.com/amnezia-vpn/awg-android
+[For Android]: https://github.com/amnezia-vpn/awg-android
 [For Windows]: https://github.com/amnezia-vpn/awg-windows
-[For MacOS и IOS] : https://github.com/amnezia-vpn/awg-apple
+[For MacOS и IOS]: https://github.com/amnezia-vpn/awg-apple
 [For Wireguard]: https://github.com/amnezia-vpn/amnezia-wg-tools
 
 
