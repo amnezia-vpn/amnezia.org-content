@@ -1,40 +1,47 @@
-
 # AmneziaWG
 
-A modern version of the popular WireGuard VPN protocol. 
-[AmneziaWG] is a fork of [WireGuard-Go]. It is protected from detection by DPI systems, while retaining the simplified architecture and high performance of the original.
+[AmneziaWG] is a contemporary version of the popular VPN protocol, WireGuard. It's a fork of [WireGuard-Go] and offers protection against detection by Deep Packet Inspection (DPI) systems. At the same time, it retains the simplified architecture and high performance of the original.
 
-AmneziaWG's progenitor, WireGuard, is known for its performance, but it has detection problems due to its distinctive packet signatures.
-AmneziaWG solves this problem by using more advanced obfuscation techniques so that its traffic blends in with normal Internet traffic. \
-In this way, AmneziaWG maintains high performance while adding an extra layer of stealth, making it a great choice for those who need a fast and stealthy VPN connection.
+The precursor, WireGuard, is known for its efficiency but had issues with detection due to its distinctive packet signatures. \
+AmneziaWG addresses this problem by employing advanced obfuscation methods, allowing its traffic to blend seamlessly with regular internet traffic. \
+As a result, AmneziaWG maintains high performance while adding an extra layer of stealth, making it a superb choice for those seeking a fast and discreet VPN connection.
 
-- Available with AmneziaVPN on all platforms. 
-- Low power consumption. 
-- Minimal configuration. 
-- Not recognised by DPI analysis systems, resistant to blocking. 
-- Works over UDP network protocol.
+Features of AmneziaWG include:
 
-### Principle of operation: ###
+- Availability with AmneziaVPN on all platforms.
+- Low energy consumption.
+- Minimal configuration needed.
+- Undetectable by DPI analysis systems, resistant to blocking.
+- Operates over the UDP network protocol.
 
-AmneziaWG works within the framework of backward compatibility. That is, the AmneziaWG implementation allows you to change some static parameters in WireGuard, by which the protocol is usually recognised by DPI systems. And if these parameters are left as default (equal to 0), the protocol will work as a normal WireGuard.
 
-In AmneziaWG the headers of all packets have been changed: 
-- Initiator to Responder, 
-- Responder to Initiator, 
-- data packet, as well as 
-- special packet "Under Load" - by default they are random values, but you can change them in the settings.
+### Working Principle: ###
 
-Since every user has different headers, it is impossible to write a universal rule based on headers for tracking systems to calculate the protocol and block it.
+AmneziaWG operates with backward compatibility. This means that the AmneziaWG implementation allows for modifications to certain static parameters in WireGuard, which are typically recognized by DPI systems. If these parameters are left at their default values (equal to 0), the protocol functions like standard WireGuard.
 
-Another weak point of WireGuard is the size of the authorisation packets. \
-AmneziaWG adds random bytes to each auth packet to change its size. \
-So the "init and response packets" of the handshake additionally have a "rubbish" at the beginning of the data, the size of which is determined by the values S1 and S2.\.
-By default, the initiating handshake packet has a fixed size (148 bytes), and after adding rubbish, its size will be 148 bytes +S1. \
-The AmneziaWG implementation also provides another trick for more robust masking. Before starting a session, Amnezia sends a number of "rubbish" packets to confuse DPI systems to the extreme. The number of such packets and their minimum and maximum size in bytes is also set in the settings, with parameters Jc, Jmin and Jmax.
+In AmneziaWG, headers of all packets have been modified:
+
+- Initiator to Responder.
+- Responder to Initiator.
+- Data packet.
+- Special "Under Load" packet – by default, random values are set, but these can be manually adjusted in the settings.
+
+
+Since every user has different headers, it's nearly impossible to draft a universal tracking rule based on these headers to detect and block the protocol.
+
+Another vulnerability of WireGuard lies in the sizes of its authentication
+packets. \
+In AmneziaWG, random bytes are appended to every auth packet to alter their size. \
+Thus, "init and response handshake packets" have added "junk" at the beginning of their data, the size of which is determined by the values S1 and S2. \
+By default, the initiating handshake packet has a fixed size (148 bytes). After adding the junk, its size becomes 148 bytes + S1. \
+AmneziaWG also incorporates another trick for more reliable masking. Before initiating a session, Amnezia sends a certain number of "junk" packets to thoroughly confuse DPI systems. The number of these packets and their minimum and maximum byte sizes can also be adjusted in the settings, using parameters Jc, Jmin, and Jmax.
+
+If you have further questions, please refer to the FAQ, our Telegram chat, or other sections of the instruction manual.
+
 
 Links:
 
-[AmneziaWG]
+[AmneziaWG] - main repository
 
 Supporting utilities:
 
@@ -57,20 +64,6 @@ If you still have questions, please refer to [FAQ], our [telegram chat] or [othe
 [For MacOS и IOS]: https://github.com/amnezia-vpn/awg-apple
 [For Wireguard]: https://github.com/amnezia-vpn/amnezia-wg-tools
 [WireGuard-Go]: https://github.com/WireGuard/wireguard-go
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
