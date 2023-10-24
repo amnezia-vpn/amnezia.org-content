@@ -378,50 +378,7 @@
         }
       ] 
     },
-    {
-      "recommend": false,
-      "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/timeweb_s_logo.png",
-      "link": "https://timeweb.cloud/",
-      "desc": "Возможна оплата Российскими картами.",
-      "serversLabel": "Серверы",
-      "serversText": "Нидерланды, Россия, Польша, Казхстан, США",
-      "legalAddressLabel": "Юридический адрес",
-      "legalAddressText": "Россия",
-      "priceLabel": "Оплата",
-      "priceText": "от $3/мес",
-      "priceInfo": "Mastercard/Visa/МИР (Российские банки),Mastercard/Visa(иностранные банки), ЮMoney, Счет, Квитанция, QIWI, Pay ",
-      "steps": [
-        {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc1f.png",
-          "text": "Введите e-mail , нажмите “Создать аккаунт”"
-        },
-        {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc2f.png",
-          "text": "Выберете Ubuntu 22.04, или Debian 11, выберете страну расположения сервера, чтобы обходить блокировки внутри России выбирайте сервер за пределами России, нажмите “Заказать”"
-        },
-        {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc3f.png",
-          "text": "Выберете самый дешевый тариф, кликните “Заказать”"
-        },
-        {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc4f.png",
-          "text": "Выберте способ оплаты, кликните “Оплатить”"
-        },
-        {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc5f.png",
-          "text": "Выберете вкладку “Облачные серверы”, дождитесь пока закончится настройка сервера"
-        },
-        {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc6f.png",
-          "text": " Во вкладке “Облачные серверы” выберете Дашборд, справа от графика “Нагрузка процессора” Вы увидите данные для подключения к серверу IPv4, логин - root и пароль, который можно скопировать."
-        },
-        {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/timeweb/twc7screen.png",
-          "text": "Установите приложение AmneziaVPN и внесите полученные данные, далее следуйте подсказкам приложения, или зайдите в раздел инструкций “Автоматическая установка”"
-        }
-        
-      ] 
-    },
+    
     {
       "recommend": false,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aeza/aeza_logo.svg",
