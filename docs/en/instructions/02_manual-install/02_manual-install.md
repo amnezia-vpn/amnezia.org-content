@@ -10,7 +10,7 @@ If your connection data has been shared with you in the form of a [file], [text 
 
 &nbsp;
 
-### Установите приложение Amnezia
+### Install the Amnezia app
 
 On the first screen, the application will ask for your connection details.  These are the details of your VPS server. Hosting providers will send them to your mail after you buy a VPS.  In the email you will find :
 
