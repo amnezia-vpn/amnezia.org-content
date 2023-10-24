@@ -14,7 +14,7 @@ In this way, AmneziaWG maintains high performance while adding an extra layer of
 - Not recognised by DPI analysis systems, resistant to blocking. 
 - Works over UDP network protocol.
 
-**Principle of operation.**
+### Principle of operation: ###
 
 AmneziaWG works within the framework of backward compatibility. That is, the AmneziaWG implementation allows you to change some static parameters in WireGuard, by which the protocol is usually recognised by DPI systems. And if these parameters are left as default (equal to 0), the protocol will work as a normal WireGuard.
 

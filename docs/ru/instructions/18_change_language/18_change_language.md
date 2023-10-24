@@ -1,11 +1,10 @@
 # Выбор языка 
 
-&nbsp;
 
 ### Откройте главный экран Amnezia
 
 
-На главном экране  внизу  кликните на значок настроек (крайний правый).
+На главном экране  внизу  кликните на значок настроек.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/18_change_language/img/lc_ru_1.png)
 
