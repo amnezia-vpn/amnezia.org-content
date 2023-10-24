@@ -7,7 +7,7 @@ This will remove all installed protocols, as well as all Amnezia services such a
 ### Open the Amnezia home screen
 
 
-On the home screen at the bottom, click on the settings icon (far right).
+On the home screen at the bottom, click on the settings icon.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/07_delete-servises-amnezia/img/dsa_en_1.png)
 

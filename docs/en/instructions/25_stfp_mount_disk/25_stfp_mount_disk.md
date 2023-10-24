@@ -1,4 +1,4 @@
-#  Mount a disk for STFP storage 
+#  Mount a disk for SFTP storage 
 &nbsp;
 
 You can find instructions on "How to create file storage" [here].
@@ -12,13 +12,13 @@ Next, go to the "Servers" section
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/25_stfp_mount_disk/img/stftpmd_en_2.png)
 
-Select the server with file storage "STFP".
+Select the server with file storage "SFTP".
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/25_stfp_mount_disk/img/stftpmd_en_3.png)
 
 
 Select the Services tab, 
-On the Services tab, select "STFP".
+On the Services tab, select "SFTP".
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/25_stfp_mount_disk/img/stftpmd_en_4.png)
 

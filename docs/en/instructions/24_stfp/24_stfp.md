@@ -1,4 +1,4 @@
-# Creating an STFP file store
+# Creating an SFTP file store
 
 
 &nbsp;
@@ -19,7 +19,7 @@ Select a server to create file storage on it
 
 
 Select the Services tab, 
-On the Services tab, select "STFP".
+On the Services tab, select "SFTP".
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/24_stfp/img/stfp_en_4.png)
 

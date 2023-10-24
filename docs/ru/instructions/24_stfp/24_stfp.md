@@ -1,4 +1,4 @@
-# Создание файлового хранилища STFP
+# Создание файлового хранилища SFTP
 
 
 &nbsp;
@@ -19,7 +19,7 @@
 
 
 Выберете вкладку "Сервисы", \
-Во вкладке "Сервисы" выберете “STFP”.
+Во вкладке "Сервисы" выберете “SFTP”.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/24_stfp/img/stfp_ru_4.png)
 

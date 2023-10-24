@@ -121,12 +121,12 @@
     "subtext": "in two clicks with reinstalled WordPress "
   },
   {
-    "title": "Creating an STFP file store",
+    "title": "Creating an SFTP file store",
     "href": "../instructions/24_stfp",
     "subtext": "in two clicks"
   },
   {
-    "title": "Mount a disk for STFP storage ",
+    "title": "Mount a disk for SFTP storage ",
     "href": "../instructions/25_stfp_mount_disk",
     "subtext": "disk to use file storage without third-party software"
   },

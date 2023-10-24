@@ -3,7 +3,7 @@
 
 In this case, we will consider the option of connecting via a configuration file.
 
- The file should be in .vpn, .conf or .ovpn format 
+ The file should be in **.vpn**, **.conf** or **.ovpn** format 
 
 Do not use files from public sources, they may have been posted for the purpose of capturing your personal data.
 

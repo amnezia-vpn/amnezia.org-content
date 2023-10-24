@@ -36,7 +36,7 @@ Select "I have data to connect".
 In these instructions we will look at connecting via IP, username and password, so choose "Configure your server".
 
 
-![instruction 2](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/01_auto-install/img/ai_en_2.png)
+![instruction21](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/01_auto-install/img/ai_en_2.png)
 
 &nbsp;
 
@@ -72,7 +72,7 @@ Selecting **Low** control level will install Wireguard without traffic masking. 
 
 &nbsp;
 
-### Wait for Amnezia to configure your VPN.
+**Wait for Amnezia to configure your VPN**.
 
 ![instruction5](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/01_auto-install/img/ai_en_5.png)
 
@@ -80,7 +80,7 @@ Click on the **“Connect”** button.
 
 ![instruction6](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/01_auto-install/img/ai_en_6.png)
 
-Now you can share your connection with other people, add and remove protocols, select sites for which you want or don't want to use VPN, set your own DNS and much more.... 
+Now you can share your connection with other people, add and remove protocols, select sites for which you want or don't want to use VPN, set your own DNS and much more... 
 
 If you still have questions, check out the [FAQ], our [Telegram chat] or [other sections of the manual].
 

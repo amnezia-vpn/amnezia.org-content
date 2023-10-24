@@ -1,4 +1,4 @@
-#  Смонтировать диск для STFP хранилища 
+#  Смонтировать диск для SFTP хранилища 
 &nbsp;
 
 Инструкцию “Как создать файловое хранилище” можно найти [здесь].  
@@ -14,13 +14,13 @@
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/25_stfp_mounte_disk/img/stftpmd_ru_2.png)
 
 
-Выберете сервер с файловым хранилищем “STFP”.
+Выберете сервер с файловым хранилищем “SFTP”.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/25_stfp_mounte_disk/img/stftpmd_ru_3.png)
 
 
 Выберете вкладку "Сервисы", / 
-Во вкладке "Сервисы" выберете  “STFP”.
+Во вкладке "Сервисы" выберете  “SFTP”.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/25_stfp_mounte_disk/img/stftpmd_ru_4.png)
 

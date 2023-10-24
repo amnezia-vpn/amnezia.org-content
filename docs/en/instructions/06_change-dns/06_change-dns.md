@@ -13,7 +13,7 @@ DNS queries. Switching to your own DNS server, helps protect your personal infor
 
 ### Open the home screen  
 
-On the home screen, click on the settings icon (far right) at the bottom.
+On the home screen, click on the settings icon.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/06_change-dns/img/cd_en_1.png)
 
