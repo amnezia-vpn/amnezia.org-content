@@ -9,7 +9,7 @@
     {
       "recommend": false,
       "logo": "/img/logos/vendor/digital-ocean.svg",
-      "link": "https://www.digitalocean.com/",
+      "link": "https://www.digitalocean.com/?refcode=3d6dcd68b697&utm_campaign=Referral_Invite&utm_medium=Referral_Program",
       "desc": "Provider does not support payment by Russian cards",
       "serversLabel": "Servers",
       "serversText": "USA, Netherlands, UK, Germany, Canada, Germany, Singapore, India",
@@ -88,7 +88,7 @@
     {
       "recommend": false,
       "logo": "/img/logos/vendor/aws.svg",
-      "link": "https://www.aws.name",
+      "link": "https://aws.amazon.com/ru/ec2",
       "desc": "The provider does not support payment by Russian cards. There is a period of free server testing up to 12 months with limited free traffic ",
       "serversLabel": "Servers",
       "serversText": " USA, South Africa, Hong Kong, India, Japan, South Korea, Singapore, Australia, Canada, Germany, Ireland, UK, Italy, France, Sweden, Bahrain, Brazil.",
@@ -204,7 +204,7 @@
     {
       "recommend": false,
       "logo": "/img/logos/vendor/sinfu.svg",
-      "link": "https://www.cinfu.com/",
+      "link": "https://panel.cinfu.com/aff.php?aff=1395",
       "desc": "The provider does not support payment by Russian cards.",
       "serversLabel": "Servers",
       "serversText": "USA, Bulgaria, France, Germany, Netherlands",
@@ -264,7 +264,7 @@
     {
       "recommend": false,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pq-hosting.svg",
-      "link": "https://pq.hosting/",
+      "link": "https://pq.hosting/?from=617316",
       "desc": "Payment by Russian cards is possible.",
       "serversLabel": "Servers",
       "serversText": "Netherlands, Canada, UK, Latvia, USA, Ukraine, Bulgaria, Romania, Portugal, Sweden, Ireland, France, Estonia, Denmark, Germany, Moldova, Czech Republic, Italy, Switzerland, Spain, Austria, Russia, and another +12)  ",
