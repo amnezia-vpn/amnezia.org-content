@@ -1,7 +1,6 @@
 # How Amnezia works
 
 
-&nbsp;
 
 ###  What is AmneziaVPN?
 

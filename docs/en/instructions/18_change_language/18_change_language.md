@@ -1,7 +1,5 @@
 # Changing languages
 
-&nbsp;
-
 ### Open the Amnezia home screen
 
 

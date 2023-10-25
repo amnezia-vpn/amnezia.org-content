@@ -1,5 +1,4 @@
 #  Mount a disk for SFTP storage 
-&nbsp;
 
 You can find instructions on "How to create file storage" [here].
 
@@ -55,7 +54,7 @@ Amnezia will mount the Drive on your device, so you can access your storage with
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
-[here]: https://codex.wordpress.org/ 
+[here]: ../instructions/24_stfp 
 [WinFsp]: https://github.com/winfsp/winfsp/releases/tag/v2.0
 [SSHFS-Win]: https://github.com/winfsp/sshfs-win/releases
 [FAQ]: ../faq

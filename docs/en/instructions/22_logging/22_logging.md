@@ -1,6 +1,6 @@
 # Logging
 
-&nbsp;
+
 
 ### Open the Amnezia home screen
 

@@ -1,7 +1,5 @@
 # Reset settings and delete all data from the application
 
-&nbsp;
-
 ### Open the Amnezia home screen
 
 On the home screen at the bottom, click on the settings icon (far right).
