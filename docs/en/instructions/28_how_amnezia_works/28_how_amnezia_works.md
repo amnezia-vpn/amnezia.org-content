@@ -7,7 +7,7 @@
  AmneziaVPN is a free open-source multi-protocol VPN client with the function of setting up your own VPN server, or in other words self-hosted VPN.
 
 
-### How does Amnezia create a VPS-based VPN?
+### How does Amnezia create a VPS-based VPN
 
 When you connect for the first time, the application automatically generates a new key pair for OpenVPN and
 generates a Certificate Signing Request (CSR). The Certificate Signing Request, 

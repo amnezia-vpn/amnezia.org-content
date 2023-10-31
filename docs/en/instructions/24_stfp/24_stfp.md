@@ -27,7 +27,7 @@ Next, click "Install"
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/24_stfp/img/stfp_en_5.png)
 
 After successful installation, you will see a screen with settings and data for connecting to the file storage. \
-Host is the IP of your server, port is usually 22 or 222, login and password. \ 
+Host is the IP of your server, port is usually 22 or 222, login and password. \
 With this data you can access the file storage through any SFTP client.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/24_stfp/img/stfp_en_6.png)
