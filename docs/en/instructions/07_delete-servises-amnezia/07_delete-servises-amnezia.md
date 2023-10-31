@@ -19,7 +19,7 @@ Select a server
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/07_delete-servises-amnezia/img/dsa_en_3.png)
 
-Select the "Data" tab, 
+Select the "Data" tab, \
 In the "Data" tab, select "Clear server from Amnezia software".
 
 All changes made on the server using the Amnezia client will be deleted.

@@ -15,8 +15,8 @@ Select the server you want to check for installed services.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/26_cheking-server/img/cs_en_2.png)
 
-Select the "Data" tab, 
-In the "Data" tab, select "Check server for installed Amnezia services". 
+Select the "Data" tab, \
+In the "Data" tab, select "Check server for installed Amnezia services". \
 All protocols and services installed on the server will be added to the application automatically.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/26_cheking-server/img/cs_en_3.png)

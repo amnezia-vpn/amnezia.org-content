@@ -6,7 +6,7 @@ Install the Amnezia app
 
 ### Open the Amnezia home screen
 
-At the bottom, click on the settings icon (far right).
+On the home screen at the bottom, click on the settings icon.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/23_create_site_tor/img/cst_en_1.png)
 

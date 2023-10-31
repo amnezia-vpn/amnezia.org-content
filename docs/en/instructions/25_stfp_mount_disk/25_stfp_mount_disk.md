@@ -3,7 +3,7 @@
 You can find instructions on "How to create file storage" [here].
 
 
-On the home screen at the bottom, click on the settings icon (far right).
+At the bottom, click on the settings icon.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/25_stfp_mount_disk/img/stftpmd_en_1.png)
 
@@ -16,8 +16,8 @@ Select the server with file storage "SFTP".
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/25_stfp_mount_disk/img/stftpmd_en_3.png)
 
 
-Select the Services tab, 
-On the Services tab, select "SFTP".
+Select the Services tab, \
+On the Services tab, select "SFTP". 
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/25_stfp_mount_disk/img/stftpmd_en_4.png)
 
@@ -29,7 +29,8 @@ You will be taken to the file storage settings.
 Before mounting the disk, install [WinFsp] and [SSHFS-Win].
 
 [WinFsp] 
-Go to the github link, scroll to the end of the page, select the .msi file as indicated in the screenshot
+
+Go to the github link, scroll to the end of the page, select the **.msi** file as indicated in the screenshot
 
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/25_stfp_mount_disk/img/stftpmd_en_6.png)

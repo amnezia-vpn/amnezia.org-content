@@ -7,7 +7,7 @@ If autoloading is enabled, Amnezia will open when you turn on your computer.
 ### Open the Amnezia home screen
 
 
- On the home screen, click on the settings icon (far right) at the bottom.
+On the home screen at the bottom, click on the settings icon.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/17_application-autostart/img/aa_en_1.png)
 

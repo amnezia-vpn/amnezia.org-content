@@ -17,7 +17,7 @@ On the home screen, click on the settings icon.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/06_change-dns/img/cd_en_1.png)
 
-Next, go to the Servers section 
+Next, go to the "Servers" section 
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/06_change-dns/img/cd_en_2.png)
 

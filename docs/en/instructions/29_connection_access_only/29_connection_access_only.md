@@ -10,7 +10,7 @@ In the server settings section, the Protocols tab will only show the protocols t
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/29_connection_access_only/img/cao_en_1.png)
 
-In the settings section, in the "Services" tab, you will only be able to change DNS. 
+In the settings section, in the "Services" tab, you will only be able to change DNS. \
 Other services, such as the ability to deploy a site in the Tor network, or create a file storage, are only possible with full access to the server.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/29_connection_access_only/img/cao_en_2.png)

@@ -3,9 +3,9 @@
 ### About protocols
 
 > We do not recommend using OpenVPN, Wireguard, IKEv2 protocols without traffic masking in countries
-> with high level of censorship, as the ip address of your VPS may be blocked. To avoid blocking use only
-> OpenVPN over Cloak.
-&nbsp;
+with high level of censorship, as the ip address of your VPS may be blocked. To avoid blocking use only
+OpenVPN over Cloak.
+
 
 ### OpenVPN  
 

@@ -58,7 +58,7 @@
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/digital-ocean/do10f.png",
-          "text": "Choose Ubuntu 20.04, or Debian 10, tariff plan “Basic”"
+          "text": "Choose Ubuntu 22.04, or Debian 11, tariff plan “Basic”"
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/digital-ocean/do11f.png",
@@ -114,7 +114,7 @@
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aws/aws4f.jpg",
-          "text": "Add your email, and think of your amazon account name, then click on “Verifi email addres”"
+          "text": "Add your email, and think of your Amazon account name, then click on “Verifi email addres”"
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aws/aws5f.jpg",
@@ -162,7 +162,7 @@
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aws/aws16f.png",
-          "text": "Choose OS, Officially supported version of Ubuntu 20.04 and Debian 10, in this case choose Ubuntu 20.04"
+          "text": "Choose OS, Officially supported version of Ubuntu 20-22 and Debian 10-11, in this case choose Ubuntu 20.04"
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aws/aws17f.png",

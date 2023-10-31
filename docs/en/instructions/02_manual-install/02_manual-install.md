@@ -81,7 +81,7 @@ More detailed description of all protocols and traffic masking can be found [her
 
 ![instruction5](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/02_manual-install/img/mi_en_6.png)
 
-Click on the **“Connect”** button.
+### Click on the **“Connect”** button.
 
 
 ![instruction6](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/02_manual-install/img/mi_en_7.png)

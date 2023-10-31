@@ -3,7 +3,7 @@
 In this case, we will consider the option of connecting via QR code
 Do not use a QR code from public sources, it may have been posted for the purpose of intercepting your personal data.
 
-> Amnezia works with any server running Ubuntu (officially supported version is 22.04), Debian 11 is also supported.
+> Amnezia works with any server running Ubuntu (officially supported version is 22.04, Debian 11 is also supported).
 
 
 &nbsp;
@@ -48,8 +48,7 @@ Click the "Connect" button on the main screen.
 Now you can share your connection with other people, add and remove protocols, select exclusion sites, set your own DNS and much more... 
 If you still have questions, please refer to the [FAQ], our [Telegram chat] or [other sections of the manual].
 
-[amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app\
-[about-int-link]: /about
+
 [file]: ../instructions/04_file-connection
 [key in the form of text]: ../instructions/03_text-key-connection
 [manual]: ../instructions/02_manual-install

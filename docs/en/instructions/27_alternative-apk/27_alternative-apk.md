@@ -7,7 +7,7 @@ Below are alternative clients for some protocols
 
 ### Clients for "OpenVPN"
 
-OpenVPN Connect is the official client for the OpenVPN protocol.
+OpenVPN Connect is the official client for the OpenVPN protocol. \
 There are versions for Windows, Linux, MacOS, Android, IOS
 
 OpenVPN for Android - unofficial application with a lot of settings,
@@ -16,7 +16,7 @@ OpenVPN for Android - unofficial application with a lot of settings,
 ### Clients for "Shadowsocks"
 
 
-Shadowsocks - official clients for Windows, macOS and Android + ChromeOS.
+Shadowsocks - official clients for Windows, macOS and Android + ChromeOS. \
 More detailed instructions on how to install ShadowSocks with the Cloak plugin and use it in the ShadowSocks app [here].   
 
 ShadowRocket - third-party Shadowsocks client for iPhone and iPad, paid for about 40$

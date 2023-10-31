@@ -6,7 +6,8 @@ In this case, the person you share it with will be able to install and configure
 Or you can grant access for connection only. In this case, the user you shared it with will be able to use your VPN.
 use your VPN, but will not be able to change its settings and protocols.
 
-&nbsp;
+> If the user you shared full access to the server with deletes the protocol, or reinstalls it, 
+you will not be able to connect to it until you reinstall it. Therefore, we recommend sharing full access only with your own devices.
 
 ### Open the Amnezia home screen
 
@@ -15,17 +16,8 @@ On the home screen, click on the share icon (in the middle) at the bottom.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/10_sharing-connect/img/sc_en_1.png)
 
-Click the "Add" button
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/10_sharing-connect/img/sc_en_2.png)
-
-Next, you will be prompted to select the type of access you want to share:
-Connection is access without the ability to configure the server and select and configure protocols
- 
-Full access is access with the ability to customize the server and select and configure protocols. 
-
-Enter a name for the user you are going to share with.  
-
+Next, you will be prompted to select the type of access you want to share:  
 
 **Server and service** 
 Select which server and protocol you want to share.

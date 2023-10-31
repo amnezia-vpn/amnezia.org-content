@@ -18,7 +18,7 @@
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/25_stfp_mounte_disk/img/stftpmd_ru_3.png)
 
 
-Выберете вкладку "Сервисы", / 
+Выберете вкладку "Сервисы", \ 
 Во вкладке "Сервисы" выберете  “SFTP”.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/25_stfp_mounte_disk/img/stftpmd_ru_4.png)
@@ -39,7 +39,7 @@
 
 [SSHFS-Win] 
 
-Перейдите по ссылке на гитхаб, пролистайте страницу до раздела "Assets", выберете файл в формате .msi,  как указано на скриншоте.
+Перейдите по ссылке на гитхаб, пролистайте страницу до раздела "Assets", выберете файл в формате .msi, как указано на скриншоте.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/25_stfp_mounte_disk/img/stftpmd_ru_7.png)
 

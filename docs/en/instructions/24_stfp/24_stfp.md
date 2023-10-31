@@ -1,11 +1,9 @@
 # Creating an SFTP file store
 
 
-&nbsp;
-
 ### Open the Amnezia home screen
 
-On the home screen at the bottom, click on the settings icon (far right).
+At the bottom, click on the settings icon.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/24_stfp/img/stfp_en_1.png)
 
@@ -18,7 +16,7 @@ Select a server to create file storage on it
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/24_stfp/img/stfp_en_3.png)
 
 
-Select the Services tab, 
+Select the Services tab, \
 On the Services tab, select "SFTP".
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/24_stfp/img/stfp_en_4.png)
@@ -28,14 +26,16 @@ Next, click "Install"
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/24_stfp/img/stfp_en_5.png)
 
-After successful installation, you will see a screen with settings and data for connecting to the file storage. 
-Host is the IP of your server, port is usually 22 or 222, login and password.  With this data you can access the 
-file storage through any SFTP client.
+After successful installation, you will see a screen with settings and data for connecting to the file storage. \
+Host is the IP of your server, port is usually 22 or 222, login and password. \ 
+With this data you can access the file storage through any SFTP client.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/24_stfp/img/stfp_en_6.png)
 
 In this case we will connect to the storage via [FileZilla]. 
+
 Install the application. On the first screen add data to the string as on the screenshot. 
+
 In case of FileZilla, add sftp:// string to your IP, the format will be sftp://199.10.20.171, add this data to the 
 "Host" line, the rest of the data will be added as it is. Click "Quick connect"
   

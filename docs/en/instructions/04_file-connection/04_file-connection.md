@@ -7,7 +7,7 @@ In this case, we will consider the option of connecting via a configuration file
 
 Do not use files from public sources, they may have been posted for the purpose of capturing your personal data.
 
-> Amnezia works with any server running Ubuntu (officially supported version is 22.04), Debian 11 is also supported.
+> Amnezia works with any server running Ubuntu (officially supported version is 22.04, Debian 11 is also supported).
 
 
 &nbsp;
@@ -58,7 +58,7 @@ If you still have questions, check out the [FAQ], our [Telegram chat] or [other 
 [QR code]: ../instructions/05_qr-code_connection
 [text key]: ../instructions/03_text-key-connection
 [manual]: ../instructions/02_manual-install
-[FAQ]: /faq
+[FAQ]: ../faq
 [Telegram chat]: https://t.me/amnezia_vpn_en
 [other sections of the manual]: ../instructions
 [automatic installation]: ../instructions/01_auto-install

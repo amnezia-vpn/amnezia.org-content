@@ -6,27 +6,23 @@ Instructions on how to select and connect to the server [here]
 
 &nbsp;
 
- On the main screen at the bottom, click on the name of your server (in the screenshot it is labeled Server1).
+### Open the Amnezia app
+
+On the bottom panel, click on the "plus" icon.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/15_server-adding/img/sa_en_1.png)
 
-Click on the plus sign in the upper right corner near the "Servers" label
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/15_server-adding/img/sa_en_2.png)
-
-Select the type of data you have. 
-It could be an IP, login and password.
+Select the type of data you have. \
+It could be an IP, login and password. \
 or a QR code, or a key, or a settings file
 
-Then follow the prompts of the application, or refer
-to the corresponding sections of the manual
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/15_server-adding/img/sa_en_3.png)
 
-[Automatic setup], or [Manual setup] if you have an IP 
-
-login and password and connect via [file], [text key] или [QR code]. 
-
+Then follow the prompts of the application, or refer to the corresponding sections of the instruction manual
+[Auto Setup], or [Manual Setup] if you have an IP login and password,
+or connect via [file], [text key] or [QR code].
 
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app

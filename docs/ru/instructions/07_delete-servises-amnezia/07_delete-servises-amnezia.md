@@ -22,7 +22,7 @@
 Выберете вкладку “Данные”.\
 Во вкладке “Данные” выберете  “Удалить сервисы Amnezia с сервера”.
 
-Будут удалены все изменения на сервере,  сделанные с помощью  клиента Amnezia. 
+Будут удалены все изменения на сервере, сделанные с помощью клиента Amnezia. 
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/07_delete-servises-amnezia/img/dsa_ru_4.png)
 

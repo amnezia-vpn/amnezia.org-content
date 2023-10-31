@@ -3,6 +3,8 @@
 Amnezia supports almost all modern protocols: OpenVPN, Wireguard, ShadowSocks IKv2 and OpenVPN with Cloak plugin, you can read more about protocols in [protocols description] .
 &nbsp;
 
+### Open the Amnezia app
+
 On the main screen, click on the server name (in the screenshot it is labeled Server1).
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/14_protocol-change/img/pc_en_1.png)
@@ -14,8 +16,7 @@ as in the screenshot
 
 Select a protocol from the list
 
-> If the desired protocol is not in the list, it means that a [connect-only] configuration has been shared with you, request a configuration with the desired protocols from the person who shared it
-> with you, or [connect to your own server].
+> If the desired protocol is not in the list, it means that a [connect-only] configuration has been shared with you, request a configuration with the desired protocols from the person who shared it with you, or [connect to your own server].
 
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/14_protocol-change/img/pc_en_3.png)

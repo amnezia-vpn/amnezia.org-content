@@ -36,9 +36,6 @@ In OpenVPN over Cloak, the Cloak plugin is responsible for traffic masking. It c
 If there is a high level of Internet censorship in your region, we advise you to use only OpenVPN over Cloak from the first connection
 
 
-###  The principle of operation of most commercial VPNs
-###  Amnezia VPN working principle
-()
 
 If you still have questions, please refer to [FAQ], our [telegram chat] or [other sections of the manual]
 

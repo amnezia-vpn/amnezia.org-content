@@ -20,12 +20,12 @@ Click the gear icon to the right of the server name
 
 Click on the "Protocols" tab 
 Select the protocol you want to set . 
-Instructions on how to change the protocol are [here].
 
 If the protocol is already installed, the icon next to the protocol will change to an arrow.  
 
 In this case, if you click on the name of the protocol, you will get to its settings menu.
 
+> Instructions on how to change the protocol are [here].
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/11_installation-configuration-protocols/img/icp_en_3.png)
 
@@ -35,14 +35,15 @@ Select a protocol or plug-in to change the settings.
 
 ### Configuring OpenVPN
 
-The OpenVPN protocol is very flexible for customization.
-You can change the subnet address in it. 
-Network protocol 
-Port 
-Select the encryption method for the code and hash
+The OpenVPN protocol is very flexible for customization. /
+You can change the subnet address in it. /
+Network protocol, /
+Port, /
+Select the encryption method for the code and hash, /
 TLS-auth adds another HMAC signature to SSL/TLS handshake packets, initiating additional packet integrity checking. 
 A packet without a signature will not be processed. This will provide an additional layer of security to the SSL/TLS protocol, 
-protecting the system from some types of attacks. Block DNS request outside of VPN - prevents your DNS server address from being leaked.
+protecting the system from some types of attacks. / 
+Block DNS request outside of VPN - prevents your DNS server address from being leaked.
 
 ![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/11_installation-configuration-protocols/img/icp_en_5.png)
 
@@ -55,10 +56,11 @@ You can enter any site in this box and when attempting to detect and intercept V
 
 In the ShadowSocks settings, you can change the encryption method and port.
 
-> OpenVPN over ShadowSocks and OpenVPN over Cloak work only through the TCP network protocol,
-> since ShadowSocks can only work through TCP.
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/11_installation-configuration-protocols/img/icp_en_7.png)
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/11_installation-configuration-protocols/img/icp_en_7.png)
+In the AmneziaWG settings, you can change the "Magic" headers and "Junk" packet sizes.
+
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/11_installation-configuration-protocols/img/icp_en_8.png)
 
 If you still have questions, please refer to the [FAQ], our [Telegram chat] or [other sections of the manual]
 
