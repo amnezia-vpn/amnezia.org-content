@@ -56,7 +56,7 @@ You can enter any site in this box and when attempting to detect and intercept V
 
 In the ShadowSocks settings, you can change the encryption method and port.
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/11_installation-configuration-protocols/img/icp_en_7.png)
+![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/11_installation-configuration-protocols/img/icp_en_7.png)
 
 In the AmneziaWG settings, you can change the "Magic" headers and "Junk" packet sizes.
 
