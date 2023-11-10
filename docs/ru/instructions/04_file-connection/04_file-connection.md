@@ -19,35 +19,35 @@
 Выберете "У меня есть данные для подключения" 
 
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/04_file-connection/img/fc_ru_1.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/04_file-connection/img/fc_ru_1.png)
 
 
-## Выберете  тип данных, который у вас есть. 
+## Выберете тип данных, который у вас есть. 
 
 В этой инструкции мы рассмотрим подключение через файл c конфигурацией, поэтому выбираем “Открыть файл настроек, ключ или QR-code”
 
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/04_file-connection/img/fc_ru_2.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/04_file-connection/img/fc_ru_2.png)
 
->Если ваши данные для подключение в другом формате, обратитесь к разделам подключение с помощью  [QR-кода], [ключа в виде текста] , [ручная] или [автоматическая] установка.
+>Если ваши данные для подключения в другом формате, обратитесь к разделам подключение с помощью  [QR-кода], [ключа в виде текста] , [ручная] или [автоматическая] установка.
 
 Нажмите на “Файл с настройками подключения” и выберете файл на вашем устройстве.
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/04_file-connection/img/fc_ru_3.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/04_file-connection/img/fc_ru_3.png)
 
-Здесь вы можете посмотреть соделжимое файла
+Здесь вы можете посмотреть содержимое файла
 далее нажмите “Подключиться” 
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/04_file-connection/img/fc_ru_4.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/04_file-connection/img/fc_ru_4.png)
 
 Дождитесь пока Amnezia настроит ваш VPN.
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/04_file-connection/img/fc_ru_5.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/04_file-connection/img/fc_ru_5.png)
 
-Нажмите на кнопку  “Подключиться” на главном экране.
+Нажмите на кнопку “Подключиться” на главном экране.
 
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/04_file-connection/img/fc_ru_6.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/04_file-connection/img/fc_ru_6.png)
 
 
 Теперь вы можете делиться подключением с другими людьми, добавлять и удалять  протоколы, выбрать сайты-исключения, установить собственный DNS и еще многое другое... 

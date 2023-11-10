@@ -11,12 +11,12 @@ and below we will tell you how to install and configure VPN protocols with Amnez
 
 On the main screen, click on the server name.
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/11_installation-configuration-protocols/img/icp_en_1.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/11_installation-configuration-protocols/img/icp_en_1.png)
 
 Click the gear icon to the right of the server name
 
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/11_installation-configuration-protocols/img/icp_en_2.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/11_installation-configuration-protocols/img/icp_en_2.png)
 
 Click on the "Protocols" tab 
 Select the protocol you want to set . 
@@ -27,11 +27,11 @@ In this case, if you click on the name of the protocol, you will get to its sett
 
 > Instructions on how to change the protocol are [here].
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/11_installation-configuration-protocols/img/icp_en_3.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/11_installation-configuration-protocols/img/icp_en_3.png)
 
 Select a protocol or plug-in to change the settings.
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/11_installation-configuration-protocols/img/icp_en_4.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/11_installation-configuration-protocols/img/icp_en_4.png)
 
 ### Configuring OpenVPN
 
@@ -45,22 +45,22 @@ A packet without a signature will not be processed. This will provide an additio
 protecting the system from some types of attacks. \ 
 Block DNS request outside of VPN - prevents your DNS server address from being leaked.
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/11_installation-configuration-protocols/img/icp_en_5.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/11_installation-configuration-protocols/img/icp_en_5.png)
 
 In the Cloak plugin you can change encryption and port. 
 
 And also choose masking for traffic. 
 You can enter any site in this box and when attempting to detect and intercept VPN traffic by DPI analysis systems, only this cloak will be displayed instead of VPN traffic.
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/11_installation-configuration-protocols/img/icp_en_6.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/11_installation-configuration-protocols/img/icp_en_6.png)
 
 In the ShadowSocks settings, you can change the encryption method and port.
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/11_installation-configuration-protocols/img/icp_en_7.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/11_installation-configuration-protocols/img/icp_en_7.png)
 
 In the AmneziaWG settings, you can change the "Magic" headers and "Junk" packet sizes.
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/11_installation-configuration-protocols/img/icp_en_8.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/11_installation-configuration-protocols/img/icp_en_8.png)
 
 If you still have questions, please refer to the [FAQ], our [Telegram chat] or [other sections of the manual]
 
