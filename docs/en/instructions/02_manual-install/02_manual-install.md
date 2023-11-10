@@ -3,7 +3,7 @@
 
 To create your own VPN, buy a virtual VPS server. For step-by-step instructions on how to buy a VPS from some of the popular hosting providers, see [How to run your VPN with Amnezia].  
 
-If your connection data has been shared with you in the form of a [file], [text key], or [qr code], you do not need to buy a server, please refer to the relevant instructions .
+If your connection data has been shared with you in the form of a [file] [text key], or [qr code], you do not need to buy a server, please refer to the relevant instructions .
 
 > Amnezia works with any server running Ubuntu (officially supported version is 22.04), Debian 11 is also supported.
 
@@ -32,7 +32,7 @@ In this case, please refer to the instructions [Connect via text key].
 
 ### Choose the data type you have.
 
-In these instructions we will look at connecting via IP, username and password, so choose "Configure your server.
+In these instructions we will look at connecting via IP, username and password, so choose "Configure your server".
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/02_manual-install/img/mi_en_2.png)
 
@@ -88,7 +88,7 @@ More detailed description of all protocols and traffic masking can be found [her
 
 
 Now you can share your connection with other people, add and remove protocols, select exclusion sites, set your own DNS and much more... 
-If you still have questions, check out the [FAQ], our [Telegram chat] or [other sections of the manual]
+If you still have questions, check out [FAQ], our [Telegram chat] or [other sections of the manual]
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about

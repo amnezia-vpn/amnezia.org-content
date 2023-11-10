@@ -30,14 +30,14 @@ Before mounting the disk, install [WinFsp] and [SSHFS-Win].
 
 [WinFsp] 
 
-Go to the github link, scroll to the end of the page, select the **.msi** file as indicated in the screenshot
+Go to the Github link, scroll to the end of the page, select the **.msi** file as indicated in the screenshot
 
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/25_stfp_mount_disk/img/stftpmd_en_6.png)
 
 [SSHFS-Win] 
 
-Go to the github link, scroll down the page to the Assets section, select the .msi file as shown in the screenshot.
+Go to the Github link, scroll down the page to the Assets section, select the .msi file as shown in the screenshot.
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/25_stfp_mount_disk/img/stftpmd_en_7.png)
 
@@ -50,7 +50,7 @@ Amnezia will mount the Drive on your device, so you can access your storage with
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/25_stfp_mount_disk/img/stftpmd_en_9.png)
 
 
- If you still have questions, please refer to the [FAQ], our [Telegram chat] or [other sections of the manual]
+ If you still have questions, please refer to [FAQ], our [Telegram chat] or [other sections of the manual]
 
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app

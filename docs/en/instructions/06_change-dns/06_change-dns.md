@@ -48,7 +48,7 @@ Here you can select "Use Amnezia DNS" , or you can use other DNS servers.
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/06_change-dns/img/cd_en_8.png)
 
 
-If you still have questions, please refer to the [FAQ], our [Telegram chat] or [other sections of the manual]
+If you still have questions, please refer to [FAQ], our [Telegram chat] or [other sections of the manual]
 
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app

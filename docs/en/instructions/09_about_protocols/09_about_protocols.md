@@ -48,8 +48,7 @@ Recognized by some DPI analysis systems \
 Works only via TCP network protocol
 
  penVPN over Cloak versions installed on client versions younger than 3 are not compatible with > subsequent versions of the client. 
-subsequent versions of the client. If you installed OpenVPN over Cloak on version 1 or 2 of the client
- client, you must reinstall the protocol to make it work on versions 3 and 4.
+subsequent versions of the client. If you installed OpenVPN over Cloak on version 1 or 2 of the client, you must reinstall the protocol to make it work on versions 3 and 4.
 
  ###  WireGuard
 
@@ -86,7 +85,7 @@ Minimum number of settings. \
 Not recognised by DPI analysis systems, resistant to blockingю. \
 Works over UDP network protocol.
 
-If you still have questions, please refer to the [FAQ], our [Telegram chat] or [other sections of the manual]
+If you still have questions, please refer to [FAQ], our [Telegram chat] or [other sections of the manual]
 
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app

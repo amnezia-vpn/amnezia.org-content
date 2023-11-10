@@ -6,7 +6,7 @@
 
 ### Откройте приложение Amnezia
 
- На главном экране  внизу  кликните на название вашего сервера  (на скриншоте он обозначен как Server1).
+ На главном экране внизу кликните на название вашего сервера (на скриншоте он обозначен как Server1).
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/13_select-server/img/ss_ru_1.png)
 

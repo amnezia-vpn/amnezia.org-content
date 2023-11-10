@@ -17,7 +17,7 @@ Select to enable logging
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/22_logging/img/l_en_3.png)
  
- If you still have questions, please refer to the [FAQ], our [Telegram chat] or [other sections of the manual]
+ If you still have questions, please refer to [FAQ], our [Telegram chat] or [other sections of the manual]
 
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app

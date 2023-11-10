@@ -35,7 +35,7 @@
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/06_change-dns/img/cd_ru_5.png)
 
 В дальнейшем, вы сможете менять настройки своего DNS сервера. 
-Для этого откройте главный экран и нажмите на эконку настроек на нижней панели приложения.  
+Для этого откройте главный экран и нажмите на иконку настроек на нижней панели приложения.  
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/06_change-dns/img/cd_ru_6.png)
 

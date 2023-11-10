@@ -52,7 +52,7 @@ Click the "Connect" button.
 
 
 Now you can share your connection with other people, add and remove protocols, select exclusion sites, set your own DNS and much more.... 
-If you still have questions, check out the [FAQ], our  [Telegram chat] or [other sections of the instructions]
+If you still have questions, check out [FAQ], our [Telegram chat] or [other sections of the instructions]
 
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app

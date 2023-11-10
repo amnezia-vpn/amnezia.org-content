@@ -19,7 +19,7 @@ On the next screen, select "Allow screenshots".
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/16_allow-screenshots/img/as_en_3.png)
 
-If you still have questions, please refer to the [FAQ], our [Telegram chat] or [other sections of the manual]
+If you still have questions, please refer to [FAQ], our [Telegram chat] or [other sections of the manual]
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about

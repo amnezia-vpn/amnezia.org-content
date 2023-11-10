@@ -14,7 +14,7 @@ Go back to the main screen, tap Connect
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/13_select-server/img/ss_en_2.png)
 
-If you still have questions, please refer to the [FAQ], our [Telegram chat] or [other sections of the manual]
+If you still have questions, please refer to [FAQ], our [Telegram chat] or [other sections of the manual]
 
 
 

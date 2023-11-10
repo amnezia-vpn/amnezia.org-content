@@ -15,7 +15,7 @@
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/23_create_site_tor/img/cst_ru_2.png)
 
-Выберете сервер, на котором вы хотите установить сайт в сети TOR .
+Выберете сервер, на котором вы хотите установить сайт в сети TOR.
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/23_create_site_tor/img/cst_ru_3.png)
 
@@ -47,11 +47,11 @@
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/23_create_site_tor/img/cst_ru_9.png)
 
-Введите имя пользователя, указанное при регистрации и пароль.
+Введите имя пользователя, указанное при регистрации, и пароль.
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/23_create_site_tor/img/cst_ru_10.png)
 
-Вы зашли в консоль для создания сайтов с помощью конструктора  WordPress, более подробную информацию по созданию сайтов на WordPress вы найдете [здесь]. 
+Вы зашли в консоль для создания сайтов с помощью конструктора WordPress, более подробную информацию по созданию сайтов на WordPress вы найдете [здесь]. 
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/23_create_site_tor/img/cst_ru_11.png)
 

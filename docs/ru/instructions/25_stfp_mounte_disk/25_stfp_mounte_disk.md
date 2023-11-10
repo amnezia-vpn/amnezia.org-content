@@ -19,7 +19,7 @@
 
 
 Выберете вкладку "Сервисы", \ 
-Во вкладке "Сервисы" выберете  “SFTP”.
+Во вкладке "Сервисы" выберете “SFTP”.
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/25_stfp_mounte_disk/img/stftpmd_ru_4.png)
 
@@ -47,7 +47,7 @@
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/25_stfp_mounte_disk/img/stftpmd_ru_8.png)
 
-Amnezia смонтирует Диск на вашем устройстве, так  вы получите доступ к хранилищу без сторонних приложений. 
+Amnezia смонтирует Диск на вашем устройстве, так вы получите доступ к хранилищу без сторонних приложений. 
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/25_stfp_mounte_disk/img/stftpmd_ru_9.png)
 
