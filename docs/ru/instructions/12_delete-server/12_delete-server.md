@@ -10,17 +10,17 @@
 
  На главном экране  внизу  кликните на название вашего сервера  (на скриншоте он обозначен как Server1). 
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/12_delete-server/img/ds_ru_1.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/12_delete-server/img/ds_ru_1.png)
 
 Выберете сервер, который вы хотите удалить
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/12_delete-server/img/ds_ru_2.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/12_delete-server/img/ds_ru_2.png)
 
-Во вкладке “Данные” выберете  “Удалить сервер из приложения”.
+Во вкладке “Данные” выберете “Удалить сервер из приложения”.
 
 > Чтобы удалить все протоколы и сервисы Amnezia с сервера нажмите “Удалить сервисы Amnezia с сервера” перед тем как удалить сервер из приложения.
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/12_delete-server/img/ds_ru_3.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/12_delete-server/img/ds_ru_3.png)
 
 
 Если у вас остались вопросы, обратитесь к [FAQ], в наш [телеграм чат] или к [другим разделам инструкции]

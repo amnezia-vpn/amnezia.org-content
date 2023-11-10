@@ -17,7 +17,7 @@ On the first screen, the application will ask for your connection details.  This
 Select "I have data to connect".
 
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/03_text-key-connection/img/tkc_en_1.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/03_text-key-connection/img/tkc_en_1.png)
 
 
 ## Choose the data type you have. 
@@ -25,30 +25,30 @@ Select "I have data to connect".
 In these instructions, we will look at connecting via a text key, so choose "Open a config file, key or QR-code"
 
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/03_text-key-connection/img/tkc_en_2.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/03_text-key-connection/img/tkc_en_2.png)
 
 >If your connection data is in a different format, please refer to the sections connecting using  [QR code], [file] , [manual] or [automatic installation]
 
 Select "Key as text".
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/03_text-key-connection/img/tkc_en_3.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/03_text-key-connection/img/tkc_en_3.png)
 
 
 Enter the connection key at the prompt 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/03_text-key-connection/img/tkc_en_4.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/03_text-key-connection/img/tkc_en_4.png)
 
 On this screen you can view the contents of the key Next, click "Connect"
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/03_text-key-connection/img/tkc_en_5.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/03_text-key-connection/img/tkc_en_5.png)
 
 Wait for Amnezia to configure your VPN.
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/03_text-key-connection/img/tkc_en_6.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/03_text-key-connection/img/tkc_en_6.png)
 
 
 Click the "Connect" button.
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/03_text-key-connection/img/tkc_en_7.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/03_text-key-connection/img/tkc_en_7.png)
 
 
 Now you can share your connection with other people, add and remove protocols, select exclusion sites, set your own DNS and much more.... 
