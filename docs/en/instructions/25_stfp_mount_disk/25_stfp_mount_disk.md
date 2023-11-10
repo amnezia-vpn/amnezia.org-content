@@ -5,26 +5,26 @@ You can find instructions on "How to create file storage" [here].
 
 At the bottom, click on the settings icon.
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/25_stfp_mount_disk/img/stftpmd_en_1.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/25_stfp_mount_disk/img/stftpmd_en_1.png)
 
 Next, go to the "Servers" section
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/25_stfp_mount_disk/img/stftpmd_en_2.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/25_stfp_mount_disk/img/stftpmd_en_2.png)
 
 Select the server with file storage "SFTP".
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/25_stfp_mount_disk/img/stftpmd_en_3.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/25_stfp_mount_disk/img/stftpmd_en_3.png)
 
 
 Select the Services tab, \
 On the Services tab, select "SFTP". 
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/25_stfp_mount_disk/img/stftpmd_en_4.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/25_stfp_mount_disk/img/stftpmd_en_4.png)
 
 
 You will be taken to the file storage settings.
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/25_stfp_mount_diskp/img/stftpmd_en_5.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/25_stfp_mount_diskp/img/stftpmd_en_5.png)
 
 Before mounting the disk, install [WinFsp] and [SSHFS-Win].
 
@@ -33,21 +33,21 @@ Before mounting the disk, install [WinFsp] and [SSHFS-Win].
 Go to the github link, scroll to the end of the page, select the **.msi** file as indicated in the screenshot
 
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/25_stfp_mount_disk/img/stftpmd_en_6.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/25_stfp_mount_disk/img/stftpmd_en_6.png)
 
 [SSHFS-Win] 
 
 Go to the github link, scroll down the page to the Assets section, select the .msi file as shown in the screenshot.
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/25_stfp_mount_disk/img/stftpmd_en_7.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/25_stfp_mount_disk/img/stftpmd_en_7.png)
 
 After installation, click "Mount folder on device "
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/25_stfp_mount_disk/img/stftpmd_en_8.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/25_stfp_mount_disk/img/stftpmd_en_8.png)
 
 Amnezia will mount the Drive on your device, so you can access your storage without third-party apps.
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/25_stfp_mount_disk/img/stftpmd_en_9.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/25_stfp_mount_disk/img/stftpmd_en_9.png)
 
 
  If you still have questions, please refer to the [FAQ], our [Telegram chat] or [other sections of the manual]

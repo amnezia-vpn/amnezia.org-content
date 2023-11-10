@@ -10,7 +10,7 @@ Instructions on how to select and connect to the server [here]
 
 On the bottom panel, click on the "plus" icon.
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/15_server-adding/img/sa_en_1.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/15_server-adding/img/sa_en_1.png)
 
 
 Select the type of data you have. \
@@ -18,7 +18,7 @@ It could be an IP, login and password. \
 or a QR code, or a key, or a settings file
 
 
-![instruction 1](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/15_server-adding/img/sa_en_3.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/15_server-adding/img/sa_en_3.png)
 
 Then follow the prompts of the application, or refer to the corresponding sections of the instruction manual
 [Auto Setup], or [Manual Setup] if you have an IP login and password,
