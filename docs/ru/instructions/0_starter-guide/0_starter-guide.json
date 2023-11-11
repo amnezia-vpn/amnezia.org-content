@@ -389,7 +389,7 @@
     },
     {
       "recommend": false,
-      "logo": "/img/logos/vendor/ishosting_logo.png",
+      "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/ishosting/ishosting_logo.png",
       "link": "https://ishosting.com/ru",
       "linkName": "Is*hosting",
       "desc": "Возможна оплата Российскими картами.",
