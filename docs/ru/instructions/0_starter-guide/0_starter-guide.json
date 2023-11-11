@@ -21,7 +21,11 @@
       "steps": [
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/inferno1/if1f.png",
-          "text": "На главной странице, пролистайте вниз до конца, выберете “Персональный VPN/socks сервис”. Далее пролистайте вниз, выберете Amnezia VPN."
+          "text": "На главной странице, пролистайте вниз до конца, выберете “Персональный VPN/socks сервис”."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/inferno1/if1-1f.png",
+          "text": "Далее пролистайте вниз, выберете AmneziaVPN"
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/inferno1/if3f.png",
