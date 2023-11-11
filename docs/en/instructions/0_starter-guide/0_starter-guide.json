@@ -58,7 +58,7 @@
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/digital-ocean/do10f.png",
-          "text": "Choose Ubuntu 22.04, or Debian 11, tariff plan “Basic”"
+          "text": "Choose Ubuntu 20.04 (Other versions of Ubuntu Debian are not supported), tariff plan “Basic”"
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/digital-ocean/do11f.png",
