@@ -286,7 +286,7 @@
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf3f.png",
-          "text": "Придумайте имя хостинга и внесите в строку “Hostname”, придумайте и введите пароль в строку “root Password”, выберете операционную систему Ubuntu 20.4, другие OS не поддерживаются "
+          "text": "Придумайте имя хостинга и внесите в строку “Hostname”, придумайте и введите пароль в строку “root Password”, выберете операционную систему Ubuntu 20.04, другие OS не поддерживаются "
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf4f.png",
