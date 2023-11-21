@@ -12,7 +12,7 @@ The table shows the protocols
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
-[here]: https://ru-docs.amnezia.org/guides/protocols-table-v2/
+[here]: https://en-docs.amnezia.org/guides/protocols-table-v2/
 
 
 
