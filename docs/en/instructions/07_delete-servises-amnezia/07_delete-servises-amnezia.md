@@ -27,7 +27,7 @@ All changes made on the server using the Amnezia client will be deleted.
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/07_delete-servises-amnezia/img/dsa_en_4.png)
 
 
-If you still have questions, please refer to [FAQ], our [Telegram chat] or [other sections of the manual]
+If you still have questions, please refer to [FAQ], our [Telegram chat]  or [other sections of the manual]
 
 
 [amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app

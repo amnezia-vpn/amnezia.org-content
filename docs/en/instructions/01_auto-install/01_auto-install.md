@@ -82,7 +82,7 @@ Click on the **“Connect”** button.
 
 Now you can share your connection with other people, add and remove protocols, select sites for which you want or don't want to use VPN, set your own DNS and much more... 
 
-If you still have questions, check out [FAQ], our [Telegram chat] or [other sections of the manual].
+If you still have questions, check out [Telegram chat] or [other sections of the manual].
 
 [How to Start Your VPN with Amnezia]: ../instructions/starter-guide
 [file]: ../instructions/04_file-connection

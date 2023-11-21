@@ -46,7 +46,7 @@ Click the "Connect" button on the main screen.
 
 
 Now you can share your connection with other people, add and remove protocols, select exclusion sites, set your own DNS and much more... 
-If you still have questions, please refer to [FAQ], our [Telegram chat] or [other sections of the manual].
+If you still have questions,  please refer to [FAQ], our [Telegram chat] or [other sections of the manual].
 
 
 [file]: ../instructions/04_file-connection
