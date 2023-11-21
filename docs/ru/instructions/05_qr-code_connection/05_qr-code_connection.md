@@ -57,7 +57,7 @@
 [файла]: ../instructions/04_file-connection
 [QR-кода]: ../instructions/05_qr-code_connection
 [ключа в виде текста]: ../instructions/03_text-key-connection
-[FAQ]: /about 
+[FAQ]: /faq
 [телеграм чат]: https://t.me/amnezia_vpn
 [другим разделам инструкции]: ../instructions
 [ручная]: ../instructions/02_manual-install
