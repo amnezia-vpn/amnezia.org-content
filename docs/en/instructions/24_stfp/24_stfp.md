@@ -44,7 +44,6 @@ In case of FileZilla, add sftp:// string to your IP, the format will be sftp://1
 Next, the directory will appear in the "Remote Site" window, and in the connection status "Directory list 
 extracted" - this means that the connection was successful and you can use the file storage with FileZilla. 
 
-![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/24_stfp/img/stfp_en_8.png)
 
 > You can use file storage using FileZilla and other third-party applications, or you can [mount a directory] for storage on your computer. 
 
