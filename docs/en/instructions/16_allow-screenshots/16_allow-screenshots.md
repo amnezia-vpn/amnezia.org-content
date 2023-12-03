@@ -4,7 +4,7 @@ By default, screenshots are not allowed, but you can enable this option in the s
 
 &nbsp;
 
-### Open the Amnezia home screen
+Open the Amnezia home screen
 
 
 On the Home screen, click the settings icon (far right) at the bottom.

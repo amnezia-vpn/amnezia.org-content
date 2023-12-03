@@ -12,7 +12,7 @@ Do not use files from public sources, they may have been posted for the purpose 
 
 &nbsp;
 
-### Install the Amnezia app
+## Install the Amnezia app
 
 On the first screen, the application will ask for your connection details. This is your VPS server data.
 

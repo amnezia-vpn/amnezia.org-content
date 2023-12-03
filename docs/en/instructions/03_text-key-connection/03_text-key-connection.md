@@ -10,7 +10,7 @@ Do not use keys from public sources, they may have been posted for the purpose o
 
 &nbsp;
 
-### Install the Amnezia app
+## Install the Amnezia app
 
 On the first screen, the application will ask for your connection details.  This is the data of the VPS server.
 

@@ -10,7 +10,7 @@ If your connection data has been shared with you in the form of a [file] [text k
 
 &nbsp;
 
-### Install the Amnezia app
+## Install the Amnezia app
 
 On the first screen, the application will ask for your connection details.  These are the details of your VPS server. Hosting providers will send them to your mail after you buy a VPS.  In the email you will find :
 
@@ -30,7 +30,7 @@ In this case, please refer to the instructions [Connect via text key].
 
 &nbsp;
 
-### Choose the data type you have.
+## Choose the data type you have.
 
 In these instructions we will look at connecting via IP, username and password, so choose "Configure your server".
 
@@ -38,7 +38,7 @@ In these instructions we will look at connecting via IP, username and password, 
 
 &nbsp;
 
-### Choose the data type you have.
+## Choose the data type you have.
 
 In these instructions we will look at connecting via IP, username and password, so choose "Continue".
 
@@ -51,7 +51,7 @@ In these instructions we will look at connecting via IP, username and password, 
 
 &nbsp;
 
-### Self-configuration of VPN
+## Self-configuration of VPN
 
 Scroll down, select "Set up VPN by yourself", click "Continue".
 
@@ -59,7 +59,7 @@ Scroll down, select "Set up VPN by yourself", click "Continue".
 
 &nbsp;
 
-### Select the VPN protocol
+## Select the VPN protocol
 
 OpenVPN, WireGuard and IKEv2 are VPN protocols, each will add traffic encryption and provide access to blocked sites.  We recommend using them only in low censorship regions where VPN applications and VPN protocols are not blocked.  
 
@@ -77,11 +77,11 @@ More detailed description of all protocols and traffic masking can be found [her
 
 &nbsp;
 
-### Wait for Amnezia to configure your VPN.
+## Wait for Amnezia to configure your VPN.
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/02_manual-install/img/mi_en_6.png)
 
-### Click on the **“Connect”** button.
+## Click on the **“Connect”** button.
 
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/02_manual-install/img/mi_en_7.png)

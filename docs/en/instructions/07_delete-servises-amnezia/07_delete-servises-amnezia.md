@@ -4,7 +4,7 @@ This will remove all installed protocols, as well as all Amnezia services such a
 
 &nbsp;
 
-### Open the Amnezia home screen
+ Open the Amnezia home screen
 
 
 On the home screen at the bottom, click on the settings icon.

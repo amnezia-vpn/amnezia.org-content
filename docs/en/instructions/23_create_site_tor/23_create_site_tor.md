@@ -4,7 +4,7 @@ Install the Amnezia app
 
 &nbsp;
 
-### Open the Amnezia home screen
+Open the Amnezia home screen
 
 On the home screen at the bottom, click on the settings icon.
 
@@ -28,7 +28,7 @@ Click "Install."
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/23_create_site_tor/img/cst_en_5.png)
 
-# Site settings on the Tor network
+## Site settings on the Tor network
 
 After successful installation you will see the address of the site, it should be copied and pasted into the line of the [Tor browser].
 

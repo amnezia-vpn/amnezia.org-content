@@ -1,7 +1,7 @@
 # Creating an SFTP file store
 
 
-### Open the Amnezia home screen
+Open the Amnezia home screen
 
 At the bottom, click on the settings icon.
 

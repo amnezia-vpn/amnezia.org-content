@@ -9,7 +9,7 @@ use your VPN, but will not be able to change its settings and protocols.
 > If the user you shared full access to the server with deletes the protocol, or reinstalls it, 
 you will not be able to connect to it until you reinstall it. Therefore, we recommend sharing full access only with your own devices.
 
-### Open the Amnezia home screen
+ Open the Amnezia home screen
 
 
 On the home screen, click on the share icon (in the middle) at the bottom.

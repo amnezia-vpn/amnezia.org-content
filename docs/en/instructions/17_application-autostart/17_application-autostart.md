@@ -4,7 +4,7 @@ If autoloading is enabled, Amnezia will open when you turn on your computer.
 
 &nbsp;
 
-### Open the Amnezia home screen
+Open the Amnezia home screen
 
 
 On the home screen at the bottom, click on the settings icon.

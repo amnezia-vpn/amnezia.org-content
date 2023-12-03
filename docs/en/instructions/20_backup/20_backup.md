@@ -4,8 +4,7 @@ You can save the application settings (all connected servers with VPN protocols 
 In this tutorial we will look at how to backup your settings and how to restore them 
 
 &nbsp;
-
-### Open the Amnezia home screen
+Open the Amnezia home screen
 
  On the Home screen, click on the settings icon at the bottom. 
 

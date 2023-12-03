@@ -8,7 +8,7 @@ Do not use a QR code from public sources, it may have been posted for the purpos
 
 &nbsp;
 
-### Install the Amnezia app
+## Install the Amnezia app
 
 On the first screen, the application will ask for your connection details. This is your VPS server data.
 

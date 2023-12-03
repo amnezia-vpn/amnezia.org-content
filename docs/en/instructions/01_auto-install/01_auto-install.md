@@ -31,7 +31,7 @@ Select "I have data to connect".
 
 &nbsp;
 
-### Choose the data type you have.
+## Choose the data type you have.
 
 In these instructions we will look at connecting via IP, username and password, so choose "Configure your server".
 
@@ -40,7 +40,7 @@ In these instructions we will look at connecting via IP, username and password, 
 
 &nbsp;
 
-### Add connection data
+## Add connection data
 
 Enter IP login and password from VPS-server, click "Continue".
 
@@ -55,7 +55,7 @@ Instead of a password, you can use an SSH key.
 
 
 
-### Select the level of internet control in your region
+## Select the level of internet control in your region
 
 Selecting **Extreme** level of control will install OpenVPN in conjunction with Cloak. This will allow you to visit blocked sites and add cloaking of VPN traffic as http traffic. Traffic analysis systems will not be able to recognise that you are using a VPN. Your VPN will be protected from blocking even in regions with the highest level of censorship. 
 

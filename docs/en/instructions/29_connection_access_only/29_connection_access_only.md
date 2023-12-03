@@ -4,7 +4,7 @@ In case you have shared a connection without the ability to customize the server
 
 &nbsp;
 
-### Description of settings when access is restricted
+ Description of settings when access is restricted
 
 In the server settings section, the Protocols tab will only show the protocols that have been shared with you, with no option to add more.
 

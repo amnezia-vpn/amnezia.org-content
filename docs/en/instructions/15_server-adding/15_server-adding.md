@@ -6,7 +6,7 @@ Instructions on how to select and connect to the server [here]
 
 &nbsp;
 
-### Open the Amnezia app
+ Open the Amnezia app
 
 On the bottom panel, click on the "plus" icon.
 

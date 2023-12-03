@@ -11,7 +11,7 @@ DNS queries. Switching to your own DNS server, helps protect your personal infor
 
 &nbsp;
 
-### Open the home screen  
+## Open the home screen  
 
 On the home screen, click on the settings icon.
 
