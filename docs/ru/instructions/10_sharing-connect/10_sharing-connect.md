@@ -53,7 +53,6 @@
 Если у вас остались вопросы, обратитесь к [FAQ], в наш [телеграм чат] или к [другим разделам инструкции]
 
 
-[amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [QR-кода]: ../instructions/05_qr-code_connection
 [файла]: ../instructions/04_file-connection
 [альтернативные клиенты]: ../instructions/27_alternetive_apk

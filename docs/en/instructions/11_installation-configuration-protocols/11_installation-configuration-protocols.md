@@ -64,7 +64,6 @@ In the AmneziaWG settings, you can change the "Magic" headers and "Junk" packet 
 
 If you still have questions, please refer to [FAQ], our [Telegram chat] or [other sections of the manual]
 
-[amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
 [this]: ../instructions/09_about_protocols
 [here]: ../instructions/14_protocol-change

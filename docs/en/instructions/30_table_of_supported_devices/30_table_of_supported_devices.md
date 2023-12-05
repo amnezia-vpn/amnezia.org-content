@@ -10,7 +10,7 @@ The table shows the protocols
 
 >The list of supported protocols is actual for version 4.0.0.0 and newer, for other versions the table of supported devices [here].
 
-[amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
+
 [about-int-link]: /about
 [here]: https://en-docs.amnezia.org/guides/protocols-table-v2/
 

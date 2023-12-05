@@ -52,7 +52,6 @@ Now if you click on the "Share" icon from the home screen, you can see all the u
 If you still have questions, please refer to [FAQ], our [Telegram chat] or [other sections of the manual]
 
 
-[amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
 [QR code]: ../instructions/05_qr-code_connection
 [text key]: ../instructions/03_text-key-connection

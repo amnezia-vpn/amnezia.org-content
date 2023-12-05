@@ -25,7 +25,6 @@ Then follow the prompts of the application, or refer to the corresponding sectio
 or connect via [file], [text key] or [QR code].
 
 
-[amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
 [here]: ../instructions/13_select-server
 [Automatic setup]: ../instructions/01_auto-install

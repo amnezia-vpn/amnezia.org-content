@@ -25,7 +25,6 @@ All protocols and services installed on the server will be added to the applicat
 If you still have questions, please refer to [FAQ], our [Telegram chat] or [other sections of the manual]
 
 
-[amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
 [DNS server]: ../instructions/06_change-dns
 [file storage]: ../instructions/04_file-connection

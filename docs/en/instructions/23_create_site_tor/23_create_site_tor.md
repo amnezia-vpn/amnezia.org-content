@@ -58,7 +58,7 @@ You have logged into the console to create websites using the WordPress builder,
 
  If you still have questions, please refer to [FAQ], our [Telegram chat] or [other sections of the manual]
 
-[amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
+
 [about-int-link]: /about
 [Tor browser]: https://www.torproject.org/
 [here]: https://codex.wordpress.org/ 

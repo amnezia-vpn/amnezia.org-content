@@ -18,7 +18,6 @@ If you still have questions, please refer to [FAQ], our [Telegram chat] or [othe
 
 
 
-[amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
 [adding a new server]: ../instructions/15_server-adding 
 [FAQ]: ../faq 

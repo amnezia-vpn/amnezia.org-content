@@ -22,7 +22,6 @@ Select to make a backup. Later you can restore the settings from the backup file
 If you still have questions, please refer to the [FAQ], our [Telegram chat] or [other sections of the manual]
 
 
-[amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
 [FAQ]: ../faq
 [telegram chat]: https://t.me/amnezia_vpn_en

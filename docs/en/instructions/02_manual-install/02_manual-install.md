@@ -90,7 +90,6 @@ More detailed description of all protocols and traffic masking can be found [her
 Now you can share your connection with other people, add and remove protocols, select exclusion sites, set your own DNS and much more... 
 If you still have questions, please refer to [FAQ], our [Telegram chat] or [other sections of the manual]
 
-[amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
 [How to run your VPN with Amnezia]: ../instructions/0_starter-guide
 [here]: ../instructions/09_about_protocols

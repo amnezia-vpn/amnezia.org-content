@@ -60,7 +60,6 @@
 Если у вас остались вопросы, обратитесь к [FAQ], в наш [телеграм чат] или к [другим разделам инструкции]
 
 
-[amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [QR-кода]: ../instructions/05_qr-code_connection
 [FAQ]: /faq 
 [телеграм чат]: https://t.me/amnezia_vpn

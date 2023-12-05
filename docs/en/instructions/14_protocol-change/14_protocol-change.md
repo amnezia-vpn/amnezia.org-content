@@ -29,7 +29,6 @@ Go back to the home screen, tap the "Connect" button
 If you still have questions, please refer to [FAQ], our [Telegram chat] or [other sections of the manual]
 
 
-[amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
 [connect-only]: /instructions/29_connection_access_only
 [connect to your own server]: ../instructions/0_starter-guide

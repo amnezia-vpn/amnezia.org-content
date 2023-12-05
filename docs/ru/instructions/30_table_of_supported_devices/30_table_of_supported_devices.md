@@ -10,7 +10,7 @@
 
 >Список поддерживаемых протоколов актуален для версии 4.0.0.0 и более новых, для остальных версий таблица поддерживаемых устройств [здесь]  
 
-[amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
+
 [about-int-link]: /about
 [здесь]: https://ru-docs.amnezia.org/guides/protocols-table-v2/
 

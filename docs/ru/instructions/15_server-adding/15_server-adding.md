@@ -24,8 +24,6 @@
 или подключение через [файл], [ключ в виде текста] или [QR-код]. 
 
 
-
-[amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [здесь]: ../instructions/13_select-server
 [файл]: ../instructions/04_file-connection
 [QR-код]: ../instructions/05_qr-code_connection

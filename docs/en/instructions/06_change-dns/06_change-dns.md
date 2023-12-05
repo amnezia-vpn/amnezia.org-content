@@ -51,7 +51,6 @@ Here you can select "Use Amnezia DNS" , or you can use other DNS servers.
 If you still have questions, please refer to [FAQ], our [Telegram chat] or [other sections of the manual]
 
 
-[amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [FAQ]: /faq
 [Telegram chat]: https://t.me/amnezia_vpn_en
 [other sections of the manual]: ../instructions

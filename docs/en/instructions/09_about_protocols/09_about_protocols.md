@@ -88,7 +88,6 @@ Works over UDP network protocol.
 If you still have questions, please refer to [FAQ], our [Telegram chat] or [other sections of the manual]
 
 
-[amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
 [FAQ]: ../faq 
 [Telegram chat]: https://t.me/amnezia_vpn_en

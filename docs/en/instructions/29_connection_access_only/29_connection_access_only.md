@@ -23,7 +23,6 @@ In the data section, there will only be an option to remove the server from the 
 If you still have questions, please refer to [FAQ], our [telegram chat] or [other sections of the manual]
 
 
-[amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
 [FAQ]: /about 
 [telegram chat]: https://t.me/amnezia_vpn_en

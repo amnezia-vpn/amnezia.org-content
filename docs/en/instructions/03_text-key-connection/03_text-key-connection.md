@@ -55,7 +55,6 @@ Now you can share your connection with other people, add and remove protocols, s
 If you still have questions, please refer to [FAQ], our [Telegram chat] or [other sections of the instructions]
 
 
-[amnezia-site-ext-link]: https://amnezia-web-nx1r.vercel.app
 [about-int-link]: /about
 [QR code]: ../instructions/05_qr-code_connection
 [file]: ../instructions/04_file-connection
