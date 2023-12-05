@@ -3,124 +3,124 @@
     "groupTitle": "Getting Started",
     "groupContent": [
       {
-        "title": "How to Launch Your VPN with Amnezia",
+        "title": "How to launch your VPN with Amnezia",
         "href": "../instructions/0_starter-guide",
         "subtext": "purchase and set up hosting for Amnezia"
       },
       {
-        "title": "Automatic Installation",
+        "title": "Automatic installation",
         "href": "../instructions/01_auto-install",
         "subtext": "Amnezia will install the suitable protocol"
       },
       {
-        "title": "Manual Installation",
+        "title": "Manual installation",
         "href": "../instructions/02_manual-install",
         "subtext": "with protocol selection"
       },
       {
-        "title": "Connection Using Text Key",
+        "title": "Connection using text key",
         "href": "../instructions/03_text-key-connection",
         "subtext": ""
       },
       {
-        "title": "Connection Using File",
+        "title": "Connection using file",
         "href": "../instructions/04_file-connection",
         "subtext": ""
       },
       {
-        "title": "Connection Using QR Code",
+        "title": "Connection using QR code",
         "href": "../instructions/05_qr-code_connection",
         "subtext": "for mobile devices"
       },
       {
-        "title": "Share Connection with Other Users",
+        "title": "Share connection with other users",
         "href": "../instructions/10_sharing-connect",
         "subtext": ""
       }
     ]
   },
   {
-    "groupTitle": "Server Configuration",
+    "groupTitle": "Server configuration",
     "groupContent": [
       {
-        "title": "Change DNS Server",
+        "title": "Change DNS server",
         "href": "../instructions/06_change-dns",
         "subtext": ""
       },
       {
-        "title": "Remove Amnezia Services and Protocols from Server",
+        "title": "Remove Amnezia services and protocols from server",
         "href": "../instructions/07_delete-services-amnezia",
         "subtext": ""
       },
       {
-        "title": "Remove Server from the Application",
+        "title": "Remove server from the application",
         "href": "../instructions/12_delete-server",
         "subtext": ""
       },
       {
-        "title": "Check Server for Installed Amnezia Services",
+        "title": "Check server for installed Amnezia services",
         "href": "../instructions/26_checking-server",
         "subtext": "Amnezia will add them to the application if found"
       },
       {
-        "title": "Select Server",
+        "title": "Select server",
         "href": "../instructions/13_select-server",
         "subtext": ""
       },
       {
-        "title": "Add New Server",
+        "title": "Add new server",
         "href": "../instructions/15_server-adding",
         "subtext": ""
       }
     ]
   },
   {
-    "groupTitle": "Protocol Configuration",
+    "groupTitle": "Protocol configuration",
     "groupContent": [
       {
-        "title": "Installation and Configuration of Protocols",
+        "title": "Installation and configuration of protocols",
         "href": "../instructions/11_installation-configuration-protocols",
         "subtext": ""
       },
       {
-        "title": "Change Protocol",
+        "title": "Change protocol",
         "href": "../instructions/14_protocol-change",
         "subtext": ""
       }
     ]
   },
   {
-    "groupTitle": "Application Configuration",
+    "groupTitle": "Application configuration",
     "groupContent": [
       {
-        "title": "Allow Screen Capture",
+        "title": "Allow screen capture",
         "href": "../instructions/16_allow-screenshots",
         "subtext": ""
       },
       {
-        "title": "Application Autostart",
+        "title": "Application autostart",
         "href": "../instructions/17_application-autostart",
         "subtext": "launch Amnezia on device startup"
       },
       {
-        "title": "Change Language",
+        "title": "Change language",
         "href": "../instructions/18_change_language",
         "subtext": ""
       },
       {
-        "title": "Reset Settings and Delete All Data from the Application",
+        "title": "Reset settings and delete all data from the application",
         "href": "../instructions/19_resetting",
         "subtext": ""
       },
       {
-        "title": "Save and Restore Application Settings",
+        "title": "Save and restore application settings",
         "href": "../instructions/20_backup",
         "subtext": "restore from backup"
       },
       {
-        "title": "Split VPN Tunneling",
+        "title": "Split VPN tunneling",
         "href": "../instructions/21_split_tunneling",
-        "subtext": "Configure a list of sites and exceptions for VPN"
+        "subtext": "configure a list of sites and exceptions for VPN"
       },
       {
         "title": "Logging",
@@ -128,27 +128,27 @@
         "subtext": ""
       },
       {
-        "title": "Clear Application Cache",
+        "title": "Clear application cache",
         "href": "../instructions/08_clean-cash",
         "subtext": ""
       }
     ]
   },
   {
-    "groupTitle": "Additional Services",
+    "groupTitle": "Additional services",
     "groupContent": [
       {
-        "title": "Create a Site on the TOR Network",
+        "title": "Create a site on the TOR network",
         "href": "../instructions/23_create_site_tor",
         "subtext": "with WordPress"
       },
       {
-        "title": "Create SFTP File Storage",
+        "title": "Create SFTP file storage",
         "href": "../instructions/24_sftp",
         "subtext": ""
       },
       {
-        "title": "Mount Disk for SFTP Storage",
+        "title": "Mount disk for SFTP storage",
         "href": "../instructions/25_sftp_mount_disk",
         "subtext": ""
       }
