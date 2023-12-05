@@ -1,0 +1,157 @@
+[
+  {
+    "groupTitle": "Getting Started",
+    "groupContent": [
+      {
+        "title": "How to Launch Your VPN with Amnezia",
+        "href": "../instructions/0_starter-guide",
+        "subtext": "purchase and set up hosting for Amnezia"
+      },
+      {
+        "title": "Automatic Installation",
+        "href": "../instructions/01_auto-install",
+        "subtext": "Amnezia will install the suitable protocol"
+      },
+      {
+        "title": "Manual Installation",
+        "href": "../instructions/02_manual-install",
+        "subtext": "with protocol selection"
+      },
+      {
+        "title": "Connection Using Text Key",
+        "href": "../instructions/03_text-key-connection",
+        "subtext": ""
+      },
+      {
+        "title": "Connection Using File",
+        "href": "../instructions/04_file-connection",
+        "subtext": ""
+      },
+      {
+        "title": "Connection Using QR Code",
+        "href": "../instructions/05_qr-code_connection",
+        "subtext": "for mobile devices"
+      },
+      {
+        "title": "Share Connection with Other Users",
+        "href": "../instructions/10_sharing-connect",
+        "subtext": ""
+      }
+    ]
+  },
+  {
+    "groupTitle": "Server Configuration",
+    "groupContent": [
+      {
+        "title": "Change DNS Server",
+        "href": "../instructions/06_change-dns",
+        "subtext": ""
+      },
+      {
+        "title": "Remove Amnezia Services and Protocols from Server",
+        "href": "../instructions/07_delete-serviсes-amnezia",
+        "subtext": ""
+      },
+      {
+        "title": "Remove Server from the Application",
+        "href": "../instructions/12_delete-server",
+        "subtext": ""
+      },
+      {
+        "title": "Check Server for Installed Amnezia Services",
+        "href": "../instructions/26_checking-server",
+        "subtext": "Amnezia will add them to the application if found"
+      },
+      {
+        "title": "Select Server",
+        "href": "../instructions/13_select-server",
+        "subtext": ""
+      },
+      {
+        "title": "Add New Server",
+        "href": "../instructions/15_server-adding",
+        "subtext": ""
+      }
+    ]
+  },
+  {
+    "groupTitle": "Protocol Configuration",
+    "groupContent": [
+      {
+        "title": "Installation and Configuration of Protocols",
+        "href": "../instructions/11_installation-configuration-protocols",
+        "subtext": ""
+      },
+      {
+        "title": "Change Protocol",
+        "href": "../instructions/14_protocol-change",
+        "subtext": ""
+      }
+    ]
+  },
+  {
+    "groupTitle": "Application Configuration",
+    "groupContent": [
+      {
+        "title": "Allow Screen Capture",
+        "href": "../instructions/16_allow-screenshots",
+        "subtext": ""
+      },
+      {
+        "title": "Application Autostart",
+        "href": "../instructions/17_application-autostart",
+        "subtext": "launch Amnezia on device startup"
+      },
+      {
+        "title": "Change Language",
+        "href": "../instructions/18_change_language",
+        "subtext": ""
+      },
+      {
+        "title": "Reset Settings and Delete All Data from the Application",
+        "href": "../instructions/19_resetting",
+        "subtext": ""
+      },
+      {
+        "title": "Save and Restore Application Settings",
+        "href": "../instructions/20_backup",
+        "subtext": "restore from backup"
+      },
+      {
+        "title": "Split VPN Tunneling",
+        "href": "../instructions/21_split_tunneling",
+        "subtext": "Configure a list of sites and exceptions for VPN"
+      },
+      {
+        "title": "Logging",
+        "href": "../instructions/22_logging",
+        "subtext": ""
+      },
+      {
+        "title": "Clear Application Cache",
+        "href": "../instructions/08_clean-cash",
+        "subtext": ""
+      }
+    ]
+  },
+  {
+    "groupTitle": "Additional Services",
+    "groupContent": [
+      {
+        "title": "Create a Site on the TOR Network",
+        "href": "../instructions/23_create_site_tor",
+        "subtext": "with WordPress"
+      },
+      {
+        "title": "Create SFTP File Storage",
+        "href": "../instructions/24_sftp",
+        "subtext": ""
+      },
+      {
+        "title": "Mount Disk for SFTP Storage",
+        "href": "../instructions/25_sftp_mounte_disk",
+        "subtext": ""
+      }
+    ]
+  }
+]
