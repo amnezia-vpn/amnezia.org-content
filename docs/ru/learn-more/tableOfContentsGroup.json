@@ -18,11 +18,6 @@
         "subtext": "отличие Amnezia от других VPN"
       },
       {
-        "title": "VPN только для подключения",
-        "href": "../learn-more/29-connection-access-only",
-        "subtext": "описание ограниченного интерфейса"
-      },
-      {
         "title": "AmneziaWG",
         "href": "../learn-more/31-amneziawg",
         "subtext": "описание работы протокола"
