@@ -69,27 +69,59 @@
 
  Для Ubuntu 18.04 и Debain 10, возможно обновление ядра Linux по backport.
 
-На всех ОС, кроме Ubuntu 22|20, Debian 12|11, рекомендуется выполнить предварительное обновление ОС, с последующей перезагрузкой сервера.
+На всех ОС, кроме Ubuntu 22 / 20, Debian 12 / 11, рекомендуется выполнить предварительное обновление ОС, с последующей перезагрузкой сервера.
 
-- Обновление Ubuntu|Debian
-**sudo apt update && sudo apt upgrade**
-(вариант для root) **apt update && apt upgrade** \
-Перезагрузка Ubuntu|Debian 
-**sudo reboot**
-(вариант для root) **reboot**
-- Обновление CentOS 7
-  **sudo yum check-update && sudo yum update**
-  (вариант для root) **yum check-update && yum update** \
-Перезагрузка CentOS 7
-**sudo reboot**
-(вариант для root) reboot
-- обновление Fedora 26-30
-  **sudo dnf check-update && sudo dnf update**
-  (вариант для root)  **dnf check-update && dnf update**
-перезагрузка Fedora 26-30
-**sudo reboot**
-(вариант для root) **reboot**
+### Обновление Ubuntu / Debian
+~~~
+sudo apt update && sudo apt upgrade
+~~~
+Вариант для root
+~~~
+apt update && apt upgrade
+~~~
+Перезагрузка Ubuntu / Debian 
+~~~
+sudo reboot
+~~~
+Вариант для root 
+~~~
+reboot
+~~~
+### Обновление CentOS 7
+~~~
+sudo yum check-update && sudo yum update
+~~~
 
+Вариант для root 
+~~~  
+yum check-update && yum update**
+~~~
+ Перезагрузка CentOS 7
+~~~  
+sudo reboot
+~~~  
+
+Вариант для root
+~~~  
+reboot
+~~~
+### Обновление Fedora 26-30
+~~~
+sudo dnf check-update && sudo dnf update**
+~~~
+Вариант для root  
+
+~~~
+dnf check-update && dnf update
+~~~
+### Перезагрузка Fedora 26-30
+~~~
+sudo reboot
+~~~
+Вариант для root
+~~~
+reboot
+~~~
 [about-int-link]: /about
 [FAQ]: ../faq 
 [телеграм чат]: https://t.me/amnezia_vpn
