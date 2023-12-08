@@ -1,0 +1,39 @@
+[
+  {
+    "groupTitle": "Подробнее о приложении Amnezia",
+    "groupContent": [
+      {
+        "title": "Таблица поддерживаемых протоколов",
+        "href": "../learn-more/30-table-of-supported-devices",
+        "subtext": "по платформам"
+      },
+      {
+        "title": "Поддерживаемые ОС для VPS",
+        "href": "../learn-more/32-os-comp",
+        "subtext": "поддерживаемые дистрибутивы Linux для виртуального сервера"
+      },
+      {
+        "title": "Принцип работы Amnezia",
+        "href": "../learn-more/28-how-amnezia-works",
+        "subtext": "отличие Amnezia от других VPN"
+      },
+      {
+        "title": "VPN только для подключения",
+        "href": "../learn-more/29-connection-access-only",
+        "subtext": "описание ограниченного интерфейса"
+      },
+      {
+        "title": "AmneziaWG",
+        "href": "../learn-more/31-amneziawg",
+        "subtext": "описание работы протокола"
+      },
+      {
+        "title": "Альтернативные приложения",
+        "href": "../learn-more/27-alternative-apk",
+        "subtext": "для использования настроенного VPN в нативных клиентах"
+      }
+
+    ]
+  }
+
+]
