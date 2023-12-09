@@ -11,27 +11,27 @@
 
 ### Debian
 
-|                   | Debian 12 | Debian 11 | Debian 10 |  
-|-------------------|:---------:|:---------:|:---------:|
-| **IKEv2**         |    ✔*     |    ✔*     |    ✔*     |  
-| **AmneziaWG**     |     ✔     |     ✔     |     ✔     |  
-| **WireGuard**     |     ✔     |     ✔     |     —     |  
-| **OpenVPN**       |     ✔     |     ✔     |     ✔     | 
-| **OpenVPN+Cloak** |     ✔     |     ✔     |     ✔     |
-| **ShadowSocks**   |     ✔     |     ✔     |     ✔     |
+|               | Debian 12 | Debian 11 | Debian 10 |  
+|---------------|:---------:|:---------:|:---------:|
+| IKEv2         |    ✔*     |    ✔*     |    ✔*     |  
+| AmneziaWG     |     ✔     |     ✔     |     ✔     |  
+| WireGuard     |     ✔     |     ✔     |     —     |  
+| OpenVPN       |     ✔     |     ✔     |     ✔     | 
+| OpenVPN+Cloak |     ✔     |     ✔     |     ✔     |
+| ShadowSocks   |     ✔     |     ✔     |     ✔     |
 
 &nbsp;
 
 ### Ubuntu
 
-|                   | Ubuntu 22.04 | Ubuntu 20.04  | Ubuntu 18.04  | Ubuntu 16.04 |
-|-------------------|:------------:|:-------------:|:-------------:|:------------:|
-| **IKEv2**         |      ✔*      |      ✔*       |      ✔*       |      ✔*      |
-| **AmneziaW**      |      ✔       |       ✔       |       ✔       |      ✔       |
-| **WireGuard***    |      ✔       |       ✔       |       —       |      —       |
-| **OpenVPN**       |      ✔       |       ✔       |       ✔       |      ✔       |
-| **OpenVPN+Cloak** |      ✔       |       ✔       |       ✔       |      ✔       |
-| **ShadowSocks**   |      ✔       |       ✔       |       ✔       |      ✔       |
+|               | Ubuntu 22.04 | Ubuntu 20.04  | Ubuntu 18.04  | Ubuntu 16.04 |
+|---------------|:------------:|:-------------:|:-------------:|:------------:|
+| IKEv2         |      ✔*      |      ✔*       |      ✔*       |      ✔*      |
+| AmneziaW      |      ✔       |       ✔       |       ✔       |      ✔       |
+| WireGuard     |      ✔       |       ✔       |       —       |      —       |
+| OpenVPN       |      ✔       |       ✔       |       ✔       |      ✔       |
+| OpenVPN+Cloak |      ✔       |       ✔       |       ✔       |      ✔       |
+| ShadowSocks   |      ✔       |       ✔       |       ✔       |      ✔       |
 
 &nbsp;
 
@@ -39,27 +39,27 @@
 
 ### Fedora
 
-|                   | Fedora 26-29 | Fedora 30 |  
-|-------------------|:------------:|:---------:|
-| **IKEv2**         |      ✔*      |    ✔*     |  
-| **AmneziaWG**     |      ✔       |     ✔     |  
-| **WireGuard**     |      —       |     ✔     |  
-| **OpenVPN**       |      ✔       |     ✔     | 
-| **OpenVPN+Cloak** |      ✔       |     ✔     |
-| **ShadowSocks**   |      ✔       |     ✔     |
+|               | Fedora 26-29 | Fedora 30 |  
+|---------------|:------------:|:---------:|
+| IKEv2         |      ✔*      |    ✔*     |  
+| AmneziaWG     |      ✔       |     ✔     |  
+| WireGuard     |      —       |     ✔     |  
+| OpenVPN       |      ✔       |     ✔     | 
+| OpenVPN+Cloak |      ✔       |     ✔     |
+| ShadowSocks   |      ✔       |     ✔     |
 
 &nbsp;
 
 ### CentOS
 
-|                   | CentOS 7 |  
-|-------------------|:--------:|
-| **IKEv2**         |    ✔*    |  
-| **AmneziaWG**     |    ✔     |  
-| **WireGuard**     |    —     |  
-| **OpenVPN**       |    ✔     | 
-| **OpenVPN+Cloak** |    ✔     |
-| **ShadowSocks**   |    ✔     |
+|               | CentOS 7 |  
+|---------------|:--------:|
+| IKEv2         |    ✔*    |  
+| AmneziaWG     |    ✔     |  
+| WireGuard     |    —     |  
+| OpenVPN       |    ✔     | 
+| OpenVPN+Cloak |    ✔     |
+| ShadowSocks   |    ✔     |
 
 &nbsp;
 
