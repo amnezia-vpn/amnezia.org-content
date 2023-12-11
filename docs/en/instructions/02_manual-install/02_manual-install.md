@@ -16,7 +16,7 @@ On the first screen, the application will ask for your connection details.  Thes
 
 - **IP** : 192.565.ххx.xxx
 - **Username**: root  (or other)
-- **Password или SSH-key** : 2f9legf2...
+- **Password or SSH-key** : 2f9legf2...
 
 Install the Amnezia app
 
