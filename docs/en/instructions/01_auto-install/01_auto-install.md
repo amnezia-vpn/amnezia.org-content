@@ -59,9 +59,9 @@ Instead of a password, you can use an SSH key.
 
 Selecting **Extreme** level of control will install OpenVPN in conjunction with Cloak. This will allow you to visit blocked sites and add cloaking of VPN traffic as http traffic. Traffic analysis systems will not be able to recognise that you are using a VPN. Your VPN will be protected from blocking even in regions with the highest level of censorship. 
 
-If you select **Medium or High** level of control, AmneziaWG will be installed. This is a fork of the Wireguard-GO protocol with blocking protection. Its distinctive feature is modified Junk packets sizes and Magic headers names, by which the DPI system usually recognises the WireGuard protocol, these parameters can also be changed in the settings. Ideal balance between masking and speed.
+If you select **Medium or High** level of control, AmneziaWG will be installed. This is a fork of the WireGuard-GO protocol with blocking protection. Its distinctive feature is modified Junk packets sizes and Magic headers names, by which the DPI system usually recognises the WireGuard protocol, these parameters can also be changed in the settings. Ideal balance between masking and speed.
 
-Selecting **Low** control level will install Wireguard without traffic masking. Suitable for regions where VPN applications and VPN protocols are not blocked. Increases user privacy and additionally encrypts traffic.
+Selecting **Low** control level will install WireGuard without traffic masking. Suitable for regions where VPN applications and VPN protocols are not blocked. Increases user privacy and additionally encrypts traffic.
 
 
 
