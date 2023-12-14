@@ -115,15 +115,7 @@ Acceptable for root:
 reboot
 ~~~
 [about-int-link]: /about
-[FAQ]: ../faq 
-[телеграм чат]: https://t.me/amnezia_vpn
-[другим разделам инструкции]:  ../instructions
-[AmneziaWG]: https://github.com/amnezia-vpn/amnezia-wg
-[For Android]: https://github.com/amnezia-vpn/awg-android
-[For Windows]: https://github.com/amnezia-vpn/awg-windows
-[For MacOS and IOS]: https://github.com/amnezia-vpn/awg-apple
-[For Wireguard]: https://github.com/amnezia-vpn/amnezia-wg-tools
-[WireGuard-Go]: https://github.com/WireGuard/wireguard-go
+
 
 
 
