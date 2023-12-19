@@ -5,8 +5,7 @@
 In some cases, ISPs or governments may block access to certain websites or services through their DNS.
 Changing your DNS server can help you bypass such blockages and access restricted content.
 
-In addition, some DNS servers may collect data about your online activity, such as websites you visit and
-DNS queries. Switching to your own DNS server, helps protect your personal information.
+"Additionally, some DNS servers may collect data about your online activities, such as the websites you visit and DNS queries. Concealing your DNS server, for example, using AmneziaDNS, helps protect your personal information."
 
 
 &nbsp;
