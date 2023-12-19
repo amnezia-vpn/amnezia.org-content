@@ -3,7 +3,11 @@
 In this case, we will consider the option of connecting via QR code
 Do not use a QR code from public sources, it may have been posted for the purpose of intercepting your personal data.
 
-> Amnezia works with any server running Ubuntu (officially supported version is 22.04, Debian 11 is also supported).
+> Minimum system requirements for VPS: \
+> Operating System - Linux, suitable for Ubuntu 22.04 or Debian 11. \
+> Virtualization - KVM. SSD - minimum 7 GB.
+> Random Access Memory (RAM) - recommended 2 GB, but not less than 1 GB. \
+> Pre-installed software and control panel are not required.
 
 
 &nbsp;

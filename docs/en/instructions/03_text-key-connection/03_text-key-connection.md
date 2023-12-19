@@ -5,8 +5,11 @@ In this instruction we will consider the option of connecting via a key in the f
 The key should look something like this **VPN:///ue34nf\feh.....**  
 Do not use keys from public sources, they may have been posted for the purpose of intercepting your personal data.
 
->  Amnezia works with any server running Ubuntu (officially supported version is 22.04), Debian 11 is also supported.
-
+> Minimum system requirements for VPS: \
+> Operating System - Linux, suitable for Ubuntu 22.04 or Debian 11. \
+> Virtualization - KVM. SSD - minimum 7 GB.
+> Random Access Memory (RAM) - recommended 2 GB, but not less than 1 GB. \
+> Pre-installed software and control panel are not required.
 
 &nbsp;
 

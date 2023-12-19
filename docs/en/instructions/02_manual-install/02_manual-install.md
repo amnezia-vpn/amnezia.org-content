@@ -5,7 +5,11 @@ To create your own VPN, buy a virtual VPS server. For step-by-step instructions 
 
 If your connection data has been shared with you in the form of a [file] [text key], or [qr code], you do not need to buy a server, please refer to the relevant instructions .
 
-> Amnezia works with any server running Ubuntu (officially supported version is 22.04), Debian 11 is also supported.
+> Minimum system requirements for VPS: \
+> Operating System - Linux, suitable for Ubuntu 22.04 or Debian 11. \
+> Virtualization - KVM. SSD - minimum 7 GB.
+> Random Access Memory (RAM) - recommended 2 GB, but not less than 1 GB. \
+> Pre-installed software and control panel are not required.
 
 
 &nbsp;
