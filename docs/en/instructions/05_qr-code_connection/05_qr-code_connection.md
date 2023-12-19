@@ -3,7 +3,7 @@
 In this case, we will consider the option of connecting via QR code
 Do not use a QR code from public sources, it may have been posted for the purpose of intercepting your personal data.
 
-> Minimum system requirements for VPS: \
+> **Minimum system requirements for VPS:**  \
 > Operating System - Linux, suitable for Ubuntu 22.04 or Debian 11. \
 > Virtualization - KVM. \
 > SSD - minimum 7 GB. \

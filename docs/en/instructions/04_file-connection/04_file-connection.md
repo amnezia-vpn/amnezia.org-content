@@ -7,7 +7,7 @@ In this case, we will consider the option of connecting via a configuration file
 
 Do not use files from public sources, they may have been posted for the purpose of capturing your personal data.
 
-> Minimum system requirements for VPS: \
+> **Minimum system requirements for VPS:** \
 > Operating System - Linux, suitable for Ubuntu 22.04 or Debian 11. \
 > Virtualization - KVM. \
 > SSD - minimum 7 GB. \

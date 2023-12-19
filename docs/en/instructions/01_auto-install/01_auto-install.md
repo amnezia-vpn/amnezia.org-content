@@ -6,7 +6,7 @@ For step-by-step instructions on how to purchase a VPS from some popular hosting
 
 If your connection data has been shared with you in the form of a [file], [text key], or [qr code], you do not need to buy a server, please refer to the relevant instructions .
 
-> Minimum system requirements for VPS: \
+> **Minimum system requirements for VPS:** \
 > Operating System - Linux, suitable for Ubuntu 22.04 or Debian 11. \
 > Virtualization - KVM. \
 > SSD - minimum 7 GB. \
