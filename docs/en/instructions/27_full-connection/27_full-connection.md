@@ -1,13 +1,14 @@
 # Using VPN on Multiple Devices
 
-To use a VPN on multiple devices, you can utilize the "Share Connection" option.
+To use a VPN on multiple devices, you can utilize the "Share Connection" option, by selecting full access.
+
 
 > Sharing full access to the server can be done with another user. However, if they delete the protocol or reinstall it, you won't be able to connect to that protocol until you reinstall it. Therefore, it's recommended to share full access only with your own devices.
 
 1. Open the main screen of Amnezia.
 
 2. On the main screen, click on the share icon at the bottom.
-   ![Share Icon](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/10_sharing-connect/img/fc_en_1.png)
+   ![Share Icon](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/27_full-connection/img/fc_en_1.png)
 
 3. Click on the three dots in the top right corner of the screen.
 
