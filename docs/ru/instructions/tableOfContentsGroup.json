@@ -36,6 +36,11 @@
         "title": "Поделиться подключением",
         "href": "../instructions/10_sharing-connect",
         "subtext": ""
+      },
+      {
+        "title": "Использовать VPN для нескольких устройств",
+        "href": "../instructions/27_sharing-connect",
+        "subtext": ""
       }
     ]
   },

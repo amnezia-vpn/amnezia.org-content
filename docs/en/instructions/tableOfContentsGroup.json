@@ -36,6 +36,11 @@
         "title": "Share connection with other users",
         "href": "../instructions/10_sharing-connect",
         "subtext": ""
+      },
+      {
+        "title": "Using VPN for multiple devices",
+        "href": "../instructions/27_sharing-connect",
+        "subtext": ""
       }
     ]
   },
