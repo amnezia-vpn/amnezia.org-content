@@ -1,14 +1,13 @@
-# Использование VPN на нескольких устройствах
+# Sharing server management rights
 
-Использовать VPN на нескольких устройствах можно через опцию - "Поделиться подключением", выбрав полный доступ. 
+You can share server management rights through the "Share Connection" option, selecting full access.
 
-> Поделиться полным доступом к серверу можно и с другим пользователем. Однако, если он удалит протокол, или переустановит его, 
-вы не сможете подключиться к этому протоколу, пока не переустановите его. Поэтому мы рекомендуем делиться полным доступом только с собственными устройствами. 
+>Be cautious, if the user deletes the protocol or reinstalls it,
+> you won't be able to connect to that protocol until you reinstall it. Therefore, we recommend sharing full access only with your own devices.
 
 
 
 Откройте главный экран Amnezia
-
 
 На главном экране внизу кликните на значок поделиться.
 
