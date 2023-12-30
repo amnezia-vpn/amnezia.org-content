@@ -1,5 +1,7 @@
 
-#  AmneziaWG
+# AmneziaWG
+
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/learn-more/31_amneziawg/img/OG.png)
 
 Современная версия популярного VPN-протокола WireGuard. 
 [AmneziaWG] - это форк [WireGuard-Go]. Он защищен от обнаружения системами DPI, при этом сохранил в себе упрощенную архитектуру и высокую производительность оригинала.

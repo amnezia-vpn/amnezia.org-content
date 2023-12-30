@@ -1,5 +1,7 @@
 # AmneziaWG
 
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/learn-more/31_amneziawg/img/OG.png)
+
 [AmneziaWG] is a contemporary version of the popular VPN protocol, WireGuard. It's a fork of [WireGuard-Go] and offers protection against detection by Deep Packet Inspection (DPI) systems. At the same time, it retains the simplified architecture and high performance of the original.
 
 The precursor, WireGuard, is known for its efficiency but had issues with detection due to its distinctive packet signatures. \

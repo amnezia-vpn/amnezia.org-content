@@ -1,8 +1,7 @@
 # Таблица поддерживаемых устройств  
 
-В таблице представлены протоколы и устройства, на которых они поддерживаются. 
 
-&nbsp;
+
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/learn-more/30_table-of-supported-devices/img/table_11.2023.svg)
 
