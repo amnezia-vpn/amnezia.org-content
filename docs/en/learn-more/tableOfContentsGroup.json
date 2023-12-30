@@ -1,34 +1,33 @@
 [
   {
-    "groupTitle": "Подробнее о приложении Amnezia",
+    "groupTitle": "Learn more about Amnezia",
     "groupContent": [
       {
-        "title": "Таблица поддерживаемых протоколов",
-        "href": "../learn-more/30-table-of-supported-devices",
-        "subtext": "по платформам"
+        "title": "Table of supported protocols",
+        "href": "../learn-more/30_table-of-supported-devices",
+        "subtext": "across platforms"
       },
       {
-        "title": "Поддерживаемые ОС для VPS",
-        "href": "../learn-more/32-os-comp",
-        "subtext": "поддерживаемые дистрибутивы Linux для виртуального сервера"
+        "title": "Supported OS for VPS",
+        "href": "../learn-more/32_os-comp",
+        "subtext": "supported Linux distributions for virtual servers"
       },
       {
-        "title": "Принцип работы Amnezia",
-        "href": "../learn-more/28-how-amnezia-works",
-        "subtext": "отличие Amnezia от других VPN"
+        "title": "How Amnezia works",
+        "href": "../learn-more/28_how-amnezia-works",
+        "subtext": "distinguishing Amnezia from other VPNs"
       },
       {
         "title": "AmneziaWG",
-        "href": "../learn-more/31-amneziawg",
-        "subtext": "описание работы протокола"
+        "href": "../learn-more/31_amneziawg",
+        "subtext": "protocol operation description"
       },
       {
-        "title": "Альтернативные приложения",
-        "href": "../learn-more/27-alternative-apk",
-        "subtext": "для использования настроенного VPN в нативных клиентах"
+        "title": "Alternative applications",
+        "href": "../learn-more/27_alternative-apk",
+        "subtext": "for using configured VPN in native clients"
       }
-
     ]
   }
-
 ]
+
