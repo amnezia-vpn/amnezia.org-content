@@ -1,18 +1,18 @@
-# Table of supported devices
+# Таблица поддерживаемых устройств  
 
-The table shows the protocols 
 
-&nbsp;
 
-![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/learn-more/30_table-of-supported-devices/img/table_09_05.png)
 
->OpenVPN over Cloak versions installed on client versions younger than 3 are not compatible with subsequent versions of the client. If you installed OpenVPN over Cloak on version 1 or 2 of the client, you must reinstall the protocol to make it work on versions 3 and 4.
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/learn-more/30_table-of-supported-devices/img/table_11.2023.svg)
 
->The list of supported protocols is actual for version 4.0.0.0 and newer, for other versions the table of supported devices [here].
+>Версии OpenVPN over Cloak установленные на версиях клиента младше 3, не совместимы с последующими версиями клиента. Если вы устанавливали OpenVPN over Cloak  на 1 или 2 версии клиента, требуется переустановить протокол, чтобы он работал на 3 и 4 версиях.
+
+>Список поддерживаемых протоколов актуален для версии 4.0.0.0 и более новых, для остальных версий таблица поддерживаемых устройств [здесь]  
 
 
 [about-int-link]: /about
-[here]: https://en-docs.amnezia.org/guides/protocols-table-v2/
+[здесь]: https://ru-docs.amnezia.org/guides/protocols-table-v2/
+
 
 
 
