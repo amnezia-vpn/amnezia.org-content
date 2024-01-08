@@ -2,7 +2,8 @@ name: Webhook
 
 on:
   push:
-    - master
+    branches:
+      - master
 
 jobs:
   webhook:
