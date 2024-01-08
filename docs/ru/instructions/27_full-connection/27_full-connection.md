@@ -1,9 +1,9 @@
-# Sharing server management rights
+# Предоставить управление сервером
 
-You can share server management rights through the "Share Connection" option, selecting full access.
+Вы можете предоставить права управления сервером через опцию "Поделиться подключением", выбрав полный доступ.
 
->Be cautious, if the user deletes the protocol or reinstalls it,
-> you won't be able to connect to that protocol until you reinstall it. Therefore, we recommend sharing full access only with your own devices.
+>Будьте осторожны: если пользователь удалит протокол или переустановит его,
+>вы не сможете подключиться к этому протоколу до его повторной установки. Поэтому мы рекомендуем предоставлять полный доступ только своим устройствам.
 
 
 
