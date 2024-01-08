@@ -1,4 +1,4 @@
-# Using VPN on Multiple Devices
+#  Sharing server management rights
 
 To use a VPN on multiple devices, you can utilize the "Share Connection" option, by selecting full access.
 
