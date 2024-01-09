@@ -5,6 +5,7 @@ Do not use a QR code from public sources, it may have been posted for the purpos
 
 > **Minimum system requirements for VPS:**  \
 > Operating System - Linux, suitable for Ubuntu 22.04 or Debian 11. \
+> Supported processor architecture - x86-64.\
 > Virtualization - KVM. \
 > SSD - minimum 7 GB. \
 > Random Access Memory (RAM) - recommended 2 GB, but not less than 1 GB. \

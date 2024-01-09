@@ -8,6 +8,7 @@ If your connection data has been shared with you in the form of a [file], [text 
 
 > **Minimum system requirements for VPS:** \
 > Operating System - Linux, suitable for Ubuntu 22.04 or Debian 11. \
+> Supported processor architecture - x86-64.\
 > Virtualization - KVM. \
 > SSD - minimum 7 GB. \
 > Random Access Memory (RAM) - recommended 2 GB, but not less than 1 GB. \
