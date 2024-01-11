@@ -1,17 +1,17 @@
 [
   {
     "title": "Проблемы с подключением к OpenVPN over Cloak ",
-    "href": "../instructions/01_connection_problem_ovpn_cloak-",
+    "href": "../troubleshooting/01_connection-problem-ovpn-cloak",
     "subtext": ""
   },
   {
     "title": "Система не обнаружила MSVCP140.dll",
-    "href": "../instructions/MSVCP140-",
+    "href": "../troubleshooting/02_the-system-did-not-detect-MSVCP140",
     "subtext": ""
   },
   {
     "title": "Не запускается приложение на Linux",
-    "href": "../instructions/failstorunlinux- ",
+    "href": "../troubleshooting/03_not-running-on-linux",
     "subtext": ""
   }
 
