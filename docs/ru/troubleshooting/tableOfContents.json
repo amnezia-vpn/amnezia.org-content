@@ -1,34 +1,53 @@
 [
   {
-    "title": "Проблемы с подключением к OpenVPN over Cloak ",
-    "href": "../troubleshooting/01_connection-problem-ovpn-cloak",
-    "subtext": ""
-  },
-  {
-    "title": "Система не обнаружила MSVCP140.dll",
-    "href": "../troubleshooting/02_the-system-did-not-detect-MSVCP140",
-    "subtext": ""
-  },
-  {
-    "title": "Не запускается приложение на Linux",
-    "href": "../troubleshooting/03_not-running-on-linux",
-    "subtext": ""
-  },
-  {
-    "title": "Коды ошибок",
-    "href": "../troubleshooting/error-codes",
-    "subtext": ""
+    "groupTitle": "Решение проблем",
+    "groupContent": [
+      {
+        "title": "Проблемы с подключением к OpenVPN over Cloak ",
+        "href": "../troubleshooting/01_connection-problem-ovpn-cloak",
+        "subtext": ""
+      },
+      {
+        "title": "Система не обнаружила MSVCP140.dll",
+        "href": "../troubleshooting/02_the-system-did-not-detect-MSVCP140",
+        "subtext": ""
+      },
+      {
+        "title": "Не запускается приложение на Linux",
+        "href": "../troubleshooting/03_not-running-on-linux",
+        "subtext": ""
+      },
+      {
+        "title": "Коды ошибок",
+        "href": "../troubleshooting/error-codes",
+        "subtext": "",
+        "sublinks": [
+          {
+            "title": "UnknownError",
+            "href": "#unknownerror"
+          },
+          {
+            "title": "InternalError",
+            "href": "#internalerror"
+          },
+          {
+            "title": "NotImplementedError",
+            "href": "#notimplementederror"
+          },
+          {
+            "title": "UnknownError2",
+            "href": "#unknownerror2"
+          },
+          {
+            "title": "InternalError2",
+            "href": "#internalerror2"
+          },
+          {
+            "title": "NotImplementedError2",
+            "href": "#notimplementederror2"
+          }
+        ]
+      }
+    ]
   }
-
-
-
-
-
-
-
-
-
-
-
-
 ]
