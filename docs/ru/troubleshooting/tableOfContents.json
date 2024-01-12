@@ -13,8 +13,12 @@
     "title": "Не запускается приложение на Linux",
     "href": "../troubleshooting/03_not-running-on-linux",
     "subtext": ""
+  },
+  {
+    "title": "Коды ошибок",
+    "href": "../troubleshooting/error-codes",
+    "subtext": ""
   }
-
 
 
 
