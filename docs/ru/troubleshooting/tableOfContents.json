@@ -5,7 +5,25 @@
       {
         "title": "Проблемы с подключением к OpenVPN over Cloak ",
         "href": "../troubleshooting/01_connection-problem-ovpn-cloak",
-        "subtext": ""
+        "subtext": "",
+        "sublinks": [
+          {
+            "title": "Windows",
+            "href": "#windows"
+          },
+          {
+            "title": "Android",
+            "href": "#android"
+          },
+          {
+            "title": "IOS",
+            "href": "#ios"
+          },
+          {
+            "title": "Linux",
+            "href": "#linux"
+          }
+        ]
       },
       {
         "title": "Система не обнаружила MSVCP140.dll",
