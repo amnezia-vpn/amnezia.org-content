@@ -188,7 +188,7 @@ If the laws of the country of which you are a citizen set a different age giving
 ## 11. Changes to this Privacy Policy
 
 We may update our Privacy Policy from time to time. Therefore, it is recommended that you periodically review this page for any changes. We will notify you of any changes by posting a new Privacy Policy on this page.
-This version of the Privacy Policy is valid from 08.11.202023.
+This version of the Privacy Policy is valid from 08.11.2023.
 
 ## 12. Contact us
 
