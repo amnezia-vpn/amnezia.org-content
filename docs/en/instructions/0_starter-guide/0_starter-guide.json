@@ -81,19 +81,19 @@
           "text": "Wait for the server to install  "
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/digital-ocean/do16f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/digital-ocean/do16f.png",
           "text": "You can also download the mobile application version."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/digital-ocean/do17f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/digital-ocean/do17f.png",
           "text": "Select 'I have connection details.'"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/digital-ocean/do18f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/digital-ocean/do18f.png",
           "text": "Choose 'Configure your server.'"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/digital-ocean/do19f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/digital-ocean/do19f.png",
           "text": "Enter the connection details and click 'Continue.'"
         }
       ]
@@ -209,19 +209,19 @@
           "text": "Select the Instances tab on the left pane, then select your new server and click “Connect”, a window will open with the password for the server save it, the IP can be found in the bottom right corner as indicated in the screenshot, and as login use ubuntu or root. "
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws25f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aws/aws25f.png",
           "text": "You can also download the mobile application version."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws26f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aws/aws26f.png",
           "text": "Select 'I have connection details.'"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws27f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aws/aws27f.png",
           "text": "Choose 'Configure your server.'"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/aws/aws28f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aws/aws28f.png",
           "text": "Enter the connection details and click 'Continue.'"
         }
 
@@ -283,19 +283,19 @@
           "text": "You will receive a letter with data for connecting to your new server to the e-mail specified during registration. "
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf11f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/cinfu1/cinf11f.png",
           "text": "You can also download the mobile application version."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf12f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/cinfu1/cinf12f.png",
           "text": "Select 'I have connection details.'"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf13f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/cinfu1/cinf13f.png",
           "text": "Choose 'Configure your server.'"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf14f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/cinfu1/cinf14f.png",
           "text": "Enter the connection details and click 'Continue.'"
         }
 
@@ -361,19 +361,19 @@
           "text": "The notification will have a box with IP address, user and password. To connect to the VPN we need these data. "
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pqh12f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pqh12f.png",
           "text": "You can also download the mobile application version."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pqh13f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pqh13f.png",
           "text": "Select 'I have connection details.'"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pqh14f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pqh14f.png",
           "text": "Choose 'Configure your server.'"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pqh15f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pqh15f.png",
           "text": "Enter the connection details and click 'Continue.'"
         }
 
