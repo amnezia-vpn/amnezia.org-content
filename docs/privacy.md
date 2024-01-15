@@ -117,7 +117,7 @@ Pixel Tags / Page Tags / Web Beacons / Tracking Links
 
 These are small hidden images and blocks of code placed on web pages, advertisements and our emails that allow us to determine whether you are performing a certain action. When you visit a page, ad, or email, or click on a link, these elements tell us that you have gone to that page, opened an email, or clicked on a link.
 
-SDKS
+SDK
 
 SDK or software development kits are software code provided by our business partners that allows our software to interact with the services provided by these partners. For example, in our mobile application, we can use an SDK that allows our application to display ads from the advertising network. Sometimes these interactions involve the business partner collecting some information from the device on which the software is running.
 
