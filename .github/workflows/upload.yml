@@ -6,17 +6,16 @@ on:
       - master
 
 jobs:
-  upload:
+  Upload:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
       - name: Upload content to Cloudflare R2
         uses: jakejarvis/s3-sync-action@master
         with:
-          args: --delete
+          args: --exclude '.git*' --exclude 'README.md' --delete
         env:
           AWS_S3_BUCKET: amnezia-org
           AWS_ACCESS_KEY_ID: ${{ secrets.CF_R2_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.CF_R2_SECRET_ACCESS_KEY }}
           AWS_S3_ENDPOINT: https://${{ vars.CF_ACCOUNT_ID }}.r2.cloudflarestorage.com
-          SOURCE_DIR: ./docs
