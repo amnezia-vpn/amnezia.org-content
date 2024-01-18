@@ -34,42 +34,6 @@
 - Попробуйте изменить настройки, 
 - Проверьте, поддерживается ли протокол вашей версией приложения. 
 
-## UnknownError2
-
-Неизвестная ошибка - может возникнуть при разных обстоятельствах.
-
-Решение:
-
-- Перезагрузите приложение.
-- Попробуйте очистить кеш приложения.
-- Попробуйте удалить сервер или протокол и подключиться снова.
-- Если ошибка повторяется пришлите логи на почту suppport@amnezia.org или в [чат в телеграм]
-
-
-## InternalError2
-
-Внутренняя ошибка - может возникать из-за не корректной работы QT-библиотек,или при других обстоятельствах)
-
-Решение:
-
-- Перезагрузите приложение.
-- Попробуйте очистить кеш приложения.
-- Попробуйте удалить сервер или протокол и подключиться снова.
-- Если ошибка повторяется пришлите логи на почту suppport@amnezia.org или в [чат в телеграм]
-
-## NotImplementedError2
-
-Ошибка - Нет реализации такой функции. Ошибка может возникнуть, например при попытке в старой версии приложения восстановить
-настройки из бэкапа, сделанные в более новой версии приложения. Протоколы настроенные в новых версиях Amnezia,
-могут быть не совместимы со старой версией и наоборот.
-
-Решение:
-
-- Попробуйте изменить настройки,
-- Проверьте, поддерживается ли протокол вашей версией приложения. 
-
-
-# Server errors
 
 ## ServerCheckFailed
 
@@ -201,7 +165,6 @@
 
 Также возможно повреждение менеджера пакетов. Чтобы решить эту проблему, обратитесь в службу поддержки хостинга.
 
-# Ssh connection errors
 
 ## SshRequestDeniedError
 
@@ -255,21 +218,21 @@
 SSH не запущен на сервере.
 
 
-# SSH SFTP errors
 
-***SshSftpEofError***\
-***SshSftpNoSuchFileError***\
-***SshSftpPermissionDeniedError***\
-***SshSftpFailureError***\
-***SshSftpBadMessageError***\
-***SshSftpNoConnectionError***\
-***SshSftpConnectionLostError***\
-***SshSftpOpUnsupportedError***\
-***SshSftpOpUnsupportedError***\
-***SshSftpInvalidHandleError***\
-***SshSftpNoSuchPathError***\
-***SshSftpWriteProtectError***\
-***SshSftpNoMediaError***
+
+## SshSftpEofError
+## SshSftpNoSuchFileError
+## SshSftpPermissionDeniedError
+## SshSftpFailureError
+## SshSftpBadMessageError
+## SshSftpNoConnectionError
+## SshSftpConnectionLostError
+## SshSftpOpUnsupportedError
+## SshSftpOpUnsupportedError
+## SshSftpInvalidHandleError
+## SshSftpNoSuchPathError
+## SshSftpWriteProtectError
+## SshSftpNoMediaError
 
 Решение:
 Попробуйте:
@@ -323,8 +286,6 @@ Local errors
 - Попробуйте очистить кеш, перезагрузить компьютер и заново подключиться
 
 
-# Distro errors
-
 ## OpenVpnExecutableMissing
 
 Ошибка возникает при отсутствии исполняемого файла OpenVPN. Можно встретить при подключении к VPN.
@@ -364,7 +325,7 @@ Local errors
 
 - Перезагрузите компьютер и переустановите приложение.
 
-# AmneziaServiceConnectionFailed
+## AmneziaServiceConnectionFailed
 
 Ошибка: Не удалось подключиться к сервису Amnezia
 Означает, что AmneziaVPN-service (сервис , который устанавливает Amnezia на ваше устройство) поврежден или удален.
@@ -387,9 +348,6 @@ Local errors
 
 - Перезагрузить компьютер, переустановить приложение.
 
-
-
-# VPN errors
 
 ## OpenVpnAdaptersInUseError
 
@@ -433,9 +391,6 @@ Local errors
 - Если нет, используйте другой сервер, или протокол.
 
 
-
-# 3rd party utils errors
-
 ## OpenSslFailed 
 не удалось открыть SSL
 
@@ -458,8 +413,6 @@ Local errors
 
 [телеграм чате]: https://t.me/amnezia_vpn
 
-
-# import and install errors
 
 ## ImportInvalidConfigError
 
