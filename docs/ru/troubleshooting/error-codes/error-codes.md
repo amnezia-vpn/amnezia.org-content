@@ -242,8 +242,8 @@ SSH не запущен на сервере.
 - Переустановите сервер для VPN
 - Обратитесь в поддержку
 
-***SshSftpFileAlreadyExistsError \
-SftpError: File does not exist***
+## SshSftpFileAlreadyExistsError 
+## SftpError:Filedoesnotexist
 
 Ошибка возникает, когда пользователь производит установку не из под Root,
 либо некорректно настроил юзера Sudo.
