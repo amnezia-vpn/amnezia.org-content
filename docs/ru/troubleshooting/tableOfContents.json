@@ -53,20 +53,8 @@
             "href": "#notimplementederror"
           },
           {
-            "title": "UnknownError2",
-            "href": "#unknownerror2"
-          },
-          {
-            "title": "InternalError2",
-            "href": "#internalerror2"
-          },
-          {
-            "title": "NotImplementedError2",
-            "href": "#notimplementederror2"
-          },
-          {
             "title": "ServerCheckFailed",
-            "href": "#serverCheckFailed"
+            "href": "#servercheckfailed"
           },
           {
             "title": "ServerPortAlreadyAllocatedError",
