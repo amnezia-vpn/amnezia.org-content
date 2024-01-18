@@ -19,10 +19,9 @@ On the home screen, click on the share icon (in the middle) at the bottom.
 
 Next, you will be prompted to select the type of access you want to share:  
 
-**Server and service** 
-Select which server and protocol you want to share.
-
-**Connection format** 
+**Server and protocol** \
+Select which server and protocol you want to share. \
+**Connection format** \
 You can share the connection for the Amnezia client, or only create and configure the VPN in the Amnezia application, 
 and use it in other clients, such as OpenVPN Wireguard Shadowsocks, etc..
 
