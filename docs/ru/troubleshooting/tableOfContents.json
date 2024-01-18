@@ -63,6 +63,206 @@
           {
             "title": "NotImplementedError2",
             "href": "#notimplementederror2"
+          },
+          {
+            "title": "ServerCheckFailed",
+            "href": "#serverCheckFailed"
+          },
+          {
+            "title": "ServerPortAlreadyAllocatedError",
+            "href": "#serverportalreadyallocatederror"
+          },
+          {
+            "title": "ServerContainerMissingError",
+            "href": "#servercontainermissingerror"
+          },
+          {
+            "title": "ServerDockerFailedError",
+            "href": "#serverdockerfailederror"
+          },
+          {
+            "title": "ServerUserNotInSudo",
+            "href": "#serverusernotinsudo"
+          },
+          {
+            "title": "ServerPacketManagerError",
+            "href": "#serverpacketmanagererror"
+          },
+          {
+            "title": "SshRequestDeniedError",
+            "href": "#sshrequestdeniederror"
+          },
+          {
+            "title": "SshInterruptedError",
+            "href": "#sshinterruptederror"
+          },
+          {
+            "title": "SshInternalError",
+            "href": "#sshinternalerror"
+          },
+          {
+            "title": "SshPrivateKeyError",
+            "href": "#sshprivatekeyerror"
+          },
+          {
+            "title": "SshPrivateKeyFormatError",
+            "href": "#sshprivatekeyformaterror"
+          },
+          {
+            "title": "SshTimeoutError",
+            "href": "#sshtimeouterror"
+          },
+          {
+            "title": "SshSftpEofError",
+            "href": "#SshSftpEofError"
+          },
+          {
+            "title": "SshSftpNoSuchFileError",
+            "href": "#sshsftpnosuchfileerror"
+          },
+          {
+            "title": "SshSftpPermissionDeniedError",
+            "href": "#sshsftppermissiondeniederror"
+          },
+          {
+            "title": "SshSftpFailureError",
+            "href": "#sshsftpfailureerror"
+          },
+          {
+            "title": "SshSftpBadMessageError",
+            "href": "#sshsftpbadmessageerror"
+          },
+          {
+            "title": "SshSftpNoConnectionError",
+            "href": "#sshsftpnoconnectionerror"
+          },
+          {
+            "title": "SshSftpConnectionLostError",
+            "href": "#sshsftpconnectionlosterror"
+          },
+          {
+            "title": "SshSftpOpUnsupportedError",
+            "href": "#sshsftpopunsupportederror"
+          },
+          {
+            "title": "SshSftpOpUnsupportedError",
+            "href": "#sshsftpopunsupportederror"
+          },
+          {
+            "title": "SshSftpInvalidHandleError",
+            "href": "#sshsftpinvalidhandleerror"
+          },
+          {
+            "title": "SshSftpNoSuchPathError",
+            "href": "#sshsftpnosuchpatherror"
+          },
+          {
+            "title": "SshSftpWriteProtectError",
+            "href": "#sshsftpwriteprotecterror"
+          },
+          {
+            "title": "SshSftpNoMediaError",
+            "href": "#sshsftpnomediaerror"
+          },
+          {
+            "title": "SshSftpFileAlreadyExistsError",
+            "href": "#sshsftpfilealreadyexistserror "
+          },
+          {
+            "title": "SftpError:Filedoesnotexist",
+            "href": "#sftperror:filedoesnotexist"
+          },
+          {
+            "title": "FailedToSaveConfigData",
+            "href": "#failedtosaveconfigdata"
+          },
+          {
+            "title": "OpenVpnConfigMissing",
+            "href": "#openvpnconfigmissing"
+          },
+          {
+            "title": "OpenVpnManagementServerError",
+            "href": "#openvpnmanagementservererror"
+          },
+          {
+            "title": "ConfigMissing",
+            "href": "#configmissing"
+          },
+          {
+            "title": "OpenVpnExecutableMissing",
+            "href": "#openvpnexecutablenissing"
+          },
+          {
+            "title": "ShadowSocksExecutableMissing",
+            "href": "#shadowsocksexecutablemissing"
+          },
+          {
+            "title": "CloakExecutableMissing",
+            "href": "#cloakexecutablemissing"
+          },
+          {
+            "title": "AmneziaServiceConnectionFailed",
+            "href": "#amneziaserviceconnectionfailed"
+          },
+          {
+            "title": "ExecutableMissing",
+            "href": "#executablemissing"
+          },
+          {
+            "title": "OpenVpnAdaptersInUseError",
+            "href": "#openvpnadaptersinuseerror"
+          },
+          {
+            "title": "OpenVpnUnknownError",
+            "href": "#openvpnunknownerror"
+          },
+          {
+            "title": "OpenVpnTapAdapterError",
+            "href": "#openvpntapadaptererror"
+          },
+          {
+            "title": "AddressPoolError",
+            "href": "#addresspoolerror"
+          },
+          {
+            "title": "OpenVpnAdaptersInUseError",
+            "href": "#openvpnadaptersinuseerror"
+          },
+          {
+            "title": "AddressPoolError",
+            "href": "#addresspoolerror"
+          },
+          {
+            "title": "OpenSslFailed",
+            "href": "#opensslfailed"
+          },
+          {
+            "title": "OpenVpnExecutableCrashed",
+            "href": "#openvpnexecutablecrashed"
+          },
+          {
+            "title": "ShadowSocksExecutableCrashed",
+            "href": "#shadowsocksexecutablecrashed"
+          },
+          {
+            "title": "CloakExecutableCrashed",
+            "href": "#cloakexecutablecrashed"
+          },
+          {
+            "title": "ImportInvalidConfigError",
+            "href": "#importinvalidconfigerror"
+          },
+          {
+            "title": "AddressPoolError",
+            "href": "#addresspoolerror"
+          },
+          {
+            "title": "AddressPoolError",
+            "href": "#addresspoolerror"
+          },
+          {
+            "title": "AddressPoolError",
+            "href": "#addresspoolerror"
           }
         ]
       }
