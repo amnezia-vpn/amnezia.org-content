@@ -36,6 +36,11 @@
         "subtext": ""
       },
       {
+        "title": "Android отклоняет запросы, на добавление профиля VPN.",
+        "href": "../troubleshooting/04_rejects-requests-to-add-profile",
+        "subtext": ""
+      },
+      {
         "title": "Коды ошибок",
         "href": "../troubleshooting/error-codes",
         "subtext": "",
