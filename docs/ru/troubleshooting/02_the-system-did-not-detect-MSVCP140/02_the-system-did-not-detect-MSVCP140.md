@@ -1,4 +1,4 @@
-# The system did not detect MSVCP140.dll
+# Cистема не обнаружила MSVCP140.dll или MSVCP141.dll
 
 При установке Amnezia VPN на Windows появляется ошибка "система не обнаружила **MSVCP140.dll** или **MSVCP141.dll**", что делать?
 
