@@ -233,7 +233,7 @@
       "logo": "/img/logos/vendor/sinfu.svg",
       "link": "https://panel.cinfu.com/aff.php?aff=1395",
       "linkName": "CINFU",
-      "desc": "The provider does not support payment by Russian cards.",
+      "desc": "The provider does not support payment by Russian cards. The provider only supports Ubuntu 20.04 as the operating system for the server.",
       "serversLabel": "Servers",
       "serversText": "USA, Bulgaria, France, Germany, Netherlands",
       "legalAddressLabel": "Legal address",
