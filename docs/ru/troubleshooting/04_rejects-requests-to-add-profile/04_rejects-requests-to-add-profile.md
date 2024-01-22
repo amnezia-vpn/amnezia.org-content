@@ -10,4 +10,4 @@
 Найдите и выключите дополнительные опции:  
 "Постоянный VPN" или "Блокировать весь не туннелированный трафик."
 
-
+>![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/troubleshooting/01_connection_problem_ovpn_cloak/img/ts_cpoc_ru_1.png)

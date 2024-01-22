@@ -1,49 +1,51 @@
 # Проблемы с подключением к OpenVPN over Cloak.
 
-### Варианты решения для:
 
-## Windows 
+**Решение:**
 
-
-1. Проверьте, чтобы версии вашего приложения и протокола соответствовали друг-другу, так как OpenVPN over Cloak, установленный в версии 2.1.2 не работает в более новых версиях приложения и наоборот. 
-
-2. Зайдите в "Сетевые адаптеры" и отключите адаптер TAP Adapter V9 (его создает Amnezia), затем удалите его.
-
-![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/troubleshooting/01_connection_problem_ovpn_cloak/img/ts_cpoc_ru_1.png)
-![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/troubleshooting/01_connection_problem_ovpn_cloak/img/ts_cpoc_ru_2.png)
-
-4. Проверьте, чтобы у вас были включены DHCP службы на устройстве.  
-   Инструкции с сайта Microsoft для разных версий.\
-    [Windows 11] \
-    [Windows 10] \
-    [Windows 8.1 или 7] 
-5. Установите любую из версий OpenVPN с 2.5.0 по 2.6.9 [отсюда]
-6. Очистите кэш приложения AmneziaVPN
-7. Попробуйте переустановить протокол
-
-
-## Android
-
-1. Проверьте, чтобы версии вашего приложения и протокола соответствовали друг-другу, так как OpenVPN over Cloak, установленный в версии 2.1.2 не работает в более новых версиях приложения и наоборот.
-
-2. Нажмите кнопку "Exit" или “Закрыть приложение” в настройках Amnezia VPN, зайдите заново и попробуйте подключиться
-3. Перезагрузите устройство
+>## Windows 
+>
+>
+>1. Проверьте, чтобы версии вашего приложения и протокола соответствовали друг-другу, так как OpenVPN over Cloak, установленный в версии 2.1.2 не работает в более новых версиях приложения и наоборот. 
+>
+>2. Зайдите в "Сетевые адаптеры" и отключите адаптер TAP Adapter V9 (его создает Amnezia), затем удалите его.
+>
+>![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/troubleshooting/01_connection_problem_ovpn_cloak/img/ts_cpoc_ru_1.png)
+>![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/troubleshooting/01_connection_problem_ovpn_cloak/img/ts_cpoc_ru_2.png)
+>
+>3. Проверьте, чтобы у вас были включены DHCP службы на устройстве.  
+> 
+> Инструкции с сайта Microsoft для разных версий.\
+>    [Windows 11] \
+>    [Windows 10] \
+>    [Windows 8.1 или 7] 
+>4. Установите любую из версий OpenVPN с 2.5.0 по 2.6.9 [отсюда]
+>5. Очистите кэш приложения AmneziaVPN
+>6. Попробуйте переустановить протокол
 
 
-## IOS
+>## Android
+>
+>1. Проверьте, чтобы версии вашего приложения и протокола соответствовали друг-другу, так как OpenVPN over Cloak, установленный в версии 2.1.2 не работает в более новых версиях приложения и наоборот.
+>
+>2. Нажмите кнопку "Exit" или “Закрыть приложение” в настройках Amnezia VPN, зайдите заново и попробуйте подключиться
+>3. Перезагрузите устройство
 
-1. Проверьте, чтобы версии вашего приложения и протокола соответствовали друг-другу, так как OpenVPN over Cloak, установленный в версии 2.1.2 не работает в более новых версиях приложения и наоборот.
-2. Попробуйте подключиться к VPN не из приложения, а из системных настроек
-   ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/troubleshooting/01_connection_problem_ovpn_cloak/img/ts_cpoc_ru_3.png)
-   ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/troubleshooting/01_connection_problem_ovpn_cloak/img/ts_cpoc_ru_4.png)
-3. Зайдите в системные настройки VPN, удалите профиль Amnezia VPN и попробуйте подключиться вновь
-   ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/troubleshooting/01_connection_problem_ovpn_cloak/img/ts_cpoc_ru_5.png)
-4. Проверьте, чтобы приложению Amnezia VPN были выданы права на передачу Wi-Fi и мобильных данных
-5. Перезагрузите устройство
 
-## Linux
-1. Проверьте корректность времени на вашем устройстве. Системное время должно совпадать с выбранным часовым поясом.
-2. Перезагрузите устройство
+>## IOS
+>
+>1. Проверьте, чтобы версии вашего приложения и протокола соответствовали друг-другу, так как OpenVPN over Cloak, установленный в версии 2.1.2 не работает в более новых версиях приложения и наоборот.
+>2. Попробуйте подключиться к VPN не из приложения, а из системных настроек
+>   ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/troubleshooting/01_connection_problem_ovpn_cloak/img/ts_cpoc_ru_3.png)
+>   ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/troubleshooting/01_connection_problem_ovpn_cloak/img/ts_cpoc_ru_4.png)
+>3. Зайдите в системные настройки VPN, удалите профиль Amnezia VPN и попробуйте подключиться вновь
+>   ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/troubleshooting/01_connection_problem_ovpn_cloak/img/ts_cpoc_ru_5.png)
+>4. Проверьте, чтобы приложению Amnezia VPN были выданы права на передачу Wi-Fi и мобильных данных
+>5. Перезагрузите устройство
+
+>## Linux
+>1. Проверьте корректность времени на вашем устройстве. Системное время должно совпадать с выбранным часовым поясом.
+>2. Перезагрузите устройство
 
 &nbsp;
 
