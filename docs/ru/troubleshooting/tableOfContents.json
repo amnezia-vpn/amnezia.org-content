@@ -46,68 +46,68 @@
         "subtext": "",
         "sublinks": [
           {
-            "title": "Erorr #100: UnknownError",
+            "title": "Erorr 100: UnknownError",
             "href": "#unknownerror"
           },
           {
-            "title": "Erorr #101: InternalError",
+            "title": "Erorr 101: InternalError",
             "href": "#internalerror"
           },
           {
-            "title": "Erorr #102: NotImplementedError",
+            "title": "Erorr 102: NotImplementedError",
             "href": "#notimplementederror"
           },
           {
-            "title": "Erorr #200: ServerCheckFailed",
+            "title": "Erorr 200: ServerCheckFailed",
             "href": "#servercheckfailed"
           },
           {
-            "title": "Erorr #201: ServerPortAlreadyAllocatedError",
+            "title": "Erorr 201: ServerPortAlreadyAllocatedError",
             "href": "#serverportalreadyallocatederror"
           },
           {
-            "title": "Erorr #202: ServerContainerMissingError",
+            "title": "Erorr 202: ServerContainerMissingError",
             "href": "#servercontainermissingerror"
           },
           {
-            "title": "Erorr #203: ServerDockerFailedError",
+            "title": "Erorr 203: ServerDockerFailedError",
             "href": "#serverdockerfailederror"
           },
           {
-            "title": "Erorr #204: ServerCancelInstallation",
+            "title": "Erorr 204: ServerCancelInstallation",
             "href": "#servercancelinstallation"
           },
 
           {
-            "title": "Erorr #205: ServerUserNotInSudo",
+            "title": "Erorr 205: ServerUserNotInSudo",
             "href": "#serverusernotinsudo"
           },
           {
-            "title": "Erorr #206: ServerPacketManagerError",
+            "title": "Erorr 206: ServerPacketManagerError",
             "href": "#serverpacketmanagererror"
           },
           {
-            "title": "Erorr #300: SshRequestDeniedError",
+            "title": "Erorr 300: SshRequestDeniedError",
             "href": "#sshrequestdeniederror"
           },
           {
-            "title": "Erorr #301: SshInterruptedError",
+            "title": "Erorr 301: SshInterruptedError",
             "href": "#sshinterruptederror"
           },
           {
-            "title": "Erorr #302: SshInternalError",
+            "title": "Erorr 302: SshInternalError",
             "href": "#sshinternalerror"
           },
           {
-            "title": "Erorr #303: SshPrivateKeyError",
+            "title": "Erorr 303: SshPrivateKeyError",
             "href": "#sshprivatekeyerror"
           },
           {
-            "title": "Erorr #304: SshPrivateKeyFormatError",
+            "title": "Erorr 304: SshPrivateKeyFormatError",
             "href": "#sshprivatekeyformaterror"
           },
           {
-            "title": "Erorr #305: SshTimeoutError",
+            "title": "Erorr 305: SshTimeoutError",
             "href": "#sshtimeouterror"
           },
           {
@@ -115,132 +115,127 @@
             "href": "#sshsftperrors"
           },
           {
-            "title": "Erorr #400: SshSftpEofError",
+            "title": "Erorr 400: SshSftpEofError",
             "href": "#sshsftperrors"
           },
           {
-            "title": "Erorr #401: SshSftpNoSuchFileError",
+            "title": "Erorr 401: SshSftpNoSuchFileError",
             "href": "#sshsftperrors"
           },
           {
-            "title": "Erorr #402: SshSftpPermissionDeniedError",
+            "title": "Erorr 402: SshSftpPermissionDeniedError",
             "href": "#sshsftperrors"
           },
           {
-            "title": "Erorr #403: SshSftpFailureError",
+            "title": "Erorr 403: SshSftpFailureError",
             "href": "#sshsftperrors"
           },
           {
-            "title": "Erorr #404: SshSftpBadMessageError",
+            "title": "Erorr 404: SshSftpBadMessageError",
             "href": "#sshsftperrors"
           },
           {
-            "title": "Erorr #405: SshSftpNoConnectionError",
+            "title": "Erorr 405: SshSftpNoConnectionError",
             "href": "#sshsftperrors"
           },
           {
-            "title": "Erorr #406: SshSftpConnectionLostError",
+            "title": "Erorr 406: SshSftpConnectionLostError",
             "href": "#sshsftperrors"
           },
           {
-            "title": "Erorr #407: SshSftpOpUnsupportedError",
+            "title": "Erorr 407: SshSftpOpUnsupportedError",
             "href": "#sshsftperrors"
           },
           {
-            "title": "Erorr #408: SshSftpInvalidHandleError",
+            "title": "Erorr 408: SshSftpInvalidHandleError",
             "href": "#sshsftperrors"
           },
           {
-            "title": "Erorr #409: SshSftpNoSuchPathError",
+            "title": "Erorr 409: SshSftpNoSuchPathError",
             "href": "#sshsftperrors"
           },
           {
-            "title": "Erorr #411: SshSftpWriteProtectError",
+            "title": "Erorr 411: SshSftpWriteProtectError",
             "href": "#sshsftperrors"
           },
           {
-            "title": "Erorr #412: SshSftpNoMediaError",
+            "title": "Erorr 412: SshSftpNoMediaError",
             "href": "#sshsftperrors"
           },
           {
-            "title": "Erorr #411: SshSftpWriteProtectError",
-            "href": "#sshsftpnomediaerror"
-          },
-          {
-            "title": "Erorr #410: SshSftpFileAlreadyExistsError ",
+            "title": "Erorr 410: SshSftpFileAlreadyExistsError ",
             "href": "#sshsftpfilealreadyexistserror "
           },
-
           {
-            "title": "Erorr #500: FailedToSaveConfigData",
+            "title": "Erorr 500: FailedToSaveConfigData",
             "href": "#failedtosaveconfigdata"
           },
           {
-            "title": "Erorr #501: OpenVpnConfigMissing",
+            "title": "Erorr 501: OpenVpnConfigMissing",
             "href": "#openvpnconfigmissing"
           },
           {
-            "title": "Erorr #502: OpenVpnManagementServerError",
+            "title": "Erorr 502: OpenVpnManagementServerError",
             "href": "#openvpnmanagementservererror"
           },
           {
-            "title": "Erorr #503: ConfigMissing ",
+            "title": "Erorr 503: ConfigMissing ",
             "href": "#configmissing"
           },
           {
-            "title": "Erorr #600: OpenVpnExecutableMissing",
+            "title": "Erorr 600: OpenVpnExecutableMissing",
             "href": "#openvpnexecutablenissing"
           },
           {
-            "title": "Erorr #601: ShadowSocksExecutableMissing",
+            "title": "Erorr 601: ShadowSocksExecutableMissing",
             "href": "#shadowsocksexecutablemissing"
           },
           {
-            "title": "Erorr #602: CloakExecutableMissing",
+            "title": "Erorr 602: CloakExecutableMissing",
             "href": "#cloakexecutablemissing"
           },
           {
-            "title": "Erorr #603: AmneziaServiceConnectionFailed",
+            "title": "Erorr 603: AmneziaServiceConnectionFailed",
             "href": "#amneziaserviceconnectionfailed"
           },
           {
-            "title": "Erorr #604: ExecutableMissing",
+            "title": "Erorr 604: ExecutableMissing",
             "href": "#executablemissing"
           },
           {
-            "title": "Erorr #700: OpenVpnAdaptersInUseError",
+            "title": "Erorr 700: OpenVpnAdaptersInUseError",
             "href": "#openvpnadaptersinuseerror"
           },
           {
-            "title": "Erorr #701: OpenVpnUnknownError",
+            "title": "Erorr 701: OpenVpnUnknownError",
             "href": "#openvpnunknownerror"
           },
           {
-            "title": "Erorr #702: OpenVpnTapAdapterError",
+            "title": "Erorr 702: OpenVpnTapAdapterError",
             "href": "#openvpntapadaptererror"
           },
           {
-            "title": "Erorr #703: AddressPoolError",
+            "title": "Erorr 703: AddressPoolError",
             "href": "#addresspoolerror"
           },
           {
-            "title": "Erorr #800:OpenSslFailed",
+            "title": "Erorr 800:OpenSslFailed",
             "href": "#opensslfailed"
           },
           {
-            "title": "Erorr #801: OpenVpnExecutableCrashed",
+            "title": "Erorr 801: OpenVpnExecutableCrashed",
             "href": "#openvpnexecutablecrashed"
           },
           {
-            "title": "Erorr #802: ShadowSocksExecutableCrashed",
+            "title": "Erorr 802: ShadowSocksExecutableCrashed",
             "href": "#shadowsocksexecutablecrashed"
           },
           {
-            "title": "Erorr #803: CloakExecutableCrashed",
+            "title": "Erorr 803: CloakExecutableCrashed",
             "href": "#cloakexecutablecrashed"
           },
           {
-            "title": "Erorr #900: ImportInvalidConfigError",
+            "title": "Erorr 900: ImportInvalidConfigError",
             "href": "#importinvalidconfigerror"
 
           }

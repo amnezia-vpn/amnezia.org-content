@@ -1,6 +1,6 @@
 # General error codes
 
-## Erorr #100: UnknownError
+## Erorr 100: UnknownError
 
 Неизвестная ошибка - может возникнуть при самых разных обстоятельствах.  
 
@@ -11,7 +11,7 @@
 >- Если ошибка повторяется отправьте логи на почту suppport@amnezia.org или в [чат в телеграм]
 
 
-## Erorr #101: InternalError
+## Erorr 101: InternalError
 
 Внутренняя ошибка - может возникать из-за некорректной работы QT-библиотек, или при других обстоятельствах
 
@@ -21,7 +21,7 @@
 >- Попробуйте удалить сервер или протокол и подключиться снова.
 >- Если ошибка повторяется отправьте логи на почту suppport@amnezia.org или в [чат в телеграм]
 
-## Erorr #102: NotImplementedError
+## Erorr 102: NotImplementedError
 
 Ошибка может возникнуть, например при попытке в старой версии приложения восстановить 
 настройки из бэкапа, сделанные в более новой версии приложения. Протоколы настроенные в новых версиях Amnezia, 
@@ -32,7 +32,7 @@
 >- Проверьте, поддерживается ли протокол вашей версией приложения. Так например AmneziaWG не поддерживается версиями приложения старше 3, а OpenVPN over Cloak установленный на версии приложения старше 2.1.2 не будет работать на более новых версиях.
 
 
-## Erorr #200: ServerCheckFailed
+## Erorr 200: ServerCheckFailed
 
 Возникает при попытке добавить новый сервер.
 
@@ -47,7 +47,7 @@
     Оперативная память (RAM) - не меньше 1 Гб \
     Предустановленное ПО и панель управления не требуются
 
-## Erorr #201: ServerPortAlreadyAllocatedError
+## Erorr 201: ServerPortAlreadyAllocatedError
 
 Эта ошибка означает, что порт, который нужен протоколу в Amnezia, уже используется другим ПО.
 
@@ -100,7 +100,7 @@
 
 
 
-## Erorr #202: ServerContainerMissingError
+## Erorr 202: ServerContainerMissingError
 
 Ошибка значит, что контейнер с сервером отсутствует.\
 Возникает если приложение не подключается к серверу и при смене настроек.\
@@ -110,7 +110,7 @@
 > 
 > - Заново добавьте сервер.
 
-## Erorr #203: ServerDockerFailedError
+## Erorr 203: ServerDockerFailedError
 
 Ошибка: Сбой в работе Docker-контейнера сервера.
 Появляется при установке контейнера с VPN или изменении настроек протокола.
@@ -120,7 +120,7 @@
 > 
 >- Заново добавьте сервер.
 
-## Erorr #204: ServerCancelInstallation
+## Erorr 204: ServerCancelInstallation
 
 Ошибка: Отмена установки сервера
 Может возникнуть при отмене установки севера пользователем.    
@@ -130,7 +130,7 @@
 > Если вы не отменяли установку сервера или хотите заново инициировать установку сервера, попробуйте повторить 
 > установку сервера с самого начала, или обратитесь в службу поддержки в телеграм чате, или напишите нам на почту  support@amnezia.org
 
-## Erorr #205: ServerUserNotInSudo
+## Erorr 205: ServerUserNotInSudo
 
 Обозначает, что пользователь сервера не имеет Sudo-прав.
 Возникает при установке контейнера с VPN или при добавлении файла с конфигурацией.
@@ -145,7 +145,7 @@
 >- Обратитесь в службу поддержки хостинга.
 
 
-## Erorr #206: ServerPacketManagerError
+## Erorr 206: ServerPacketManagerError
 
 Ошибка диспетчера пакетов сервера возникает при установке контейнера с сервером.
 Обозначает, что менеджер пакетов занят, возникает после 30 попыток установить пакеты. Причиной возникновения может служить обновление пакетов.
@@ -161,7 +161,7 @@
 > - Чтобы решить эту проблему, обратитесь в службу поддержки хостинга.
 
 
-## Erorr #300: SshRequestDeniedError
+## Erorr 300: SshRequestDeniedError
 
 Возникает при некорректном введении данных во время добавления нового сервера.
 
@@ -170,7 +170,7 @@
 > - Проверьте правильность введенных данных.
 
 
-## Erorr #301: SshInterruptedError
+## Erorr 301: SshInterruptedError
 
 Возникает при добавлении нового сервера в приложение, при подключении к добавленному серверу, или при
 изменении настроек сервера. 
@@ -179,7 +179,7 @@
 > 
 > - Проверьте стабильность интернета, повторите попытку, так как проблема чаще всего связана со стабильностью интернет-соединения.
 
-## Erorr #302: SshInternalError
+## Erorr 302: SshInternalError
 
 Возникает при добавлении нового сервера в приложение, при подключении к добавленному серверу, или
 при изменении настроек сервера.
@@ -198,7 +198,7 @@
 > 
 > - Проверьте правильность введенного ключа.
 
-## Erorr #304: SshPrivateKeyFormatError
+## Erorr 304: SshPrivateKeyFormatError
 
 Возникает при добавлении нового сервера в приложение, при подключении к добавленному серверу, или
 при изменении настроек сервера.
@@ -207,7 +207,7 @@
 > 
 > - Проверьте правильность формата введенного ключа, формат должен быть, либо **PEM**, либо **ED25519**.
 
-## Erorr #305: SshTimeoutError
+## Erorr 305: SshTimeoutError
 Возникает при добавлении нового сервера в приложение, при подключении к добавленному серверу, или
 изменении настроек сервера.
 К этой ошибке могут приводить разные проблемы, например, неправильный порт, IP, или SSH запрещен фаерволом.
@@ -221,18 +221,18 @@
 
 ## SshSftpErrors
 
- **Erorr #400: SshSftpEofError** \
- **Erorr #401: SshSftpNoSuchFileError**\
- **Erorr #402: SshSftpPermissionDeniedError**\
- **Erorr #403: SshSftpFailureError**\
- **Erorr #404: SshSftpBadMessageError**\
- **Erorr #405: SshSftpNoConnectionError**\
- **Erorr #406: SshSftpConnectionLostError**\
- **Erorr #407: SshSftpOpUnsupportedError**\
- **Erorr #408: SshSftpOpUnsupportedError**\
- **Erorr #409: SshSftpNoSuchPathError**\
- **Erorr #411: SshSftpWriteProtectError**\
- **Erorr #412: SshSftpNoMediaError**
+ **Erorr 400: SshSftpEofError** \
+ **Erorr 401: SshSftpNoSuchFileError**\
+ **Erorr 402: SshSftpPermissionDeniedError**\
+ **Erorr 403: SshSftpFailureError**\
+ **Erorr 404: SshSftpBadMessageError**\
+ **Erorr 405: SshSftpNoConnectionError**\
+ **Erorr 406: SshSftpConnectionLostError**\
+ **Erorr 407: SshSftpOpUnsupportedError**\
+ **Erorr 408: SshSftpInvalidHandleError**\
+ **Erorr 409: SshSftpNoSuchPathError**\
+ **Erorr 411: SshSftpWriteProtectError**\
+ **Erorr 412: SshSftpNoMediaError**
 
 >**Решение:** 
 >
@@ -241,7 +241,7 @@
 >- Переустановите сервер для VPN
 >- Обратитесь в поддержку
 
-## Erorr #410: SshSftpFileAlreadyExistsError 
+## Erorr 410: SshSftpFileAlreadyExistsError 
 (Sftp error: File does not exist)
 
 Ошибка возникает, если производить установку не из под Root,
@@ -253,7 +253,7 @@
 
 
 
-## Erorr #500: FailedToSaveConfigData
+## Erorr 500: FailedToSaveConfigData
 
 Ошибка возникает при неудачной попытке сохранить файл конфигурации.
 
@@ -263,7 +263,7 @@
 >- Попробуйте использовать другие способы для сохранения конфигурации, например сохраните конфигурацию в виде текстового ключа.
 >- Обратитесь в поддержку [телеграм чат], или на почту support@amnezia.org
 
-## Erorr #501: OpenVpnConfigMissing
+## Erorr 501: OpenVpnConfigMissing
 
 Ошибка: Отсутствует конфигурация OpenVPN. \
 Возникает при использовании десктопной версии приложения.
@@ -271,7 +271,7 @@
 >**Решение:**
 >- Попробуйте очистить кеш, перезагрузить устройство и заново подключиться
 
-## Erorr #502: OpenVpnManagementServerError
+## Erorr 502: OpenVpnManagementServerError
 
 Ошибка возникает при установке VPN-соединения на десктопной версии приложения.
 
@@ -279,7 +279,7 @@
 >
 >- Попробуйте очистить кеш, перезагрузить устройство и заново подключиться
 
-## Erorr #503: ConfigMissing 
+## Erorr 503: ConfigMissing 
 
 Ошибка обозначает, что конфигурация отсутствует, возникает при установке VPN-соединения на десктопной версии приложения.
 >**Решение:**
@@ -287,7 +287,7 @@
 >- Попробуйте очистить кеш, перезагрузить устройство и заново подключиться
 
 
-## Erorr #600: OpenVpnExecutableMissing
+## Erorr 600: OpenVpnExecutableMissing
 
 Ошибка возникает при отсутствии исполняемого файла OpenVPN. Можно встретить при подключении к VPN.
 
@@ -300,7 +300,7 @@
 >
 >- Перезагрузите устройство и переустановите приложение.
 
-## Erorr #601: ShadowSocksExecutableMissing
+## Erorr 601: ShadowSocksExecutableMissing
 
 Ошибка: Отсутствует исполняемый файл ShadowSocks
 
@@ -313,7 +313,7 @@
 >
 >- Перезагрузите устройство и переустановите приложение.
 
-## Erorr #602: CloakExecutableMissing
+## Erorr 602: CloakExecutableMissing
 
 Ошибка: Отсутствует исполняемый файл Cloak
 
@@ -326,7 +326,7 @@
 >
 >- Перезагрузите устройство и переустановите приложение.
 
-## Erorr #603: AmneziaServiceConnectionFailed
+## Erorr 603: AmneziaServiceConnectionFailed
 
 Ошибка: Не удалось подключиться к сервису Amnezia.\
 Означает, что AmneziaVPN-service (это сервис , который устанавливает Amnezia на ваше устройство) поврежден или удален.
@@ -337,7 +337,7 @@
 >- Переустановить приложение,
 >- На macОS посмотрите есть ли разрешение на использование сервиса AmneziaVPN-service
 
-## Erorr #604: ExecutableMissing
+## Erorr 604: ExecutableMissing
 
 Ошибка означает, что отсутствует исполняемый файл.
 Означает, что: \
@@ -350,7 +350,7 @@
 >- Перезагрузить устройство, переустановить приложение.
 
 
-## Erorr #700: OpenVpnAdaptersInUseError
+## Erorr 700: OpenVpnAdaptersInUseError
 
 Ошибка использования OpenVPN адаптеров.
 Может возникать из-за того, что какое-то другое ПО использует OpenVPN-адаптер.
@@ -363,7 +363,7 @@
 >- Попробуйте перезагрузить устройство,
 >- Перезапустите приложение.
 
-## Erorr #701: OpenVpnUnknownError
+## Erorr 701: OpenVpnUnknownError
 
 Неизвестная ошибка OpenVPN, возникает при подключении к OpenVPN
 
@@ -373,7 +373,7 @@
 >- Попробуйте перезагрузить устройство,
 >- Перезапустите приложение
 
-## Erorr #702: OpenVpnTapAdapterError
+## Erorr 702: OpenVpnTapAdapterError
 
 Ошибка возникает при неполадках с OpenVpn Tap адаптером.
 
@@ -381,7 +381,7 @@
 >- Удалите OpenVPN TAP адаптер, и заново подключитесь к VPN с протоколом OpenVPN.
 >- Если это ен помогло, установите OpenVPN 2.6.
 
-## Erorr #703: AddressPoolError
+## Erorr 703: AddressPoolError
 
 Ошибка в пуле адресов обозначает, что закончились адреса для конфигов WireGuard и AmneziaWG.  Amnezia поддерживает до 254 конфигураций для WireGuard.
 конфигураций
@@ -391,7 +391,7 @@
 >- Если нет, используйте другой сервер, или протокол.
 
 
-## Erorr #800:OpenSslFailed,
+## Erorr 800:OpenSslFailed,
 
 Ошибка может возникнуть при подключении к VPN.
 
@@ -400,7 +400,7 @@
 >- Попробуйте перезагрузить компьютер, повторить подключение
 >- Если ошибка повторяется - обратитесь в нашу поддержку в [телеграм чате], или напишите нам на почту support@amnezia.org
 
-## Erorr #801: OpenVpnExecutableCrashed,
+## Erorr 801: OpenVpnExecutableCrashed,
 
 Ошибка: Завершение работы исполняемого файла OpenVpn.
 Может возникнуть при подключении к VPN.
@@ -410,7 +410,7 @@
 >- Попробуйте перезагрузить компьютер, повторить подключение
 >- Если ошибка повторяется - обратитесь в нашу поддержку в [телеграм чате], или напишите нам на почту support@amnezia.org
 
-## Erorr #802: ShadowSocksExecutableCrashed,
+## Erorr 802: ShadowSocksExecutableCrashed,
 
 Ошибка: Завершение работы исполняемого файла ShadowSocks 
 Может возникнуть при подключении к VPN.
@@ -420,7 +420,7 @@
 >- Попробуйте перезагрузить компьютер, повторить подключение
 >- Если ошибка повторяется - обратитесь в нашу поддержку в [телеграм чате], или напишите нам на почту support@amnezia.org
 
-## Erorr #803: CloakExecutableCrashed
+## Erorr 803: CloakExecutableCrashed
 
 
 Сбой исполняемого файла Cloak.
@@ -435,7 +435,7 @@
 [телеграм чате]: https://t.me/amnezia_vpn
 
 
-## Erorr #900: ImportInvalidConfigError
+## Erorr 900: ImportInvalidConfigError
 
 Ошибка обозначает, что загружен файл конфигурации в неверном формате.
 
