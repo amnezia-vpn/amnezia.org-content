@@ -1,4 +1,4 @@
-# General error codes
+# Коды ошибок
 
 ## Erorr 100: UnknownError
 
