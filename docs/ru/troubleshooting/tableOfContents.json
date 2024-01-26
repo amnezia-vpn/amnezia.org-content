@@ -47,68 +47,68 @@
         "sublinks": [
           {
             "title": "Erorr 100: UnknownError",
-            "href": "#unknownerror"
+            "href": "#erorr-100-unknownerror"
           },
           {
             "title": "Erorr 101: InternalError",
-            "href": "#internalerror"
+            "href": "#erorr-101-internalerror"
           },
           {
             "title": "Erorr 102: NotImplementedError",
-            "href": "#notimplementederror"
+            "href": "#erorr-102-notimplementederror"
           },
           {
             "title": "Erorr 200: ServerCheckFailed",
-            "href": "#servercheckfailed"
+            "href": "#erorr-200-servercheckfailed"
           },
           {
             "title": "Erorr 201: ServerPortAlreadyAllocatedError",
-            "href": "#serverportalreadyallocatederror"
+            "href": "#erorr-201-serverportalreadyallocatederror"
           },
           {
             "title": "Erorr 202: ServerContainerMissingError",
-            "href": "#servercontainermissingerror"
+            "href": "#erorr-202-servercontainermissingerror"
           },
           {
             "title": "Erorr 203: ServerDockerFailedError",
-            "href": "#serverdockerfailederror"
+            "href": "#erorr-203-serverdockerfailederror"
           },
           {
             "title": "Erorr 204: ServerCancelInstallation",
-            "href": "#servercancelinstallation"
+            "href": "#erorr-204-servercancelinstallation"
           },
 
           {
             "title": "Erorr 205: ServerUserNotInSudo",
-            "href": "#serverusernotinsudo"
+            "href": "#erorr-205-serverusernotinsudo"
           },
           {
             "title": "Erorr 206: ServerPacketManagerError",
-            "href": "#serverpacketmanagererror"
+            "href": "#erorr-206-serverpacketmanagererror"
           },
           {
             "title": "Erorr 300: SshRequestDeniedError",
-            "href": "#sshrequestdeniederror"
+            "href": "#erorr-300-sshrequestdeniederror"
           },
           {
             "title": "Erorr 301: SshInterruptedError",
-            "href": "#sshinterruptederror"
+            "href": "#erorr-301-sshinterruptederror"
           },
           {
             "title": "Erorr 302: SshInternalError",
-            "href": "#sshinternalerror"
+            "href": "#erorr-302-sshinternalerror"
           },
           {
             "title": "Erorr 303: SshPrivateKeyError",
-            "href": "#sshprivatekeyerror"
+            "href": "#erorr-303-sshprivatekeyerror"
           },
           {
             "title": "Erorr 304: SshPrivateKeyFormatError",
-            "href": "#sshprivatekeyformaterror"
+            "href": "#erorr-304-sshprivatekeyformaterror"
           },
           {
             "title": "Erorr 305: SshTimeoutError",
-            "href": "#sshtimeouterror"
+            "href": "#erorr-305-sshtimeouterror"
           },
           {
             "title": "SshSftpErrors",
@@ -164,79 +164,79 @@
           },
           {
             "title": "Erorr 410: SshSftpFileAlreadyExistsError ",
-            "href": "#sshsftpfilealreadyexistserror "
+            "href": "#erorr-410-sshsftpfilealreadyexistserror "
           },
           {
             "title": "Erorr 500: FailedToSaveConfigData",
-            "href": "#failedtosaveconfigdata"
+            "href": "#erorr-500-failedtosaveconfigdata"
           },
           {
             "title": "Erorr 501: OpenVpnConfigMissing",
-            "href": "#openvpnconfigmissing"
+            "href": "#erorr-501-openvpnconfigmissing"
           },
           {
             "title": "Erorr 502: OpenVpnManagementServerError",
-            "href": "#openvpnmanagementservererror"
+            "href": "#erorr-502-openvpnmanagementservererror"
           },
           {
             "title": "Erorr 503: ConfigMissing ",
-            "href": "#configmissing"
+            "href": "#erorr-503-configmissing"
           },
           {
             "title": "Erorr 600: OpenVpnExecutableMissing",
-            "href": "#openvpnexecutablenissing"
+            "href": "#erorr-600-openvpnexecutablenissing"
           },
           {
             "title": "Erorr 601: ShadowSocksExecutableMissing",
-            "href": "#shadowsocksexecutablemissing"
+            "href": "#erorr-601-shadowsocksexecutablemissing"
           },
           {
             "title": "Erorr 602: CloakExecutableMissing",
-            "href": "#cloakexecutablemissing"
+            "href": "#erorr-602-cloakexecutablemissing"
           },
           {
             "title": "Erorr 603: AmneziaServiceConnectionFailed",
-            "href": "#amneziaserviceconnectionfailed"
+            "href": "#erorr-603-amneziaserviceconnectionfailed"
           },
           {
             "title": "Erorr 604: ExecutableMissing",
-            "href": "#executablemissing"
+            "href": "#erorr-604-executablemissing"
           },
           {
             "title": "Erorr 700: OpenVpnAdaptersInUseError",
-            "href": "#openvpnadaptersinuseerror"
+            "href": "#erorr-700-openvpnadaptersinuseerror"
           },
           {
             "title": "Erorr 701: OpenVpnUnknownError",
-            "href": "#openvpnunknownerror"
+            "href": "#erorr-701-openvpnunknownerror"
           },
           {
             "title": "Erorr 702: OpenVpnTapAdapterError",
-            "href": "#openvpntapadaptererror"
+            "href": "#erorr-702-openvpntapadaptererror"
           },
           {
             "title": "Erorr 703: AddressPoolError",
-            "href": "#addresspoolerror"
+            "href": "#erorr-703-addresspoolerror"
           },
           {
             "title": "Erorr 800:OpenSslFailed",
-            "href": "#opensslfailed"
+            "href": "#erorr-800-opensslfailed"
           },
           {
             "title": "Erorr 801: OpenVpnExecutableCrashed",
-            "href": "#openvpnexecutablecrashed"
+            "href": "#erorr-801-openvpnexecutablecrashed"
           },
           {
             "title": "Erorr 802: ShadowSocksExecutableCrashed",
-            "href": "#shadowsocksexecutablecrashed"
+            "href": "#erorr-802-shadowsocksexecutablecrashed"
           },
           {
             "title": "Erorr 803: CloakExecutableCrashed",
-            "href": "#cloakexecutablecrashed"
+            "href": "#erorr-803-cloakexecutablecrashed"
           },
           {
             "title": "Erorr 900: ImportInvalidConfigError",
-            "href": "#importinvalidconfigerror"
+            "href": "#erorr-900-importinvalidconfigerror"
 
           }
         ]
