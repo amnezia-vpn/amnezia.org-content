@@ -298,79 +298,7 @@
 
       ]
     },
-    {
-      "recommend": false,
-      "logo": "/img/logos/vendor/sinfu.svg",
-      "link": "https://panel.cinfu.com/aff.php?aff=1395",
-      "linkName": "CINFU",
-      "desc": "Провайдер не поддерживает оплату Российскими картами. Провайдер в качестве ОС для сервера поддерживает только Ubuntu 20.04",
-      "serversLabel": "Серверы",
-      "serversText": "США, Болгария, Франция, Германия, Нидерланды",
-      "legalAddressLabel": "Юридический адрес", 
-      "legalAddressText": "Сейшельские острова",
-      "priceLabel": "Оплата",
-      "priceText": "от $5/мес",
-      "priceInfo": "Mastercard/Visa(иностранные банки), PayPal, AdvCash Mir, Skril, Litecoin, Ethereum & other Cryptocurrencies, Paxum, EpayFasaPay, NixMoney, Bitcoin, Brick (Powered by Paymentwall), Paymentwall, Payeer (30+ other payment option) ",
-      "steps": [
-        {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf1f.png",
-          "text": "Выберете страну приобретаемого сервера."
-        },
-        {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf2f.png",
-          "text": "Выберете тариф"
-        },
-        {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf3f.png",
-          "text": "Придумайте имя хостинга и внесите в строку “Hostname”, придумайте и введите пароль в строку “root Password”, выберете операционную систему Ubuntu 20.04, другие OS не поддерживаются "
-        },
-        {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf4f.png",
-          "text": "Нажмите на “Checkout”"
-        },
-        {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf5f.png",
-          "text": "Заполните данные, придумайте пароль"
-        },
-        {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf6f.png",
-          "text": "Выберете способ оплаты, поставьте галочку и завершите заказа “Complete Order”"
-        },
-        {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf7f.png",
-          "text": "Оплатите сервер, нажмите на “Make One off Payment”"
-        },
-        {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf8f.png",
-          "text": "Если оплата прошла успешно, вы увидите номер вашего заказа, нажмите “Continue To Client Area”"
-        },
-        {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf9f.png",
-          "text": "В разделе “My Products & Services” статус вашего сервера должен поменять на “active”, это может занять некоторое время."
-        },
-        {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf10f.png",
-          "text": "На указанную при регистрации почту Вам придет письмо с данными для подключения к Вашему новому серверу. "
-        },
-        {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf11f.png",
-          "text": "Вы также можете скачать версию приложения для мобильных устройств"
-        },
-        {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf12f.png",
-          "text": "Выберете У меня есть данные для подключения "
-        },
-        {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf13f.png",
-          "text": "Выберете - Настроить свой сервер "
-        },
-        {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/cinfu1/cinf14f.png",
-          "text": "Внесите данные для подключения и нажмите -  Продолжить "
-        }
 
-      ]
-    },
     {
       "recommend": false,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pq-hosting.svg",
