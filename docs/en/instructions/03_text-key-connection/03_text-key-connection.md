@@ -9,7 +9,6 @@ Do not use keys from public sources, they may have been posted for the purpose o
 > Operating System - Linux, suitable for Ubuntu 22.04 or Debian 11. \
 > Supported processor architecture - x86-64.\
 > Virtualization - KVM. \
-> SSD - minimum 7 GB. \
 > Random Access Memory (RAM) - recommended 2 GB, but not less than 1 GB. \
 > Pre-installed software and control panel are not required.
 
