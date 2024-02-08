@@ -89,7 +89,7 @@ Now you can share your connection with other people, add and remove protocols, s
 
 If you still have questions, check out [Telegram chat] or [other sections of the manual].
 
-[How to Start Your VPN with Amnezia]: ../instructions/starter-guide
+[How to Start Your VPN with Amnezia]: ../instructions/0_starter-guide
 [file]: ../instructions/04_file-connection
 [QR code]: ../instructions/05_qr-code_connection
 [key in text]: ../instructions/03_text-key-connection
