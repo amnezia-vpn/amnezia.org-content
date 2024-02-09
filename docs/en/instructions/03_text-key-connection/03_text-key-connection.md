@@ -1,19 +1,5 @@
 # Connection with Key as text
 
-
-In this instruction we will consider the option of connecting via a key in the form of text.
-The key should look something like this **VPN:///ue34nf\feh.....**  
-Do not use keys from public sources, they may have been posted for the purpose of intercepting your personal data.
-
-> **Minimum system requirements for VPS:**  \
-> Operating System - Linux, suitable for Ubuntu 22.04 or Debian 11. \
-> Supported processor architecture - x86-64.\
-> Virtualization - KVM. \
-> Random Access Memory (RAM) - recommended 2 GB, but not less than 1 GB. \
-> Pre-installed software and control panel are not required.
-
-&nbsp;
-
 ## Install the Amnezia app
 
 On the first screen, the application will ask for your connection details.  This is the data of the VPS server.
@@ -27,6 +13,8 @@ Select "I have data to connect".
 ## Choose the data type you have. 
 
 In these instructions, we will look at connecting via a text key, so choose "Open a config file, key or QR-code"
+The key should look something like this **VPN:///ue34nf\feh.....**  
+Do not use keys from public sources, they may have been posted for the purpose of intercepting your personal data.
 
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/03_text-key-connection/img/tkc_en_2.png)

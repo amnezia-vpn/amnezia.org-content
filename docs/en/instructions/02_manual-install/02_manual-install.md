@@ -1,35 +1,21 @@
 # Manual installation
-## Buy a server if you don't have one
-
-To create your own VPN, buy a virtual VPS server. For step-by-step instructions on how to buy a VPS from some of the popular hosting providers, see [How to run your VPN with Amnezia].  
-
-If your connection data has been shared with you in the form of a [file] [text key], or [qr code], you do not need to buy a server, please refer to the relevant instructions .
-
-> **Minimum system requirements for VPS:**  \
-> Operating System - Linux, suitable for Ubuntu 22.04 or Debian 11. \
-> Supported processor architecture - x86-64.\
-> Virtualization - KVM. \
-> Random Access Memory (RAM) - recommended 2 GB, but not less than 1 GB. \
-> Pre-installed software and control panel are not required.
-
-&nbsp;
 
 ## Install the Amnezia app
 
-On the first screen, the application will ask for your connection details.  These are the details of your VPS server. Hosting providers will send them to your mail after you buy a VPS.  In the email you will find :
-
+On the first screen, the application will ask for your connection details, which are your VPS server's data. If you don't have a VPS server, refer to the [How to Start Your VPN with Amnezia] instructions, where examples of instructions for purchasing hosting and choosing the necessary settings are collected.
+After purchasing a VPS, hosting providers will send you the server's IP, user name or ID, and password to your email. These details look something like this:
+-
 - **IP** : 192.565.ххx.xxx
-- **Username**: root  (or other)
+- **Username** : root  (or other)
 - **Password or SSH-key** : 2f9legf2...
 
-Install the Amnezia app
+Select "I have data to connect".
 
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/02_manual-install/img/mi_en_1.png)
 
 > If you purchased VPS for Amnezia from Inferno solution, instead of IP login and password you may be sent a key in the form of text in the following format VPN:///ue34nf\feh......
 In this case, please refer to the instructions [Connect via text key].
-
 
 
 &nbsp;

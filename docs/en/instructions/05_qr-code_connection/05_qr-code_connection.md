@@ -1,18 +1,5 @@
 # Connection by QR code
 
-In this case, we will consider the option of connecting via QR code
-Do not use a QR code from public sources, it may have been posted for the purpose of intercepting your personal data.
-
-> **Minimum system requirements for VPS:**  \
-> Operating System - Linux, suitable for Ubuntu 22.04 or Debian 11. \
-> Supported processor architecture - x86-64.\
-> Virtualization - KVM. \
-> Random Access Memory (RAM) - recommended 2 GB, but not less than 1 GB. \
-> Pre-installed software and control panel are not required.
-
-
-&nbsp;
-
 ## Install the Amnezia app
 
 On the first screen, the application will ask for your connection details. This is your VPS server data.
@@ -26,6 +13,7 @@ Select "I have connection details".
 ## Choose the data type you have.
 
 In this guide, we will consider the option of connecting via a QR code, so select "Open a config file, key or QR code"
+Do not use a QR code from public sources, it may have been posted for the purpose of intercepting your personal data.
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/05_qr-code_connection/img/qrc_en_2.png)
 

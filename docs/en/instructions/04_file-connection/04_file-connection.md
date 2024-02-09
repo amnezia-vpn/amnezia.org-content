@@ -1,21 +1,5 @@
 # Connecting with a file
 
-
-In this case, we will consider the option of connecting via a configuration file.
-
- The file should be in **.vpn**, **.conf** or **.ovpn** format 
-
-Do not use files from public sources, they may have been posted for the purpose of capturing your personal data.
-
-> **Minimum system requirements for VPS:** \
-> Operating System - Linux, suitable for Ubuntu 22.04 or Debian 11. \
-> Supported processor architecture - x86-64.\
-> Virtualization - KVM. \
-> Random Access Memory (RAM) - recommended 2 GB, but not less than 1 GB. \
-> Pre-installed software and control panel are not required.
-
-&nbsp;
-
 ## Install the Amnezia app
 
 On the first screen, the application will ask for your connection details. This is your VPS server data.
@@ -29,6 +13,9 @@ Select "I have data to connect".
 ## Select the type of data you have. 
 
 In this instruction we will consider connection via a configuration file, so select "Open a config file, key or QR code"
+The file should be in **.vpn**, **.conf** or **.ovpn** format
+
+Do not use files from public sources, they may have been posted for the purpose of capturing your personal data.
 
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/04_file-connection/img/fc_en_2.png)

@@ -1,8 +1,8 @@
 {
   "h1": "How to run your VPN with Amnezia",
-  "h2": "Buy a server if you don't have one. ",
-  "p1": "To make it more convenient for you, we have selected several hosting providers.",
+  "h2": "Buy a server (VPS) if you don't have one. ",
   "cardText": "Minimum system requirements for VPS: Operating System - Linux, suitable for Ubuntu 22.04 or Debian 11. Virtualization - KVM. SSD - minimum 7 GB. Random Access Memory (RAM) - recommended 2 GB, but not less than 1 GB. Supported processor architecture - x86-64. Pre-installed software and control panel are not required.",
+  "p1": "To make it more convenient for you, we have selected several hosting providers.",
   "p2": "Choose a suitable server from the ones below and follow the step-by-step instructions. You can also choose any other VPS provider at your discretion.",
   "hostings":[
    
