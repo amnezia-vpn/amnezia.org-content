@@ -10,7 +10,7 @@
 
 To make it more convenient for you, we have selected several hosting providers.
 
-Choose a suitable server from the options provided below and follow the step-by-step instructions. You can also choose any other VPS provider at your discretion.
+Choose a suitable server from the options provided below and follow the step-by-step instructions. You can also choose any other VPS provider at your discretion. All servers are provided as examples.
 >⚠️ Servers on Reg.ru and Yandex Cloud are not suitable for installing VPN with Amnezia
 
 &nbsp;
