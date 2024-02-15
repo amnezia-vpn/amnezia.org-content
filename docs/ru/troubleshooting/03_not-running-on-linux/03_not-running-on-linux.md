@@ -10,8 +10,7 @@
 >~~~
 > - Перезапустите приложение.
 
-## Подсистема отличается от SystemD
 
-Если Ваша подсистема Linux отличается от SystemD
-Воспользуйтесь этой инструкцией: https://github.com/M9snikFeed/amnezia-vpn-runit/blob/main/README.md 
+Если Ваша подсистема Linux отличается от SystemD,
+воспользуйтесь этой инструкцией: https://github.com/M9snikFeed/amnezia-vpn-runit/blob/main/README.md 
 

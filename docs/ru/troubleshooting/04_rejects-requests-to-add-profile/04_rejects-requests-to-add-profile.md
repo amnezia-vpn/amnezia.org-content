@@ -8,5 +8,4 @@
 >В настройках системы найдите "VPN", там перечислены профили программ. \
 Выключите дополнительные опции:  
 "Постоянный VPN" или "Блокировать весь не туннелированный трафик."
-
 >![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/troubleshooting/04_rejects-requests-to-add-profile/img/01_rrtap.png)

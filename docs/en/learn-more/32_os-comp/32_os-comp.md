@@ -1,7 +1,11 @@
 # Supported Linux Operating Systems for VPS
 
-> VPS servers with KVM virtualization running Linux OS are supported.
-> Recommended OS for server installation: Debian 11, Ubuntu 22.04.
+> **Minimum system requirements for VPS:** \
+> Operating System - Linux, suitable for Ubuntu 22.04 or Debian 11. \
+> Supported processor architecture - x86-64.\
+> Virtualization - KVM. \
+> Random Access Memory (RAM) - recommended 2 GB, but not less than 1 GB. \
+> Pre-installed software and control panel are not required.
 
 Below are other Linux OS options supported by AmneziaVPN.
 KVM is the recommended virtualization type. WireGuard and AmneziaWG protocols are not supported with OpenVZ virtualization.
