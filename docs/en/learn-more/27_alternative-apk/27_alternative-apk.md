@@ -1,4 +1,4 @@
-# Alternative applications
+# Alternative clients
 
 You do not have to use a VPN created by Amnezia using the Amnezia client. 
 Below are alternative clients for some protocols
