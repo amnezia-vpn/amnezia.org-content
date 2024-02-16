@@ -12,7 +12,6 @@
         "href": "../instructions/01_auto-install",
         "subtext": "Amnezia will install the suitable protocol"
       },
-
       {
         "title": "Connection using text key",
         "href": "../instructions/03_text-key-connection",
