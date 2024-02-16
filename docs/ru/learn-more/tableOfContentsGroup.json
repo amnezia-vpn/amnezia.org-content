@@ -26,6 +26,11 @@
         "title": "Альтернативные клиенты",
         "href": "../learn-more/27_alternative-apk",
         "subtext": "для использования настроенного VPN в нативных клиентах"
+      },
+      {
+        "title": "Подробнее о протоколах",
+        "href": "../learn-more/09_about_protocols",
+        "subtext": ""
       }
 
     ]

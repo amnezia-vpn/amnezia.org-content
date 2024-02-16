@@ -10,11 +10,6 @@
     "subtext": "Using Setup Wizard"
   },
   {
-    "title": "Manual installation",
-    "href": "../instructions/02_manual-install",
-    "subtext": "With protocol selection"
-  },
-  {
     "title": "Connection with Key as text",
     "href": "../instructions/03_text-key-connection",
     "subtext": "VPN:///ue34nffeh....."
