@@ -12,11 +12,7 @@
         "href": "../instructions/01_auto-install",
         "subtext": "Amnezia установит подходящий протокол"
       },
-      {
-        "title": "Ручная установка",
-        "href": "../instructions/02_manual-install",
-        "subtext": "с выбором протокола"
-      },
+
       {
         "title": "Подключение с помощью ключа в виде текста",
         "href": "../instructions/03_text-key-connection",

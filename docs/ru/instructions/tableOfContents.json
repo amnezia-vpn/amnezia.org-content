@@ -9,11 +9,7 @@
     "href": "../instructions/01_auto-install",
     "subtext": "просто выберете уровень интернет-цензуры"
   },
-  {
-    "title": "Ручная настройка",
-    "href": "../instructions/02_manual-install",
-    "subtext": "с выбором протоколов"
-  },
+
   {
     "title": "Подключение через Ключ в виде текста",
     "href": "../instructions/03_text-key-connection",
