@@ -1,6 +1,6 @@
-# Автозагрузка приложения
+# Автозапуск приложения
 
-При включенной автозгрузке, Amnezia будет открываться при включении компьютера.
+При включенной автозапуске, Amnezia будет открываться при включении компьютера.
 
 &nbsp;
  
@@ -14,7 +14,7 @@
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/17_application-autostart/img/aa_ru_2.png)
 
-Включите или отключите автозагрузку.
+Включите или отключите автозапуск.
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/17_application-autostart/img/aa_ru_3.png)
 
