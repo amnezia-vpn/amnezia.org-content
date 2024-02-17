@@ -17,7 +17,7 @@ Do not use a QR code from public sources, it may have been posted for the purpos
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/05_qr-code_connection/img/qrc_en_2.png)
 
->If your connection data is in a different format, refer to sections connecting using a [file], a [key in the form of text], as well as sections [manual] and [automatic installation].
+>If your connection data is in a different format, refer to sections connecting using a [file], a [key in the form of text], as well as sections [Installing VPN on Server].
 
 Scan the QR code. 
 If there are multiple codes, scan them one by one.    
@@ -45,7 +45,7 @@ If you still have questions,  please refer to [FAQ], our [Telegram chat] or [oth
 [file]: ../instructions/04_file-connection
 [key in the form of text]: ../instructions/03_text-key-connection
 [manual]: ../instructions/02_manual-install
-[automatic installation]: ../instructions/01_auto-install
+[Installing VPN on Server]: ../instructions/01_auto-install
 [FAQ]: /faq
 [Telegram chat]: https://t.me/amnezia_vpn_en
 [other sections of the manual]: ../instructions

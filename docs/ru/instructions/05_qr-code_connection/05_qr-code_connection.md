@@ -19,7 +19,7 @@
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/05_qr-code_connection/img/qrc_ru_2.png)
 
->Если ваши данные для подключения в другом формате, обратитесь к разделам: подключение с помощью  [QR-кода], [файла] , [ручная] или [автоматическая] установка.
+>Если ваши данные для подключения в другом формате, обратитесь к разделам: подключение с помощью  [QR-кода], [файла] или [установка VPN на сервер]
 
 Отсканируйте QR-код. 
 Если кодов несколько, отсканируйте их по очереди.    
@@ -53,6 +53,5 @@
 [FAQ]: /faq
 [телеграм чат]: https://t.me/amnezia_vpn
 [другим разделам инструкции]: ../instructions
-[ручная]: ../instructions/02_manual-install
-[автоматическая]: ../instructions/01_auto-install
+[установка VPN на сервер]: ../instructions/01_auto-install
 

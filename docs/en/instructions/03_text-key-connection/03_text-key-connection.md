@@ -19,7 +19,7 @@ Do not use keys from public sources, they may have been posted for the purpose o
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/03_text-key-connection/img/tkc_en_2.png)
 
->If your connection data is in a different format, please refer to the sections connecting using  [QR code], [file] , [manual] or [automatic installation]
+>If your connection data is in a different format, please refer to the sections connecting using  [QR code], [file] ,or [Installing VPN on Server]
 
 Select "Key as text".
 
@@ -50,8 +50,7 @@ If you still have questions, please refer to [FAQ], our [Telegram chat] or [othe
 [about-int-link]: /about
 [QR code]: ../instructions/05_qr-code_connection
 [file]: ../instructions/04_file-connection
-[manual]: ../instructions/02_manual-install
-[automatic installation]: ../instructions/01_auto-install
+[Installing VPN on Server]: ../instructions/01_auto-install
 [FAQ]: ../faq
 [Telegram chat]: https://t.me/amnezia_vpn_en
 [other sections of the instructions]: ../instructions

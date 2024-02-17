@@ -21,7 +21,7 @@
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/03_text-key-connection/img/tkc_ru_2.png)
 
->Если ваши данные для подключения в другом формате, обратитесь к разделам подключение с помощью  [QR-кода], [файла], [ручная] или [автоматическая] установка.
+>Если ваши данные для подключения в другом формате, обратитесь к разделам подключение с помощью  [QR-кода], [файла] или [установка VPN на сервер].
 
 Выберете "Ключ в виде текста". 
 
@@ -56,5 +56,4 @@
 [телеграм чат]: https://t.me/amnezia_vpn
 [другим разделам инструкции]: ../instructions
 [файла]: ../instructions/04_file-connection
-[ручная]: ../instructions/02_manual-install
-[автоматическая]: ../instructions/01_auto-install
+[установка VPN на сервер]: ../instructions/01_auto-install

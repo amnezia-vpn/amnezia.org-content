@@ -20,7 +20,7 @@ Do not use files from public sources, they may have been posted for the purpose 
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/04_file-connection/img/fc_en_2.png)
 
->If your connection data is in a different format, please refer to the sections [QR code] connection, [text key], [manual] or [automatic installation].
+>If your connection data is in a different format, please refer to the sections [QR code] connection, [text key], or [Installing VPN on Server].
 
 Click on "Connection settings file", then select the file on your device.
 
@@ -47,9 +47,8 @@ If you still have questions, please refer to [FAQ], our [Telegram chat]  or [oth
 
 [QR code]: ../instructions/05_qr-code_connection
 [text key]: ../instructions/03_text-key-connection
-[manual]: ../instructions/02_manual-install
 [FAQ]: ../faq
 [Telegram chat]: https://t.me/amnezia_vpn_en
 [other sections of the manual]: ../instructions
-[automatic installation]: ../instructions/01_auto-install
+[Installing VPN on Server]: ../instructions/01_auto-install
 
