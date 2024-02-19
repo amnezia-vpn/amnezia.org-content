@@ -9,8 +9,8 @@ Changing your DNS server can help you bypass such blockages and access restricte
 
 
 &nbsp;
-
-## Open the home screen  
+ 
+Open the home screen  
 
 On the home screen, click on the settings icon.
 

@@ -12,7 +12,7 @@ Select "I have connection details".
 
 ## Choose the data type you have.
 
-In this guide, we will consider the option of connecting via a QR code, so select "Open a config file, key or QR code"
+In this guide, we will consider the option of connecting via a QR code, so select "Open a config file, key or QR code"\
 Do not use a QR code from public sources, it may have been posted for the purpose of intercepting your personal data.
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/05_qr-code_connection/img/qrc_en_2.png)

@@ -2,7 +2,7 @@
 
 ### About the protocols
 
-Amnezia is a multi-protocol self-hosted VPN. It supports configuration and installation of all modern secure open source VPN protocols: 
+Amnezia is a multi-protocols self-hosted VPN. It supports configuration and installation of all modern secure open source VPN protocols: 
 OpenVPN, WireGuard, ShadowSocks, IKv2/IPsec and OpenVPN with Cloak plugin. A more detailed description of the protocols can be found in [this] article, 
 and below we will tell you how to install and configure VPN protocols with Amnezia in two clicks.
 &nbsp;

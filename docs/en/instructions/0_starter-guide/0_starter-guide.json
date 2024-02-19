@@ -58,7 +58,7 @@
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/digital-ocean/do10f.png",
-          "text": "Choose Ubuntu 20.04 (Other versions of Ubuntu Debian are not supported), tariff plan “Basic”"
+          "text": "Choose Ubuntu 22.04 (Other versions of Ubuntu Debian are not supported), tariff plan “Basic”"
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/digital-ocean/do11f.png",
@@ -257,7 +257,7 @@
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pqh4f.png",
-          "text": "Select OS, officially supported version is Ubuntu 20.04 , Debian 10, other settings can be left unchanged, add to cart."
+          "text": "Select OS, officially supported version is Ubuntu 22.04 , Debian 11, other settings can be left unchanged, add to cart."
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pqh5f.png",
