@@ -1,5 +1,5 @@
 # How to run your VPN with Amnezia
-## Buy a server if you don't have one.,
+## Buy a server if you don't have one
 
 > **Minimum system requirements for VPS:** \
 > Operating System - Linux, suitable for Ubuntu 22.04 or Debian 11. \
