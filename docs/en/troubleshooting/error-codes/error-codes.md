@@ -133,8 +133,7 @@ Occurs during the installation of a VPN container or when adding a configuration
 
 > **Solution:**
 >
-> - Add the user to the Sudo group.
-> - Use visudo if the sudo package is already installed.
+> - Add the user to the Sudo group. Use visudo if the sudo package is already installed.
 > - Add the user and install the sudo package if the sudo package is not installed.
 > - Try setting up the server as root instead of a regular user.
 > - Try removing the password requirement for executing sudo commands.

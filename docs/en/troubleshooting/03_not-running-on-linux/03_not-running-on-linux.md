@@ -11,4 +11,6 @@
 > - Restart the application.
 
 If your Linux subsystem differs from SystemD,
-use this guide: [https://github.com/M9snikFeed/amnezia-vpn-runit/blob/main/README.md](https://github.com/M9snikFeed/amnezia-vpn-runit/blob/main/README.md)
+use this guide: [GitHub]
+
+[GitHub]:  https://github.com/M9snikFeed/amnezia-vpn-runit/blob/main/README.md
