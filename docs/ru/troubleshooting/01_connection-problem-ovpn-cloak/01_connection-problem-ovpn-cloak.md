@@ -8,7 +8,7 @@
 
 1. Проверьте, чтобы версии вашего приложения и протокола соответствовали друг-другу, так как OpenVPN over Cloak, установленный в версии 2.1.2 не работает в более новых версиях приложения и наоборот. 
 
-2. Зайдите в "Сетевые адаптеры" и отключите адаптер TAP Adapter V9 (его создает Amnezia), затем удалите его.
+2. Зайдите в "Сетевые адаптеры" и отключите адаптер TAP Adapter V9 (его создает Amnezia), затем удалите его, если адаптеров несколько, удалите их все. 
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/troubleshooting/01_connection_problem_ovpn_cloak/img/ts_cpoc_ru_1.png)
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/troubleshooting/01_connection_problem_ovpn_cloak/img/ts_cpoc_ru_2.png)
