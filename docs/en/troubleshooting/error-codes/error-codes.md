@@ -400,10 +400,10 @@ Error indicates that the configuration file loaded is in an invalid format.
 
 >If the above advice did not help, contact our support in [Telegram chat], or email us at support@amnezia.org
 
-[Telegram chat]: https://t.me/amnezia_vpn
+[Telegram chat]: https://t.me/amnezia_vpn_en
 [Windows 11]: https://support.microsoft.com/ru-ru/windows/%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%B2-tcp-ip-bd0a07af-15f5-cd6a-363f-ca2b6f391ace#WindowsVersion=Windows_11
 [Windows 10]: https://support.microsoft.com/ru-ru/windows/%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%B2-tcp-ip-bd0a07af-15f5-cd6a-363f-ca2b6f391ace#WindowsVersion=Windows_10
 [Windows 8.1 или 7]: https://support.microsoft.com/ru-ru/windows/%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%B2-tcp-ip-bd0a07af-15f5-cd6a-363f-ca2b6f391ace#WindowsVersion=Windows_8.1_or_Windows_7
 [table of supported protocols for versions 4 and newer]: https://amnezia.org/ru/learn-more/30_table-of-supported-devices/
-[for versions 2.1.2-3.1.0]: https://ru-docs.amnezia.org/guides/protocols-table-v2/
+[for versions 2.1.2-3.1.0]: https://en-docs.amnezia.org/guides/protocols-table-v2/
 [OpenVPN 2.6]: https://community.openvpn.net/openvpn/wiki/Downloads 
