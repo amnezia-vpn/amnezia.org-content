@@ -218,7 +218,6 @@
             "title": "Error 800: OpenSslFailed",
             "href": "#error-800-opensslfailed"
           },
-
           {
             "title": "Error 802: ShadowSocksExecutableCrashed",
             "href": "#error-802-shadowsocksexecutablecrashed"
