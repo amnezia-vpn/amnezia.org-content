@@ -10,7 +10,7 @@
 
 2. Go to "Network Adapters" and disable the TAP Adapter V9 adapter (created by Amnezia), then remove it.
 
-![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/troubleshooting/01_connection_problem_ovpn_cloak/img/ts_cpoc_ru_1.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/troubleshooting/01_connection_problem_ovpn_cloak/img/ts_cpoc_ru_1.png)
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/troubleshooting/01_connection_problem_ovpn_cloak/img/ts_cpoc_en_2.png)
 
 3. Ensure that DHCP services are enabled on the device.
@@ -32,10 +32,10 @@
 
 1. Check that the versions of your application and protocol match each other, as OpenVPN over Cloak installed in version 2.1.2 does not work in newer versions of the application and vice versa.
 2. Try connecting to the VPN not from the application, but from the system settings
-       ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/troubleshooting/01_connection_problem_ovpn_cloak/img/ts_cpoc_ru_3.png)
-  ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/troubleshooting/01_connection_problem_ovpn_cloak/img/ts_cpoc_ru_4.png)
+       ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/troubleshooting/01_connection_problem_ovpn_cloak/img/ts_cpoc_ru_3.png)
+  ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/troubleshooting/01_connection_problem_ovpn_cloak/img/ts_cpoc_ru_4.png)
 3. Go to system VPN settings, remove the Amnezia VPN profile, and try to connect again
-  ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/troubleshooting/01_connection_problem_ovpn_cloak/img/ts_cpoc_ru_5.png)
+  ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/troubleshooting/01_connection_problem_ovpn_cloak/img/ts_cpoc_ru_5.png)
 4. Ensure that the Amnezia VPN application has been granted permissions to use Wi-Fi and mobile data
 5. Reboot the device
 ## Linux
