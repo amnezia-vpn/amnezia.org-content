@@ -183,7 +183,7 @@
           },
           {
             "title": "Error 600: OpenVpnExecutableMissing",
-            "href": "#error-600-openvpnexecutablenissing"
+            "href": "#error-600-openvpnexecutablemissing"
           },
           {
             "title": "Error 601: ShadowSocksExecutableMissing",
