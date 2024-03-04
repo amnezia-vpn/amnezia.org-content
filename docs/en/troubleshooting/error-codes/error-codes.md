@@ -207,19 +207,20 @@ Various issues can lead to this error, such as incorrect port, IP, or SSH being 
 > - Ensure that the server you are connecting to exists and has an active status in the hosting control panel.
 > - SSH is not running on the server.
 
+## SshSftpErrors
 
-## Error 400: SshSftpEofError
-## Error 401: SshSftpNoSuchFileError
-## Error 402: SshSftpPermissionDeniedError
-## Error 403: SshSftpFailureError
-## Error 404: SshSftpBadMessageError
-## Error 405: SshSftpNoConnectionError
-## Error 406: SshSftpConnectionLostError
-## Error 407: SshSftpOpUnsupportedError
-## Error 408: SshSftpInvalidHandleError
-## Error 409: SshSftpNoSuchPathError
-## Error 411: SshSftpWriteProtectError
-## Error 412: SshSftpNoMediaError
+**Erorr 400: SshSftpEofError** \
+**Erorr 401: SshSftpNoSuchFileError**\
+**Erorr 402: SshSftpPermissionDeniedError**\
+**Erorr 403: SshSftpFailureError**\
+**Erorr 404: SshSftpBadMessageError**\
+**Erorr 405: SshSftpNoConnectionError**\
+**Erorr 406: SshSftpConnectionLostError**\
+**Erorr 407: SshSftpOpUnsupportedError**\
+**Erorr 408: SshSftpInvalidHandleError**\
+**Erorr 409: SshSftpNoSuchPathError**\
+**Erorr 411: SshSftpWriteProtectError**\
+**Erorr 412: SshSftpNoMediaError**
 
 > **Solution for the above SshSftpErrors:**
 >

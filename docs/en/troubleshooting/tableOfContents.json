@@ -109,10 +109,7 @@
             "title": "Error 305: SshTimeoutError",
             "href": "#error-305-sshtimeouterror"
           },
-          {
-            "title": "SshSftpErrors",
-            "href": "#sshsftperrors"
-          },
+
           {
             "title": "Error 400: SshSftpEofError",
             "href": "#sshsftperrors"
