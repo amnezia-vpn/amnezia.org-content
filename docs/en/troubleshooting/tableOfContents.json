@@ -221,10 +221,7 @@
             "title": "Error 800: OpenSslFailed",
             "href": "#error-800-opensslfailed"
           },
-          {
-            "title": "Error 801: OpenVpnExecutableCrashed",
-            "href": "#error-801-openvpnexecutablecrashed"
-          },
+
           {
             "title": "Error 802: ShadowSocksExecutableCrashed",
             "href": "#error-802-shadowsocksexecutablecrashed"
