@@ -166,10 +166,7 @@
             "title": "Erorr 410: SshSftpFileAlreadyExistsError ",
             "href": "#erorr-410-sshsftpfilealreadyexistserror "
           },
-          {
-            "title": "Erorr 500: FailedToSaveConfigData",
-            "href": "#erorr-500-failedtosaveconfigdata"
-          },
+
           {
             "title": "Erorr 501: OpenVpnConfigMissing",
             "href": "#erorr-501-openvpnconfigmissing"
