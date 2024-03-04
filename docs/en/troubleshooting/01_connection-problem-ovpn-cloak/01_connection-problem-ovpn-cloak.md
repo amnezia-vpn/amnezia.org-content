@@ -11,7 +11,7 @@
 2. Go to "Network Adapters" and disable the TAP Adapter V9 adapter (created by Amnezia), then remove it.
 
 ![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/troubleshooting/01_connection_problem_ovpn_cloak/img/ts_cpoc_ru_1.png)
-![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/troubleshooting/01_connection_problem_ovpn_cloak/img/ts_cpoc_ru_2.png)
+![](https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/troubleshooting/01_connection_problem_ovpn_cloak/img/ts_cpoc_en_2.png)
 
 3. Ensure that DHCP services are enabled on the device.
 
