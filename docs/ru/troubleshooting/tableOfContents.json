@@ -216,10 +216,9 @@
             "href": "#erorr-703-addresspoolerror"
           },
           {
-            "title": "Erorr 800:OpenSslFailed",
+            "title": "Erorr 800: OpenSslFailed",
             "href": "#erorr-800-opensslfailed"
           },
-
           {
             "title": "Erorr 802: ShadowSocksExecutableCrashed",
             "href": "#erorr-802-shadowsocksexecutablecrashed"
