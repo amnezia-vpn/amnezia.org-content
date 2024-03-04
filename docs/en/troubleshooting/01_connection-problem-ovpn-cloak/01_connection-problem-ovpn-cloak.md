@@ -3,7 +3,7 @@
 
 **Solution:**
 
->## Windows
+## Windows
 
 
 1. Check that the versions of your application and protocol match each other, as OpenVPN over Cloak installed in version 2.1.2 does not work in newer versions of the application and vice versa.
