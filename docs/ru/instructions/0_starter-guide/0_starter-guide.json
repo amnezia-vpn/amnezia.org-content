@@ -10,6 +10,7 @@
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/inferno1/inferno-logo1.png",
       "link": "https://cp.inferno.name/aff.php?aff=3451&gid=56",
       "linkName": "Inferno Solutions",
+      "warning": "Активировать ключ от Inferno Solutions можно один раз на одном устройстве, для того чтобы использовать ключ для других устройств, воспользуйтесь функцией - Поделиться подключением",
       "desc": "Провайдер предоставляет промокод со скидкой 75% на оплату первого месяца, а также генерирует простую ссылку специально для AmneziaVPN. Используйте VPN сразу после оплаты с простой возможностью подключения в один клик!",
       "serversLabel": "Серверы",
       "serversText": "США, Россия, Нидерланды, Германия, Украина, Польша, Швеция, Канада, Швейцария, Эстония, Великобритания, Сингапур, Чехия, ОАЭ, Япония, Австралия, Франция, Румыния, Гонконг, Испания, Норвегия, Болгария.",
@@ -73,7 +74,7 @@
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/inferno1/if13f.png",
-          "text": "Внесите данные для подключения и нажмите -  Продолжить "
+          "text": "Внесите данные для подключения и нажмите -  Продолжить. "
         }
       ] 
     },
@@ -82,6 +83,7 @@
       "logo": "/img/logos/vendor/digital-ocean.svg",
       "link": "https://www.digitalocean.com/?refcode=3d6dcd68b697&utm_campaign=Referral_Invite&utm_medium=Referral_Program",
       "linkName": "Digital Ocean",
+      "warning": "",
       "desc": "Провайдер не поддерживает оплату Российскими картами",
       "serversLabel": "Серверы",
       "serversText": "США, Нидерланды, Великобритания, Германия, Канада, Сингапур, Индия",
@@ -174,6 +176,7 @@
       "logo": "/img/logos/vendor/aws.svg",
       "link": "https://aws.amazon.com/ru/ec2",
       "linkName": "Amazon AWS",
+      "warning": "",
       "desc": "Провайдер не поддерживает оплату Российскими картами. Есть период басплатного тестирования сервера до 12 месяцев с ограниченным бесплатным трафиком ",
       "serversLabel": "Серверы",
       "serversText": " США, ЮАР, Гонконг, Индия, Япония, Южная Корея, Сингапур, Австралия, Канада, Германия, Ирландия, Великобритания, Италия, Франция, Швеция, Бахрейн, Бразилия.",
@@ -304,6 +307,7 @@
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/pq-hosting/pq-hosting.svg",
       "link": "https://pq.hosting/?from=617316",
       "linkName": "PQhosting",
+      "warning": "",
       "desc": "Возможна оплата Российскими картами.",
       "serversLabel": "Серверы",
       "serversText": "Нидерланды, Канада, Великобритания, Латвия, США, Украина, Болгария, Румыния, Португалия, Швеция, Ирландия, Франция, Эстония, Дания, Германия, Молдова, Чехия, Италия, Швейцария, Испания, Австрия, Россия, и еще +12)  ",
@@ -376,6 +380,7 @@
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/ishosting/ishosting_logo.png",
       "link": "https://ishosting.com/affiliate/NTQ3IzY=",
       "linkName": "Is*hosting",
+      "warning": "",
       "desc": "Возможна оплата Российскими картами.",
       "serversLabel": "Серверы",
       "serversText": "Австрия, Болгария, Венгрия, Дания, Испания, Нидерланды, Польша, Сербия, Франция, Бельгия, Великобритания, Германия, Ирландия, Италия, Норвегия, Япония, Сингапур (и еще 14)  ",
