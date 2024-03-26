@@ -459,6 +459,71 @@
           "text": "Внесите данные для подключения и нажмите -  Продолжить "
         }
       ]
+    },
+    {
+      "recommend": false,
+      "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/justhost/logo.png",
+      "link": "",
+      "linkName": "JustHost.asia",
+      "warning": "",
+      "desc": "Провайдер поддерживает оплату Российскими картами",
+      "serversLabel": "Серверы",
+      "serversText": "Канада, Китай, Финляндия, Франция, Германия, Италия, Латвия, Нидерланды, Польша,  Россия, Сингапур, Испания, Турция, ОАЭ, США, Украина, Великобритания",
+      "legalAddressLabel": "Юридический адрес",
+      "legalAddressText": "США, Россия",
+      "priceLabel": "Оплата",
+      "priceText": "от $7/мес",
+      "priceInfo": "Mastercard/Visa (иностранные банки), PayPal, ApplePay, GooglePay, SamsungPay, UnionPay, Alipay, Perfect Money, Payment with crypto, Bank transfer",
+      "steps": [
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/justhost/2.png",
+          "text": "На главном экране выбираем VPS конструктор."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/justhost/3.png",
+          "text": "Выбираем Ubuntu 22.04"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/justhost/4.png",
+          "text": "В конструкторе выбираем опции как на скриншоте"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/justhost/5.png",
+          "text": "Пролистайте вниз, выберете период оплаты - месяц, технология Raid-массив, поставьте галочку, нажмите - заказать"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/justhost/6.png",
+          "text": "Вам предложат войти в личный кабинет, выберете Регистрация"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/justhost/7.png",
+          "text": "Внесите свой e-mail, поставьте галочку."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/justhost/8.png",
+          "text": "Кликните на ссылку для подтверждения электронной почты. "
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/justhost/9.png",
+          "text": "Нажмите Оплатить"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/justhost/10.png",
+          "text": "Выберите подходящий метод оплаты. "
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/justhost/11.png",
+          "text": "Нажмите Перейти к оплате"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/justhost/12.png",
+          "text": "На почту придет письмо, для подтверждения оплаты перейдите по ссылке."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/justhost/13.png",
+          "text": "Далее вам на почту придет письмо с данными сервера, вам нужен IP, Login и Password, внесите эти данные в приложение "
+        }
+      ]
     }
   ]
   
