@@ -370,11 +370,96 @@
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/pq-hosting/pqh15f.png",
           "text": "Enter the connection details and click 'Continue.'"
         }
+      ]
+    },
 
-      ] 
+
+    {
+          "recommend": false,
+          "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/instructions/0_starter-guide/img/ishosting/ishosting_logo.png",
+          "link": "https://ishosting.com/affiliate/NTQ3IzY=",
+          "linkName": "Is*hosting",
+          "warning": "",
+          "desc": "",
+          "serversLabel": "Servers",
+          "serversText": "Austria, Bulgaria, Denmark, Hungary, Spain, Netherlands, Poland, Serbia, France, Belgium, United Kingdom, Germany, Ireland, Italy, Norway, Japan, Singapore (and 14 others)   ",
+          "legalAddressLabel": "Legal address",
+          "legalAddressText": "Estonia",
+          "priceLabel": "Payment",
+          "priceText": "from $5/month",
+          "priceInfo": "Visa/Mastercard, Cards of Russian banks + SPB and payment systems, Cryptocurrencies, Intercash, Payeer, Unionpay Cina, Boleto Brasil, Alipay China",
+          "steps": [
+            {
+              "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/ishosting/1_is.png",
+              "text": " Click on VPS Pricing."
+            },
+            {
+              "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/ishosting/2_is.png",
+              "text": "Choose the server's country and the cheapest tariff"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/ishosting/3_is.png",
+              "text": "Select the Ubuntu 22 operating system, 1 month duration, and leave all other parameters as they are"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/ishosting/4_is.png",
+              "text": "Click on Go to Checkout."
+            },
+            {
+              "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/ishosting/5_is.png",
+              "text": "Enter your email."
+            },
+            {
+              "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/ishosting/6_is.png",
+              "text": "The system will ask you to register. Create a password and don't forget to check the boxes, then click Create."
+            },
+            {
+              "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/ishosting/7_is.png",
+              "text": "Click on Make Order."
+            },
+            {
+              "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/ishosting/8_is.png",
+              "text": "Enter your personal details. Depending on the payment methods, these details may vary."
+            },
+            {
+              "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/ishosting/9_is.png",
+              "text": "After payment, a confirmation page will appear"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/ishosting/10_is.png",
+              "text": "Go to the email address you provided and confirm your email"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/ishosting/11_is.png",
+              "text": "Через некоторое время в списке появится сервер со статусом Активен, кликните на него. "
+            },
+            {
+              "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/ishosting/12_is.png",
+              "text": "Пролистайте вниз, в блоке Доступ напротив SSH нажмите на значок Настроек"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/ishosting/13_is.png",
+              "text": "Return to your account, click onManage."
+            },
+            {
+              "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/ishosting/14_is.png",
+              "text": "A window will appear with the details for Amnezia IP, including username and password. Enter them into the application."
+            },
+            {
+              "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/ishosting/15_is.png",
+              "text": "Выберете У меня есть данные для подключения "
+            },
+            {
+              "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/ishosting/16_is.png",
+              "text": "Выберете - Настроить свой сервер "
+            },
+            {
+              "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/ishosting/17_is.png",
+              "text": "Внесите данные для подключения и нажмите -  Продолжить "
+            }
+          ]
+        }
+
+      ]
+
     }
-
-    
-  ]
-  
-  }
