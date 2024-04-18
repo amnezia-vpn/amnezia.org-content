@@ -435,27 +435,27 @@
             },
             {
               "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/ishosting/12_is.png",
-              "text": "Пролистайте вниз, в блоке Доступ напротив SSH нажмите на значок Настроек"
+              "text": "Return to your account, click on Manage"
             },
             {
               "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/ishosting/13_is.png",
-              "text": "Return to your account, click onManage."
-            },
-            {
-              "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/ishosting/14_is.png",
               "text": "A window will appear with the details for Amnezia IP, including username and password. Enter them into the application."
             },
             {
+              "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/ishosting/14_is.png",
+              "text": "You can also download the mobile application version."
+            },
+            {
               "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/ishosting/15_is.png",
-              "text": "Выберете У меня есть данные для подключения "
+              "text": "Select -  I have the data to connect"
             },
             {
               "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/ishosting/16_is.png",
-              "text": "Выберете - Настроить свой сервер "
+              "text": "Choose 'Configure your server.'"
             },
             {
               "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/ishosting/17_is.png",
-              "text": "Внесите данные для подключения и нажмите -  Продолжить "
+              "text": "Enter the connection details and click 'Continue.'"
             }
           ]
         }
