@@ -454,7 +454,69 @@
               "text": "Enter the connection details and click 'Continue.'"
             }
           ]
+        },
+    {
+      "recommend": false,
+      "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_logo.svg",
+      "link": "https://aeza.net/?ref=420618",
+      "linkName": "AEZA",
+      "warning": "",
+      "desc": "",
+      "serversLabel": "Servers",
+      "serversText": "Austria, France, Germany, Netherlands, Sweden, Finland, Russia",
+      "legalAddressLabel": "Legal Address",
+      "legalAddressText": "United Kingdom",
+      "priceLabel": "Payment",
+      "priceText": "from $5.5/month",
+      "priceInfo": "Visa/Mastercard (foreign banks), Russian bank cards, Ukrainian bank cards, SPB, Yandex Pay, Tinkoff Pay, Steam Pay, Cryptocurrencies, USDT, YooMoney, WebMoney, Perfect Money",
+      "steps": [
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_en_1.png",
+          "text": "First,  clicking Sing up."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_en_2.png",
+          "text": "Enter your email and click 'Send a link'."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_en_3.png",
+          "text": "Go to your email and click - confirm registration."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_en_4.png",
+          "text": "You will be redirected to your account where you select - Virtual servers."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_en_5.png",
+          "text": "Choose a country different from yours and the cheapest tariff."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_en_6.png",
+          "text": "Choose the operating system Ubuntu 22.04 or Debian 11, uncheck unnecessary options, and click Pay."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_en_7.png",
+          "text": "Choose a payment method, then - Pay."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_en_8.png",
+          "text": "In your account, information about your VPS will appear, its status should change to Active, if not, wait some time."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_en_9.png",
+          "text": "Then click on the server name."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_ru_10.png",
+          "text": "A window will open with additional information about the server. We need the username, password, and IP address, copy this information."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/instructions/0_starter-guide/img/aeza/aeza_en_11.png",
+          "text": "Open the application, and add the details of our VPS."
         }
+      ]
+    }
+
 
       ]
 
