@@ -294,7 +294,6 @@
 
       ]
     },
-
     {
       "recommend": false,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pq-hosting.svg",
@@ -372,11 +371,9 @@
         }
       ]
     },
-
-
     {
           "recommend": false,
-          "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/docs/ru/instructions/0_starter-guide/img/ishosting/ishosting_logo.png",
+          "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/ishosting_logo.png",
           "link": "https://ishosting.com/affiliate/NTQ3IzY=",
           "linkName": "Is*hosting",
           "warning": "",
@@ -516,8 +513,5 @@
         }
       ]
     }
-
-
-      ]
-
-    }
+  ]
+}
