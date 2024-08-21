@@ -6,6 +6,7 @@
   "p2": "Выберите подходящий сервер из представленных ниже и следуйте пошаговым инструкциям. Вы также  можете выбрать любого другого VPS-провайдера на своё усмотрение.",
   "hostings":[
     {
+      "show": true,
       "infoBadge": "Доступна оплата российскими картами и криптовалютой",
       "recommend": false,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/starter-guide/step-1/img/justhost/logo.png",
@@ -72,6 +73,7 @@
       ]
     },
     {
+      "show": true,
       "infoBadge": "Доступна оплата российскими картами и криптовалютой",
       "recommend": true,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/starter-guide/step-1/img/inferno1/inferno-logo1.png",
@@ -146,6 +148,7 @@
       ] 
     },
     {
+      "show": false,
       "infoBadge": "",
       "recommend": false,
       "logo": "/img/logos/vendor/digital-ocean.svg",
@@ -240,6 +243,7 @@
       ]
     },
     {
+      "show": false,
       "infoBadge": "",
       "recommend": false,
       "logo": "/img/logos/vendor/aws.svg",
@@ -372,6 +376,7 @@
     },
 
     {
+      "show": true,
       "infoBadge": "Доступна оплата российскими картами и криптовалютой",
       "recommend": false,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/starter-guide/step-1/img/pq-hosting/pq-hosting.svg",
@@ -446,6 +451,7 @@
       ] 
     },
     {
+      "show": true,
       "infoBadge": "Доступна оплата российскими картами и криптовалютой",
       "recommend": false,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/starter-guide/step-1/img/ishosting/ishosting_logo.png",
@@ -532,6 +538,7 @@
       ]
     },
     {
+      "show": true,
       "infoBadge": "Доступна оплата российскими картами и криптовалютой",
       "recommend": false,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/starter-guide/step-1/img/aeza/aeza_logo.svg",
