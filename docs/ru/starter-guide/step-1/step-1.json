@@ -6,12 +6,13 @@
   "p2": "Выберите подходящий сервер из представленных ниже и следуйте пошаговым инструкциям. Вы также  можете выбрать любого другого VPS-провайдера на своё усмотрение.",
   "hostings":[
     {
+      "infoBadge": "Доступна оплата российскими картами и криптовалютой",
       "recommend": false,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/starter-guide/step-1/img/justhost/logo.png",
       "link": "https://justhost.asia/?ref=206025",
       "linkName": "JustHost.asia",
       "warning": "",
-      "desc": "Провайдер поддерживает оплату Российскими картами",
+      "desc": "Провайдер поддерживает оплату российскими картами",
       "serversLabel": "Серверы",
       "serversText": "Канада, Китай, Финляндия, Франция, Германия, Италия, Латвия, Нидерланды, Польша,  Россия, Сингапур, Испания, Турция, ОАЭ, США, Украина, Великобритания",
       "legalAddressLabel": "Юридический адрес",
@@ -71,6 +72,7 @@
       ]
     },
     {
+      "infoBadge": "Доступна оплата российскими картами и криптовалютой",
       "recommend": true,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/starter-guide/step-1/img/inferno1/inferno-logo1.png",
       "link": "https://cp.inferno.name/aff.php?aff=3451&gid=56",
@@ -144,12 +146,13 @@
       ] 
     },
     {
+      "infoBadge": "",
       "recommend": false,
       "logo": "/img/logos/vendor/digital-ocean.svg",
       "link": "https://www.digitalocean.com/?refcode=3d6dcd68b697&utm_campaign=Referral_Invite&utm_medium=Referral_Program",
       "linkName": "Digital Ocean",
       "warning": "",
-      "desc": "Провайдер не поддерживает оплату Российскими картами",
+      "desc": "Провайдер не поддерживает оплату российскими картами",
       "serversLabel": "Серверы",
       "serversText": "США, Нидерланды, Великобритания, Германия, Канада, Сингапур, Индия",
       "legalAddressLabel": "Юридический адрес",
@@ -237,12 +240,13 @@
       ]
     },
     {
+      "infoBadge": "",
       "recommend": false,
       "logo": "/img/logos/vendor/aws.svg",
       "link": "https://aws.amazon.com/ru/ec2",
       "linkName": "Amazon AWS",
       "warning": "",
-      "desc": "Провайдер не поддерживает оплату Российскими картами. Есть период басплатного тестирования сервера до 12 месяцев с ограниченным бесплатным трафиком ",
+      "desc": "Провайдер не поддерживает оплату Российскими картами. Есть период бесплатного тестирования сервера до 12 месяцев с ограниченным бесплатным трафиком ",
       "serversLabel": "Серверы",
       "serversText": " США, ЮАР, Гонконг, Индия, Япония, Южная Корея, Сингапур, Австралия, Канада, Германия, Ирландия, Великобритания, Италия, Франция, Швеция, Бахрейн, Бразилия.",
       "legalAddressLabel": "Юридический адрес",
@@ -368,12 +372,13 @@
     },
 
     {
+      "infoBadge": "Доступна оплата российскими картами и криптовалютой",
       "recommend": false,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/starter-guide/step-1/img/pq-hosting/pq-hosting.svg",
       "link": "https://pq.hosting/?from=617316",
       "linkName": "PQhosting",
       "warning": "",
-      "desc": "Возможна оплата Российскими картами.",
+      "desc": "Возможна оплата российскими картами.",
       "serversLabel": "Серверы",
       "serversText": "Нидерланды, Канада, Великобритания, Латвия, США, Украина, Болгария, Румыния, Португалия, Швеция, Ирландия, Франция, Эстония, Дания, Германия, Молдова, Чехия, Италия, Швейцария, Испания, Австрия, Россия, и еще +12)  ",
       "legalAddressLabel": "Юридический адрес",
@@ -441,12 +446,13 @@
       ] 
     },
     {
+      "infoBadge": "Доступна оплата российскими картами и криптовалютой",
       "recommend": false,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/starter-guide/step-1/img/ishosting/ishosting_logo.png",
       "link": "https://ishosting.com/affiliate/NTQ3IzY=",
       "linkName": "Is*hosting",
       "warning": "",
-      "desc": "Возможна оплата Российскими картами.",
+      "desc": "Возможна оплата российскими картами.",
       "serversLabel": "Серверы",
       "serversText": "Австрия, Болгария, Венгрия, Дания, Испания, Нидерланды, Польша, Сербия, Франция, Бельгия, Великобритания, Германия, Ирландия, Италия, Норвегия, Япония, Сингапур (и еще 14)  ",
       "legalAddressLabel": "Юридический адрес",
@@ -526,6 +532,7 @@
       ]
     },
     {
+      "infoBadge": "Доступна оплата российскими картами и криптовалютой",
       "recommend": false,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/starter-guide/step-1/img/aeza/aeza_logo.svg",
       "link": "https://aeza.net/?ref=420618",

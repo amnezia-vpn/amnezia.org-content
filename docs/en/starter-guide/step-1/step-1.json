@@ -6,6 +6,7 @@
   "p2": "Choose a suitable server from the ones below and follow the step-by-step instructions. You can also choose any other VPS provider at your discretion.",
   "hostings":[
     {
+      "infoBadge": "Payment with Russian cards and cryptocurrency is available",
       "recommend": false,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/logo.png",
       "link": "https://justhost.asia/?ref=206025",
@@ -71,6 +72,7 @@
       ]
     },
     {
+      "infoBadge": "",
       "recommend": false,
       "logo": "/img/logos/vendor/digital-ocean.svg",
       "link": "https://www.digitalocean.com/?refcode=3d6dcd68b697&utm_campaign=Referral_Invite&utm_medium=Referral_Program",
@@ -164,6 +166,7 @@
       ]
     },
     {
+      "infoBadge": "",
       "recommend": false,
       "logo": "/img/logos/vendor/aws.svg",
       "link": "https://aws.amazon.com/ru/ec2",
@@ -290,11 +293,10 @@
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws28f.png",
           "text": "Enter the connection details and click 'Continue.'"
         }
-
-
       ]
     },
     {
+      "infoBadge": "Payment with Russian cards and cryptocurrency is available",
       "recommend": false,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pq-hosting.svg",
       "link": "https://pq.hosting/?from=617316",
@@ -372,6 +374,7 @@
       ]
     },
     {
+        "infoBadge": "Payment with Russian cards and cryptocurrency is available",
           "recommend": false,
           "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/ishosting_logo.png",
           "link": "https://ishosting.com/affiliate/NTQ3IzY=",
@@ -453,6 +456,7 @@
           ]
         },
     {
+      "infoBadge": "Payment with Russian cards and cryptocurrency is available",
       "recommend": false,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_logo.svg",
       "link": "https://aeza.net/?ref=420618",
