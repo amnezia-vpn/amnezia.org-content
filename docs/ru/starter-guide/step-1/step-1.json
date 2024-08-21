@@ -7,7 +7,7 @@
   "hostings":[
     {
       "show": true,
-      "infoBadge": "Доступна оплата российскими картами и криптовалютой",
+      "infoBadge": "",
       "recommend": false,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/starter-guide/step-1/img/justhost/logo.png",
       "link": "https://justhost.asia/?ref=206025",
@@ -74,7 +74,7 @@
     },
     {
       "show": true,
-      "infoBadge": "Доступна оплата российскими картами и криптовалютой",
+      "infoBadge": "",
       "recommend": true,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/starter-guide/step-1/img/inferno1/inferno-logo1.png",
       "link": "https://cp.inferno.name/aff.php?aff=3451&gid=56",
@@ -377,7 +377,7 @@
 
     {
       "show": true,
-      "infoBadge": "Доступна оплата российскими картами и криптовалютой",
+      "infoBadge": "",
       "recommend": false,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/starter-guide/step-1/img/pq-hosting/pq-hosting.svg",
       "link": "https://pq.hosting/?from=617316",
@@ -452,7 +452,7 @@
     },
     {
       "show": true,
-      "infoBadge": "Доступна оплата российскими картами и криптовалютой",
+      "infoBadge": "",
       "recommend": false,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/starter-guide/step-1/img/ishosting/ishosting_logo.png",
       "link": "https://ishosting.com/affiliate/NTQ3IzY=",
@@ -539,7 +539,7 @@
     },
     {
       "show": true,
-      "infoBadge": "Доступна оплата российскими картами и криптовалютой",
+      "infoBadge": "",
       "recommend": false,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/starter-guide/step-1/img/aeza/aeza_logo.svg",
       "link": "https://aeza.net/?ref=420618",
