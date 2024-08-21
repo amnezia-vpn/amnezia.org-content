@@ -6,7 +6,7 @@
   "p2": "Choose a suitable server from the ones below and follow the step-by-step instructions. You can also choose any other VPS provider at your discretion.",
   "hostings":[
     {
-      "infoBadge": "Payment with Russian cards and cryptocurrency is available",
+      "infoBadge": "",
       "recommend": false,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/logo.png",
       "link": "https://justhost.asia/?ref=206025",
@@ -296,7 +296,7 @@
       ]
     },
     {
-      "infoBadge": "Payment with Russian cards and cryptocurrency is available",
+      "infoBadge": "",
       "recommend": false,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pq-hosting.svg",
       "link": "https://pq.hosting/?from=617316",
@@ -374,7 +374,7 @@
       ]
     },
     {
-        "infoBadge": "Payment with Russian cards and cryptocurrency is available",
+      "infoBadge": "",
           "recommend": false,
           "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/ishosting_logo.png",
           "link": "https://ishosting.com/affiliate/NTQ3IzY=",
@@ -456,7 +456,7 @@
           ]
         },
     {
-      "infoBadge": "Payment with Russian cards and cryptocurrency is available",
+      "infoBadge": "",
       "recommend": false,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_logo.svg",
       "link": "https://aeza.net/?ref=420618",
