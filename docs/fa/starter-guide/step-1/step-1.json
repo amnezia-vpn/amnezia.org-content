@@ -1,0 +1,529 @@
+{
+  "h1": "چگونه VPN خود را با Amnezia راه‌اندازی کنیم",
+  "h2": "اگر سروری (VPS) ندارید، یک سرور بخرید.",
+  "cardText": "حداقل الزامات سیستم برای VPS: سیستم‌عامل - لینوکس، مناسب برای اوبونتو 22.04 یا دبیان 11. مجازی‌سازی - KVM. SSD - حداقل 7 گیگابایت. حافظه دسترسی تصادفی (RAM) - پیشنهاد شده 2 گیگابایت، اما کمتر از 1 گیگابایت نباشد. معماری پردازنده پشتیبانی شده - x86-64. نرم‌افزار و کنترل پنل از پیش نصب شده ضروری نیستند.",
+  "p1": "برای راحتی شما، ما چند ارائه‌دهنده میزبانی را انتخاب کرده‌ایم.",
+  "p2": "از بین سرورهای زیر، یک سرور مناسب انتخاب کنید و دستورالعمل‌های مرحله به مرحله را دنبال کنید. همچنین می‌توانید هر ارائه‌دهنده VPS دیگری را به دلخواه خود انتخاب کنید.",
+  "hostings": [
+    {
+      "show": true,
+      "infoBadge": "",
+      "recommend": false,
+      "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/logo.png",
+      "link": "https://justhost.asia/?ref=206025",
+      "linkName": "JustHost.asia",
+      "warning": "",
+      "desc": "",
+      "serversLabel": "سرورها",
+      "serversText": "کانادا، چین، فنلاند، فرانسه، آلمان، ایتالیا، لتونی، هلند، لهستان، روسیه، سنگاپور، اسپانیا، ترکیه، امارات متحده عربی، ایالات متحده، اوکراین، بریتانیا.",
+      "legalAddressLabel": "آدرس قانونی",
+      "legalAddressText": "ایالات متحده، روسیه",
+      "priceLabel": "پرداخت",
+      "priceText": "از 7 دلار در ماه",
+      "priceInfo": "Mastercard/Visa، PayPal، ApplePay، GooglePay، SamsungPay، UnionPay، Alipay، Perfect Money، پرداخت با ارز دیجیتال، انتقال بانکی",
+      "steps": [
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/1.png",
+          "text": "در صفحه اصلی، سازنده VPS را انتخاب کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/2.png",
+          "text": "اوبونتو 22.04 را انتخاب کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/3.png",
+          "text": "در سازنده، گزینه‌ها را طبق آنچه در اسکرین‌شات نشان داده شده انتخاب کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/4.png",
+          "text": "مدت زمان پرداخت - ماهانه، فناوری RAID - کادر را علامت بزنید، روی سفارش کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/5.png",
+          "text": "به شما پیشنهاد می‌شود که وارد حساب خود شوید، گزینه ثبت‌نام را انتخاب کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/6.png",
+          "text": "ایمیل خود را وارد کنید، اطلاعات به آن ارسال می‌شود، کادر را علامت بزنید، گزینه ثبت‌نام را انتخاب کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/7.png",
+          "text": "ایمیل را در صندوق ورودی خود پیدا کنید. روی لینک کلیک کنید تا ایمیل خود را تأیید کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/8.png",
+          "text": "به وب‌سایت بازگردید، روی پرداخت کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/9.png",
+          "text": "یک روش پرداخت مناسب انتخاب کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/10.png",
+          "text": "روی ادامه به پرداخت کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/11.png",
+          "text": "شما یک ایمیل دریافت خواهید کرد، روی لینک کلیک کنید تا پرداخت را تأیید کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/12.png",
+          "text": "سپس، شما یک ایمیل با جزئیات سرور دریافت خواهید کرد، شما به IP، نام کاربری و رمز عبور نیاز خواهید داشت."
+        }
+]
+    },
+    {
+      "show": true,
+      "infoBadge": "",
+      "recommend": false,
+      "logo": "/img/logos/vendor/digital-ocean.svg",
+      "link": "https://www.digitalocean.com/?refcode=3d6dcd68b697&utm_campaign=Referral_Invite&utm_medium=Referral_Program",
+      "linkName": "دیجیتال اوشن",
+      "warning": "",
+      "desc": "این ارائه‌دهنده پرداخت با کارت‌های روسی را پشتیبانی نمی‌کند.",
+      "serversLabel": "سرورها",
+      "serversText": "ایالات متحده، هلند، بریتانیا، آلمان، کانادا، سنگاپور، هند",
+      "legalAddressLabel": "آدرس قانونی",
+      "legalAddressText": "ایالات متحده",
+      "priceLabel": "پرداخت",
+      "priceText": "از 4 دلار در ماه",
+      "priceInfo": "Mastercard/Visa، PayPal",
+      "steps": [
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do1f.png",
+          "text": "در صفحه اصلی، در زیر برگه راه‌حل‌ها، گزینه «میزبانی VPS» را انتخاب کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do2f.png",
+          "text": "روی «شروع کنید» کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do3f.png",
+          "text": "انتخاب کنید - «ثبت‌نام با ایمیل»."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do4f.png",
+          "text": "ایمیل خود را وارد کرده و یک رمز عبور ایجاد کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do5f.png",
+          "text": "به ایمیل خود دسترسی پیدا کنید و ثبت‌نام را تأیید کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do6f.png",
+          "text": "سپس از شما خواسته می‌شود تا به 4 سوال پاسخ دهید، هر پاسخی که دوست دارید انتخاب کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do7f.png",
+          "text": "یک کارت یا PayPal اضافه کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do8f.png",
+          "text": "جزئیات پرداخت را وارد کرده و روی «ذخیره روش پرداخت» کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do9f.png",
+          "text": "پس از افزودن موفقیت‌آمیز کارت، دوباره از شما خواسته می‌شود تا یک سرویس را انتخاب کنید، گزینه «استقرار یک ماشین مجازی» را انتخاب کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do10f.png",
+          "text": "اوبونتو 22.04 را انتخاب کنید (نسخه‌های دیگر اوبونتو دبیان پشتیبانی نمی‌شوند)، طرح تعرفه «اساسی»."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do11f.png",
+          "text": "گزینه «اینتل عادی با SSD» را انتخاب کنید، ارزان‌ترین تعرفه."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do12f.png",
+          "text": "و محل سرور را انتخاب کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do13f.png",
+          "text": "به‌عنوان روش احراز هویت، ما رمز عبور را انتخاب می‌کنیم و آن را ایجاد می‌کنیم."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do14f.png",
+          "text": "پس از نصب، در بخش «منابع» شما داده‌های اتصال را مشاهده خواهید کرد: IP، نام کاربری و رمز عبور. این داده‌ها برای اتصال به سرور جدید شماست."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do15f.png",
+          "text": "منتظر بمانید تا سرور نصب شود."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do16f.png",
+          "text": "شما همچنین می‌توانید نسخه برنامه موبایل را دانلود کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do17f.png",
+          "text": "انتخاب کنید - من داده‌های اتصال را دارم."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do18f.png",
+          "text": "گزینه «تنظیم سرور خود» را انتخاب کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do19f.png",
+          "text": "جزئیات اتصال را وارد کرده و روی «ادامه» کلیک کنید."
+        }
+      ]
+
+    },
+    {
+      "show": true,
+      "infoBadge": "",
+      "recommend": false,
+      "logo": "/img/logos/vendor/aws.svg",
+      "link": "https://aws.amazon.com/ru/ec2",
+      "linkName": "Amazon AWS",
+      "warning": "",
+      "desc": "این ارائه‌دهنده از پرداخت با کارت‌های روسی پشتیبانی نمی‌کند. دوره آزمایشی رایگان تا ۱۲ ماه با ترافیک محدود رایگان وجود دارد.",
+      "serversLabel": "سرورها",
+      "serversText": " آمریکا، آفریقای جنوبی، هنگ کنگ، هند، ژاپن، کره جنوبی، سنگاپور، استرالیا، کانادا، آلمان، ایرلند، بریتانیا، ایتالیا، فرانسه، سوئد، بحرین، برزیل.",
+      "legalAddressLabel": "آدرس قانونی",
+      "legalAddressText": "آمریکا",
+      "priceLabel": "پرداخت",
+      "priceText": "از ۲۰ دلار در ماه",
+      "priceInfo": "مسترکارت/ویزا، کارت نقدی پی‌پال",
+      "steps": [
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws1f.jpg",
+          "text": "زبانه «محصول» را انتخاب کنید سپس «خدمات ویژه» «آمازون VPS»"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws2f.jpg",
+          "text": "روی «ثبت نام کامل» کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws3f.jpg",
+          "text": "«کاربر اصلی» را انتخاب کنید و روی «بعدی» کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws4f.jpg",
+          "text": "ایمیل خود را وارد کنید و نام حساب آمازون خود را انتخاب کنید، سپس روی «تأیید ایمیل» کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws5f.jpg",
+          "text": "متن تصویر را وارد کنید و دوباره روی «تأیید ایمیل» کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws6f.png",
+          "text": "یک ایمیل با کد به آدرس وارد شده ارسال می‌شود، کد را وارد کرده و روی «تأیید» کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws7f.jpg",
+          "text": "یک رمز عبور ایجاد کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws8f.jpg",
+          "text": "جزئیات ثبت نام خود را وارد کرده و روی «ادامه» کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws9f.jpg",
+          "text": "جزئیات پرداخت و آدرس پرداخت خود را وارد کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws10f.jpg",
+          "text": "شماره تلفن خود را اضافه کرده، روی «ارسال پیامک» کلیک کنید، داده‌های پیامک را وارد کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws11f.jpg",
+          "text": "سطح پشتیبانی را انتخاب کنید، پشتیبانی پایه - رایگان، سپس «ثبت نام کامل» را کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws12f.jpg",
+          "text": "به کنسول بروید، روی «رفتن به کنسول مدیریت AWS» کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws13f.jpg",
+          "text": "بعد از ورود به حساب کاربری خود، در نوار بالایی زبانه «خدمات» سپس «همه خدمات» و «EC2» را انتخاب کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws14f.png",
+          "text": "کشوری که می‌خواهید سرور شما در آن قرار داشته باشد را انتخاب کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws15f.jpg",
+          "text": "در پنل سمت چپ، زبانه «سرورها» را انتخاب کنید. روی «راه‌اندازی سرورها» کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws16f.png",
+          "text": "سیستم عامل را انتخاب کنید، نسخه‌های رسمی پشتیبانی شده Ubuntu 20-22 و Debian 10-11، در این مورد Ubuntu 20.04 را انتخاب کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws17f.png",
+          "text": "گزینه‌ای که برای استفاده رایگان با نوار سبز مناسب است را انتخاب کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws18f.jpg",
+          "text": "مقادیر پیش‌فرض را رها کرده و روی «بعدی: افزودن حافظه» کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws19f.jpg",
+          "text": "بعد، در ستون اندازه، فضای دیسک را به 30 گیگابایت افزایش دهید، روی «بعدی: افزودن برچسب‌ها» کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws20f.jpg",
+          "text": "این مرحله را رد کرده و «بعدی: پیکربندی گروه امنیتی» را انتخاب کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws21f.jpg",
+          "text": "در اینجا باید پورت‌های مورد استفاده برای VPN را باز کنید. آنها را مطابق تصویر وارد کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws22f.jpg",
+          "text": "مرحله نهایی - روی «راه‌اندازی» کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws23f.jpg",
+          "text": "در اینجا باید یک جفت کلید برای دسترسی از راه دور به VPS ایجاد کنید، «ایجاد جفت کلید جدید» را انتخاب کرده، نام آنها را وارد کرده و روی «دانلود جفت کلید» کلیک کنید، سپس «راه‌اندازی سرورها» را بزنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws24f.jpg",
+          "text": "زبانه سرورها را در پنل سمت چپ انتخاب کنید، سپس سرور جدید خود را انتخاب کرده و روی «اتصال» کلیک کنید، یک پنجره باز می‌شود که رمز عبور سرور در آن نشان داده شده است، آن را ذخیره کنید، IP در پایین سمت راست تصویر قابل مشاهده است و به عنوان نام کاربری از ubuntu یا root استفاده کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws25f.png",
+          "text": "شما می‌توانید نسخه اپلیکیشن موبایل را نیز دانلود کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws26f.png",
+          "text": "گزینه «داده‌ها برای اتصال را دارم» را انتخاب کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws27f.png",
+          "text": "«پیکربندی سرور خود را» انتخاب کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws28f.png",
+          "text": "جزئیات اتصال را وارد کرده و روی «ادامه» کلیک کنید."
+        }
+      ]
+    },
+    {
+      "show": true,
+      "infoBadge": "",
+      "recommend": false,
+      "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pq-hosting.svg",
+      "link": "https://pq.hosting/?from=617316",
+      "linkName": "PQhosting",
+      "warning": "",
+      "desc": "پرداخت با کارت‌های روسی امکان‌پذیر است.",
+      "serversLabel": "سرورها",
+      "serversText": "هلند، کانادا، بریتانیا، لتونی، آمریکا، اوکراین، بلغارستان، رومانی، پرتغال، سوئد، ایرلند، فرانسه، استونی، دانمارک، آلمان، مولداوی، جمهوری چک، ایتالیا، سوئیس، اسپانیا، اتریش، روسیه و +12 کشور دیگر.",
+      "legalAddressLabel": "آدرس قانونی",
+      "legalAddressText": "مولداوی",
+      "priceLabel": "پرداخت",
+      "priceText": "از ۴.۷۷ دلار در ماه",
+      "priceInfo": "مسترکارت/ویزا/MIR (بانک‌های روسی)، مسترکارت/ویزا (بانک‌های خارجی)، پی‌پال، SPB، انتقال بانکی برای نهادهای حقوقی، پرداخت بدون نقدی برای نهادهای حقوقی، QIWI، WebMoney، YouMoney، ApplePay، SamsungPay، GooglePay، پرداخت رمزنگاری",
+      "steps": [
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh1f.png",
+          "text": "در صفحه اصلی، در نوار بالایی «سرور VPS/VDS» را انتخاب کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh2f.png",
+          "text": "سروری را انتخاب کرده و روی «سفارش سرور» کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh3f.png",
+          "text": "اطلاعات را وارد کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh4f.png",
+          "text": "سیستم عامل را انتخاب کنید، نسخه‌های رسمی پشتیبانی شده Ubuntu 22.04، Debian 11 هستند، سایر تنظیمات را بدون تغییر بگذارید و به سبد خرید اضافه کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh5f.png",
+          "text": "روی «اضافه به سبد خرید» کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh6f.png",
+          "text": "سپس، روی «پرداخت» کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh7f.png",
+          "text": "روش پرداخت مناسب را انتخاب کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh8f.png",
+          "text": "یک کشور را انتخاب کرده و روی بعدی کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh9f.png",
+          "text": "در ستون شخص تماس، نام و نام خانوادگی را وارد کنید، آدرس واقعی را پر کرده و روی «بعدی» کلیک کنید، سپس در پنجره بعدی پرداخت را تأیید کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh10f.png",
+          "text": "در کابینه شخصی خود، در منوی سمت چپ در ستون سرورهای مجازی، داده‌های سرور خود و اطلاعیه‌ای که نشان می‌دهد سرویس آماده استفاده است را خواهید دید، روی اطلاعیه کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh11f.png",
+          "text": "اطلاعیه دارای باکسی با آدرس IP، نام کاربری و رمز عبور است. برای اتصال به VPN به این داده‌ها نیاز داریم."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh12f.png",
+          "text": "می‌توانید نسخه اپلیکیشن موبایل را نیز دانلود کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh13f.png",
+          "text": "گزینه «داده‌ها برای اتصال را دارم» را انتخاب کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh14f.png",
+          "text": "«پیکربندی سرور خود را» انتخاب کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh15f.png",
+          "text": "جزئیات اتصال را وارد کرده و روی «ادامه» کلیک کنید."
+        }
+      ]
+    },
+    {
+      "show": true,
+      "infoBadge": "",
+      "recommend": false,
+      "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/ishosting_logo.png",
+      "link": "https://ishosting.com/affiliate/NTQ3IzY=",
+      "linkName": "Is*hosting",
+      "warning": "",
+      "desc": "",
+      "serversLabel": "سرورها",
+      "serversText": "اتریش، بلغارستان، دانمارک، مجارستان، اسپانیا، هلند، لهستان، صربستان، فرانسه، بلژیک، بریتانیا، آلمان، ایرلند، ایتالیا، نروژ، ژاپن، سنگاپور (و ۱۴ کشور دیگر).",
+      "legalAddressLabel": "آدرس قانونی",
+      "legalAddressText": "استونی",
+      "priceLabel": "پرداخت",
+      "priceText": "از ۵ دلار در ماه",
+      "priceInfo": "ویزا/مسترکارت، کارت‌های بانکی روسیه + سیستم‌های پرداخت SPB، رمزارزها، Intercash، Payeer، Unionpay چین، Boleto برزیل، Alipay چین",
+      "steps": [
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/1_is.png",
+          "text": "روی قیمت‌گذاری VPS کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/2_is.png",
+          "text": "کشور سرور و ارزان‌ترین تعرفه را انتخاب کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/3_is.png",
+          "text": "سیستم‌عامل Ubuntu 22، مدت زمان یک ماه و سایر پارامترها را همانطور که هستند انتخاب کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/4_is.png",
+          "text": "روی 'Go to Checkout' کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/5_is.png",
+          "text": "ایمیل خود را وارد کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/6_is.png",
+          "text": "سیستم از شما می‌خواهد ثبت‌نام کنید. رمز عبور ایجاد کنید و تیک‌ها را فراموش نکنید، سپس روی 'Create' کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/7_is.png",
+          "text": "روی 'Make Order' کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/8_is.png",
+          "text": "اطلاعات شخصی خود را وارد کنید. بسته به روش‌های پرداخت، این اطلاعات ممکن است متفاوت باشد."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/9_is.png",
+          "text": "پس از پرداخت، یک صفحه تأیید ظاهر خواهد شد."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/11_is.png",
+          "text": "به آدرس ایمیل وارد شده بروید و ثبت‌نام خود را تأیید کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/12_is.png",
+          "text": "به حساب کاربری خود بازگردید و روی 'Manage' کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/13_is.png",
+          "text": "پنجره‌ای ظاهر می‌شود که جزئیات IP Amnezia از جمله نام کاربری و رمز عبور را نشان می‌دهد. این داده‌ها را وارد کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/14_is.png",
+          "text": "می‌توانید نسخه اپلیکیشن موبایل را نیز دانلود کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/15_is.png",
+          "text": "گزینه «داده‌ها برای اتصال را دارم» را انتخاب کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/16_is.png",
+          "text": "«پیکربندی سرور خود را» انتخاب کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/17_is.png",
+          "text": "جزئیات اتصال را وارد کرده و روی 'ادامه' کلیک کنید."
+        }
+
+  ]
+        },
+    {
+      "show": true,
+      "infoBadge": "",
+      "recommend": false,
+      "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_logo.svg",
+      "link": "https://aeza.net/?ref=420618",
+      "linkName": "AEZA",
+      "warning": "",
+      "desc": "",
+      "serversLabel": "سرورها",
+      "serversText": "اتریش، فرانسه، آلمان، هلند، سوئد، فنلاند، روسیه",
+      "legalAddressLabel": "آدرس قانونی",
+      "legalAddressText": "بریتانیا",
+      "priceLabel": "پرداخت",
+      "priceText": "از ۵.۵ دلار در ماه",
+      "priceInfo": "ویزا/مسترکارت (بانک‌های خارجی)، کارت‌های بانکی روسیه، کارت‌های بانکی اوکراین، SPB، Yandex Pay، Tinkoff Pay، Steam Pay، رمزارزها، USDT، YooMoney، WebMoney، Perfect Money",
+      "steps": [
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_1.png",
+          "text": "ابتدا روی 'Sing up' کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_2.png",
+          "text": "ایمیل خود را وارد کنید و روی 'Send a link' کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_3.png",
+          "text": "به ایمیل خود بروید و روی 'تأیید ثبت‌نام' کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_4.png",
+          "text": "به حساب کاربری خود هدایت می‌شوید، جایی که «سرورهای مجازی» را انتخاب می‌کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_5.png",
+          "text": "کشوری متفاوت از کشور خود و ارزان‌ترین تعرفه را انتخاب کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_6.png",
+          "text": "سیستم‌عامل Ubuntu 22.04 یا Debian 11 را انتخاب کنید، گزینه‌های غیرضروری را بردارید و روی 'Pay' کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_7.png",
+          "text": "روش پرداخت را انتخاب کرده و سپس روی 'Pay' کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_8.png",
+          "text": "در حساب خود، اطلاعات VPS شما ظاهر خواهد شد، وضعیت آن باید به 'فعال' تغییر کند. اگر نه، کمی صبر کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_9.png",
+          "text": "سپس روی نام سرور کلیک کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_10.png",
+          "text": "یک پنجره با اطلاعات اضافی درباره سرور باز می‌شود. به نام کاربری، رمز عبور، و آدرس IP نیاز داریم. این اطلاعات را کپی کنید."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_11.png",
+          "text": "اپلیکیشن را باز کرده و جزئیات VPS خود را وارد کنید."
+        }
+      ]
+    }
+  ]
+}

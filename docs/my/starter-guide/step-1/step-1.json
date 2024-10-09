@@ -1,0 +1,499 @@
+{
+  "h1": "Amnezia ဖြင့် VPN ကို သွားရောက်အသုံးပြုရန်",
+  "h2": "သင်မှာ VPS မရှိပါက ဆာဗာ (VPS) ဝယ်ပါ။",
+  "cardText": "VPS အတွက် အနိမ့်ဆုံး စက်ရုပ်များ၏ လိုအပ်ချက်များ: အလုပ်ထုတ်နည်း - Linux၊ Ubuntu 22.04 သို့မဟုတ် Debian 11 အတွက် သင့်လျော်သည်။ မျှဝေမှု - KVM။ SSD - အနည်းဆုံး 7 GB။ မှတ်ဉာဏ် (RAM) - 2 GB ကို အကြံပြုသည်၊ သို့သော် 1 GB ထက် လျှော့လျော့ မရှိသင့်ပါ။ ထောက်ပံ့ပေးသော ပရိုဆက်ဆာ မျိုးစဉ် - x86-64။ အစီအစဉ်များ မရောင်းချထားသည့်ဆော့ဖ်ဝဲနှင့် ထိန်းချုပ်မှု အဆင့် မလိုအပ်ပါ။",
+  "p1": "သင့်အတွက် ပိုမိုအဆင်ပြေစေရန် ကျွန်ုပ်တို့သည် အနည်းငယ်သော ဟိုစတင်ဂျာများကို ရွေးချယ်ခဲ့ပါသည်။",
+  "p2": "အောက်ပါရွေးချယ်မှုများမှ သင့်လျှောက်ထားသော ဆာဗာကို ရွေးချယ်ပါနှင့် အဆင့်ဆင့် လမ်းညွှန်ချက်များကို လိုက်နာပါ။ သင်သည် သင်၏စိတ်ကြိုက်အခြား VPS ပံ့ပိုးသူကိုလည်း ရွေးချယ်နိုင်သည်။",
+  "hostings": [
+    {
+      "show": true,
+      "infoBadge": "",
+      "recommend": false,
+      "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/logo.png",
+      "link": "https://justhost.asia/?ref=206025",
+      "linkName": "JustHost.asia",
+      "warning": "",
+      "desc": "",
+      "serversLabel": "ဆာဗာများ",
+      "serversText": "ကနေဒါ၊ တရုတ်၊ ဖင်လန်၊ ပြင် franc၊ ဂျာမနီ၊ အီတလီ၊ လှေမိုး၊ နယ်သာလန်၊ ပိုလန်၊ ရုရှား၊ စင်ကာပူ၊ စပိန်၊ တူရကီ၊ UAE၊ USA၊ ယူကရိန်း၊ ဗြိတိန်။",
+      "legalAddressLabel": "ဥပဒေနှင့်ဆိုင်သော လိပ်စာ",
+      "legalAddressText": "USA၊ ရုရှား",
+      "priceLabel": "ငွေပေးချေမှု",
+      "priceText": "လစဉ် $7 မှစ",
+      "priceInfo": "Mastercard/Visa၊ PayPal၊ ApplePay၊ GooglePay၊ SamsungPay၊ UnionPay၊ Alipay၊ Perfect Money၊ ခရိုငွေဖြင့် ငွေပေးချေမှု၊ ဘဏ်လွှဲပြောင်းမှု",
+      "steps": [
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/1.png",
+          "text": "မူလ စခန်းအပေါ်တွင် VPS ဖန်တီးသူကို ရွေးချယ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/2.png",
+          "text": "Ubuntu 22.04 ကို ရွေးချယ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/3.png",
+          "text": "ဖန်တီးသူတွင် အဆိုပါ ရွေးချယ်မှုများကို စခန်းပုံနှိပ်ထားသည်အတိုင်း ရွေးချယ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/4.png",
+          "text": "ငွေပေးချေမှုကာလ - လစဉ်၊ RAID နည်းပညာ - ရွေးချယ်ပေးပါ၊ အမိန့်နှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/5.png",
+          "text": "သင်၏အကောင့်တွင် ဝင်ရောက်ရန် မေးခွန်းတစ်ခုတောင်းခံမည်၊ စာရင်းပေးပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/6.png",
+          "text": "သင့်အီးမေးလ်ကို ထည့်သွင်းပါ၊ အချက်အလက်များကို အီးမေးလ်ဖြင့် ပေးပို့မည်၊ ဘုတ်အတတ်သုံး အမှတ်ကို ရွေးချယ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/7.png",
+          "text": "သင့်အီးမေးလ်လိပ်စာတွင် အီးမေးလ်ကို ရှာဖွေပါ။ အီးမေးလ်ကို အတည်ပြုရန် ချိတ်ဆက်ထားသောလင့်ခ်ကို နှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/8.png",
+          "text": "ဆိုဒ်သို့ ပြန်လာပါ၊ ငွေပေးချေပါကို နှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/9.png",
+          "text": "သင့်အတွက် သင့်လျှော်သော ငွေပေးချေမှုနည်းလမ်းကို ရွေးချယ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/10.png",
+          "text": "ငွေပေးချေမှုဆီသို့ ဆက်လက်ဆောင်ရွက်ပါကို နှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/11.png",
+          "text": "သင်သည် အီးမေးလ်တစ်စောင်ရရှိမည်၊ ငွေပေးချေမှုကို အတည်ပြုရန် ချိတ်ဆက်ထားသောလင့်ခ်ကို နှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/12.png",
+          "text": "နောက်ထပ် သင်သည် ဆာဗာအချက်အလက်များပါရှိသော အီးမေးလ်ကို ရရှိမည်၊ IP၊ ဝင်ရောက်မှုနှင့် စကားဝှက်ကို သင်အတွက် လိုအပ်မည်။"
+        }
+      ]
+    },
+    {
+      "show": true,
+      "infoBadge": "",
+      "recommend": false,
+      "logo": "/img/logos/vendor/digital-ocean.svg",
+      "link": "https://www.digitalocean.com/?refcode=3d6dcd68b697&utm_campaign=Referral_Invite&utm_medium=Referral_Program",
+      "linkName": "Digital Ocean",
+      "warning": "",
+      "desc": "ပံ့ပိုးသူသည် ရုရှားကဒ်များဖြင့် ငွေပေးချေမှုကို ကူညီပေးခြင်းမရှိပါ။",
+      "serversLabel": "ဆာဗာများ",
+      "serversText": "USA၊ နယ်သာလန်၊ UK၊ ဂျာမနီ၊ ကနေဒါ၊ ဂျာမနီ၊ စင်ကာပူ၊ အိန္ဒိယ",
+      "legalAddressLabel": "ဥပဒေနှင့်ဆိုင်သော လိပ်စာ",
+      "legalAddressText": "USA",
+      "priceLabel": "ငွေပေးချေမှု",
+      "priceText": "လစဉ် $4 မှစ",
+      "priceInfo": "Mastercard/Visa၊ PayPal",
+      "steps": [
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do1f.png",
+          "text": "မူလ စခန်းတွင် Solutions အတွင်း၊ VPS Hosting ကို ရွေးချယ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do2f.png",
+          "text": "Get Started ကို နှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do3f.png",
+          "text": "Register with mail ကို ရွေးချယ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do4f.png",
+          "text": "သင်၏အီးမေးလ်ကို ထည့်ပါ၊ စကားဝှက်ကို ဖန်တီးပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do5f.png",
+          "text": "သင်၏အီးမေးလ်သို့ ဝင်ပါ၊ စာရင်းသွင်းခြင်းကို အတည်ပြုပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do6f.png",
+          "text": "နောက်တစ်ခုတွင် သင်အား မေးခွန်း ၄ ချက် မေးမည်၊ သင်ကြိုက်နှစ်သက်သော အဖြေများကို ရွေးချယ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do7f.png",
+          "text": "ကဒ် သို့မဟုတ် PayPal ကို ထည့်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do8f.png",
+          "text": "ငွေပေးချေမှုအချက်အလက်များကို ထည့်ပါ၊ Save payment method ကို နှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do9f.png",
+          "text": "ကဒ်ကို အောင်မြင်စွာ ထည့်သွင်းပြီးနောက် သင်ကို ပြန်လည်အတည်ပြုရန် ဝန်ဆောင်မှုရွေးချယ်ရန် မေးလိမ့်မည်၊ Deploy a virtual machine ကို ရွေးချယ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do10f.png",
+          "text": "Ubuntu 22.04 ကို ရွေးချယ်ပါ (Ubuntu Debian ၏ အခြားဗားရှင်းများကို ထောက်ပံ့မထားပါ)၊ Basic သင်္ကေတအစီအစဉ်ကို ရွေးချယ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do11f.png",
+          "text": "Regular Intel with SSD ကို ရွေးချယ်ပါ၊ အရှုံးဆုံးသင်္ကေတ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do12f.png",
+          "text": "နှင့် ဆာဗာ၏ တည်နေရာကို ရွေးချယ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do13f.png",
+          "text": "အထောက်အထားအတွက် စကားဝှက်ကို ရွေးချယ်ပါ၊ ဖန်တီးပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do14f.png",
+          "text": "ติดตั้งเสร็จเรียบร้อยแล้ว ในหมวด 'ทรัพยากร' คุณจะเห็นข้อมูลการเชื่อมต่อ: IP, เข้าสู่ระบบและรหัสผ่าน นี่คือข้อมูลสำหรับการเชื่อมต่อกับเซิร์ฟเวอร์ใหม่ของคุณ."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do15f.png",
+          "text": "ဆာဗာကို ထပ်ဆောင်းထည့်သွင်းရန် စောင့်ဆိုင်းပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do16f.png",
+          "text": "သင်သည် မိုဘိုင်းအထောက်အပံ့ ထုတ်ကုန်ကိုလည်း ဒေါင်းလုဒ်ယူနိုင်သည်။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do17f.png",
+          "text": "ဆက်သွယ်ရန် အချက်အလက်များရှိပါက ရွေးချယ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do18f.png",
+          "text": "သင့်ဆာဗာကို 'တပ်ဆင်ပါ။'"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do19f.png",
+          "text": "ဆက်သွယ်မှု အချက်အလက်များကို ထည့်ပါ၊ 'ဆက်တိုက်' ကို နှိပ်ပါ။"
+        }
+      ]
+
+    },
+    {
+      "show": true,
+      "infoBadge": "",
+      "recommend": false,
+      "logo": "/img/logos/vendor/aws.svg",
+      "link": "https://aws.amazon.com/ru/ec2",
+      "linkName": "Amazon AWS",
+      "warning": "",
+      "desc": "ပေးဆောင်မှုကို ရုရှားကတ်များဖြင့် ပံ့ပိုးမထားပါ။ ကန့်သတ်ထားသော အခမဲ့ လိပ်စာဖြင့် ၁၂ လအထိ အခမဲ့ စမ်းသပ်မှုကာလရှိပါသည်။",
+      "serversLabel": "ဆာဗာများ",
+      "serversText": " အမေရိက၊ အရှေ့အာဖရိက၊ ဟောင်ကောင်၊ အိန္ဒိယ၊ ဂျပန်၊ အာရှကုရီးယား၊ စင်ကာပူ၊ ဩစတြေးလျ၊ ကနေဒါ၊ ဂျာမနီ၊ အိုင်ယာလန်၊ ယူကေ၊ အီတလီ၊ ပြင်သစ်၊ သ سوီဒင်၊ ဘဟရိန်း၊ ဘရာဇီး။",
+      "legalAddressLabel": "ဥပဒေရေးရာ လိပ်စာ",
+      "legalAddressText": "အမေရိက",
+      "priceLabel": "ငွေပေးချေမှု",
+      "priceText": "လစဉ် $20 ထက်စတင်",
+      "priceInfo": "Mastercard/Visa, PayPal Cash Card",
+      "steps": [
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws1f.jpg",
+          "text": "“ထုတ်ကုန်” တန်းကွန်ကို ရွေးချယ်ပါ။ ထို့နောက် “ထင်ရှားသော ဝန်ဆောင်မှုများ” “Amazon VPS” ရွေးချယ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws2f.jpg",
+          "text": "“Sign Up ပြီးစီးပါ” ကို နှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws3f.jpg",
+          "text": "“Root user” ရွေးချယ်ပါ။ “Next” ကိုနှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws4f.jpg",
+          "text": "သင့်အီးမေးလ်ကို ထည့်သွင်းပါ၊ သင့် Amazon အကောင့်အမည်ကို စဉ်းစားပါ၊ “အီးမေးလ်လိပ်စာကို အတည်ပြုပါ” ကိုနှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws5f.jpg",
+          "text": "ပုံမှန်အတိုင်းရှိ စာသားကို ထည့်ပါ၊ ထပ်မံပြီး “အီးမေးလ်လိပ်စာကို အတည်ပြုပါ” ကို နှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws6f.png",
+          "text": "သတ်မှတ်ထားသော အီးမေးလ်လိပ်စာသို့ ကုဒ်ဖြင့် အီးမေးလ်ပို့ပါမည်၊ အကြောင်းအရာတွင် ကုဒ်ကို ထည့်ပြီး “အတည်ပြုပါ” ကိုနှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws7f.jpg",
+          "text": "စကားဝှက်တစ်ခု ဖန်တီးပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws8f.jpg",
+          "text": "သင့်မှတ်ပုံတင်အချက်အလက်များကို ထည့်ပြီး “ဆက်ရန်” ကိုနှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws9f.jpg",
+          "text": "သင်၏ ငွေပေးချေမှုအချက်အလက်များနှင့် ငွေပေးချေမှုလိပ်စာကို ထည့်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws10f.jpg",
+          "text": "ဖုန်းနံပါတ်တစ်ခု ထည့်ပြီး “SMS ပို့ရန်” ကိုနှိပ်ပါ၊ SMS မှ အချက်အလက်ကို ထည့်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws11f.jpg",
+          "text": "Basic support - အခမဲ့ဖြင့် အထောက်အကူပေးရန် အဆင့်ကို ရွေးချယ်ပါ၊ “Sign Up ပြီးစီးသည်” ကိုနှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws12f.jpg",
+          "text": "Console သို့ သွားပါ၊ “AWS Management Console သို့ သွားရန်” ကိုနှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws13f.jpg",
+          "text": "ကိုယ်ပိုင်အကောင့်ကို အိုင်ဒီနဲ့ ဝင်ရောက်ပြီး၊ အထက်ပါတန်းကွန်တွင် “ဝန်ဆောင်မှုများ” အစားအစာကို ရွေးချယ်ပြီး “အားလုံးသော ဝန်ဆောင်မှုများ” နှင့် “EC2” ကို ရွေးချယ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws14f.png",
+          "text": "သင်၏ဆာဗာတည်ရှိမည့် နိုင်ငံကို ရွေးချယ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws15f.jpg",
+          "text": "ညာဘက်ရှိ ပန်းကန်၌ “Instances” တန်းကွန်ကို ရွေးချယ်ပါ။ “Launch instances” ကိုနှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws16f.png",
+          "text": "OS ရွေးချယ်ပါ၊ Ubuntu 20-22 နှင့် Debian 10-11 ကို တရားဝင် ပံ့ပိုးထားပါသည်၊ ဤကိစ္စတွင် Ubuntu 20.04 ကို ရွေးချယ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws17f.png",
+          "text": "အခမဲ့အသုံးပြုရန် သင့်လျော်သော အမျိုးအစားကို ရွေးချယ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws18f.jpg",
+          "text": "မူလအကန့်အသတ်များကို ချန်ထားပြီး “Next: Add Storage” ကိုနှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws19f.jpg",
+          "text": "နောက်ဆုံးတွင်၊ Size ကွက်တွင် အဖုံးခွင့်ကို 30 GB သို့ တိုးမြှင့်ပြီး “Next: Add tags” ကိုနှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws20f.jpg",
+          "text": "ဤအဆင့်ကို ကျော်လိုက်ပါ “Next Configure Security Group”။"
+        }
+      ]
+
+    },
+
+    {
+      "show": true,
+      "infoBadge": "",
+      "recommend": false,
+      "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pq-hosting.svg",
+      "link": "https://pq.hosting/?from=617316",
+      "linkName": "PQhosting",
+      "warning": "",
+      "desc": "ရုရှားကတ်များဖြင့်ငွေပေးချေခြင်းလုပ်နိုင်သည်။",
+      "serversLabel": "ဆာဗာများ",
+      "serversText": "နက်ရှယ်လန်၊ ကနေဒါ၊ ယူကေ၊ လက်ဗီးယား၊ အမေရိကန်၊ ယူကရိန်း၊ ဘူလဂဲရီးယား၊ ရိုမေးနီးယား၊ ပေါ်တူဂယ်၊ စွမ်းအင်၊ အိုင်ရလန်၊ ပြင်သစ်၊ အစတိုးနီးယား၊ ဒင်မာ့ခ်၊ ဂျာမနီ၊ မိုးဒိုဗာ၊ ချက်ရစ် သမ္မတ၊ အီတလီ၊ သွားစ်ဆီလန်၊ စပိန်၊ ဩစတြီးယား၊ ရုရှား၊ နောက်ထပ် ၁၂ ကျွန်တော်တို့။",
+      "legalAddressLabel": "ဥပဒေရေးရာလိပ်စာ",
+      "legalAddressText": "မိုးဒိုဗာ",
+      "priceLabel": "ငွေပေးချေမှု",
+      "priceText": "$4.77/လအထက်မှ",
+      "priceInfo": "Mastercard/Visa/MIR (ရုရှားဘဏ်များ)၊ Mastercard/Visa (နိုင်ငံခြားဘဏ်များ) PayPal၊ SPB၊ ဥပဒေရေးရာကိုယ်စားလှယ်များအတွက် ဘဏ္ဍာရေးငွေပေးချေမှု၊ ဥပဒေရေးရာကိုယ်စားလှယ်များအတွက် ငွေမပေးမှု၊ QIWI၊ WebMoney၊ YouMoney၊ ApplePay၊ SamsungPay၊ GooglePay၊ Crypto Payment။",
+      "steps": [
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh1f.png",
+          "text": "“မူလစာမျက်နှာတွင် အထက်ဖောင် panel တွင် VPS/VDS ဆာဗာကို ရွေးချယ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh2f.png",
+          "text": "ဆာဗာကို ရွေးချယ်ပါ၊ “ဆာဗာကို ငွေပေးချေပါ” ကိုနှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh3f.png",
+          "text": "ဒေတာများကို ဝင်ရောက်ထည့်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh4f.png",
+          "text": "OS ကိုရွေးချယ်ပါ၊ အရေအတွက်အားဖြင့် သေချာသည်မှာ Ubuntu 22.04၊ Debian 11 ဖြစ်သည်။ အခြားအဆင့်များကို မပြောင်းလဲပါ။ ကတ်တွင်ထည့်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh5f.png",
+          "text": "“ကတ်ထဲထည့်ပါ” ကိုနှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh6f.png",
+          "text": "နောက်ထပ် “ငွေပေးချေပါ” ကိုနှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh7f.png",
+          "text": "သင့်အားသင့်လျှော်သော ငွေပေးချေမှုနည်းလမ်းကိုရွေးချယ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh8f.png",
+          "text": "နိုင်ငံကိုရွေးချယ်ပါ၊ နောက်ဆက်တွဲကိုနှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh9f.png",
+          "text": "Contact person ကွက်တွင် ဦးစွာနာမည်နှင့်နောက်ဆုံးနာမည်ကိုညွှန်းပါ၊ လက်ရှိလိပ်စာကိုဖြည့်ပါ၊ “နောက်ဆက်တွဲ” ကိုနှိပ်ပါ၊ နောက်ထပ်ဖြစ်ရပ်တစ်ခုတွင် ငွေပေးချေမှုကို အတည်ပြုပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh10f.png",
+          "text": "သင့်ကိုယ်ပိုင် ကတ်တွင် ဘယ်ဘက်ရှိ Virtual Servers အထဲတွင် သင့်ဆာဗာ ဒေတာများနှင့် အကြောင်းကြားချက်ကို ကြည့်ရှု့နိုင်သည်၊ အကြောင်းကြားချက်ကို နှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh11f.png",
+          "text": "အကြောင်းကြားချက်တွင် IP လိပ်စာ၊ အသုံးပြုသူနှင့် စကားဝှက်ဖြင့် တစ်ခါတစ်ရံပါမည်။ VPN သို့ ချိတ်ဆက်ရန် ဤဒေတာများကို လိုအပ်သည်။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh12f.png",
+          "text": "သင်သည် မိုဘိုင်းအပလီကေးရှင်းဗားရှင်းကိုလည်း ဒေါင်းလုဒ်လုပ်နိုင်ပါသည်။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh13f.png",
+          "text": "“ဆက်သွယ်ရန် သတင်းအချက်အလက်ရှိသည်” ကိုရွေးချယ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh14f.png",
+          "text": "“သင့်ဆာဗာကို ဖွင့်စဉ်သွားရန်” ကိုရွေးချယ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh15f.png",
+          "text": "ဆက်သွယ်ရေးအချက်အလက်များကို ဖြည့်ပြီး “ဆက်သွယ်ပါ” ကိုနှိပ်ပါ။"
+        }
+      ]
+    },
+
+    {
+      "show": true,
+      "infoBadge": "",
+      "recommend": false,
+      "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/ishosting_logo.png",
+      "link": "https://ishosting.com/affiliate/NTQ3IzY=",
+      "linkName": "Is*hosting",
+      "warning": "",
+      "desc": "",
+      "serversLabel": "ဆာဗာများ",
+      "serversText": "အော်စထရေး၊ ဘူလဂဲရီးယား၊ ဒင်မာ့ခ်၊ ဟန်ဂေရီ၊ စပိန်၊ နက်ရှယ်လန်၊ ပိုလန်၊ ဆာဘီးရီးယား၊ ပြင်သစ်၊ ဘယ်လဂျီယာ၊ ယူကင်းဒေသ၊ ဂျာမနီ၊ အိုင်ရလန်၊ အီတလီ၊ နော်ဝေ၊ ဂျပန်၊ စင်ပူ (နှင့် ၁၄ အခြား)။",
+      "legalAddressLabel": "ဥပဒေရေးရာလိပ်စာ",
+      "legalAddressText": "အီစတိုနီးယား",
+      "priceLabel": "ငွေပေးချေမှု",
+      "priceText": "$5/လ အထက်မှ",
+      "priceInfo": "Visa/Mastercard၊ ရုရှားဘဏ်ကဒ်များ + SPB နှင့် ငွေပေးချေမှုစနစ်များ၊ ငွေကြေးများ၊ Intercash၊ Payeer၊ Unionpay Cina၊ Boleto Brasil၊ Alipay China။",
+      "steps": [
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/1_is.png",
+          "text": "VPS ဈေးနှုန်းကိုနှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/2_is.png",
+          "text": "ဆာဗာနိုင်ငံနှင့် အစိတ်အပိုင်းသက်သာဆုံးကိုရွေးချယ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/3_is.png",
+          "text": "Ubuntu 22 ပွင့်လင်းရည်ညွှန်း စနစ်ကိုရွေးချယ်ပါ၊ ၁ လကြာမြင့်မှုနှင့် အခြားသော အချက်အလက်များကို အဆင်ပြေသည်အထိထားပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/4_is.png",
+          "text": "Checkout သို့ သွားရန်ကိုနှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/5_is.png",
+          "text": "သင့်အီးမေးလ်ကို ထည့်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/6_is.png",
+          "text": "စနစ်သည် သင့်ကို မှတ်ပုံတင်ရန် မေးမြန်းပါလိမ့်မည်။ စကားဝှက်ကို ဖန်တီးပါ၊ အချက်အလက်များကို မမေ့ပါနှင့်၊ ပြီးရင် ဖန်တီးရန်ကိုနှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/7_is.png",
+          "text": "အမိန့်လုပ်ရန်ကိုနှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/8_is.png",
+          "text": "သင့်ကိုယ်ပိုင်အချက်အလက်များကို ထည့်ပါ။ ငွေပေးချေမှုနည်းလမ်းများအလိုက် ဤအချက်အလက်များ ကွာခြားနိုင်သည်။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/9_is.png",
+          "text": "ငွေပေးချေပြီးနောက် အတည်ပြုချက်စာမျက်နှာတစ်ခု ပေါ်လာမည်။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/11_is.png",
+          "text": "သင်ပေးထားသော အီးမေးလ်လိပ်စာသို့ သွားပြီး အီးမေးလ်ကို အတည်ပြုပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/12_is.png",
+          "text": "သင့်အကောင့်သို့ ပြန်သွားပါ၊ စီမံခန့်ခွဲရန်ကိုနှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/13_is.png",
+          "text": "Amnezia IP အချက်အလက်များ၊ အသုံးပြုသူအမည်နှင့် စကားဝှက်တို့ပါသော ပြတင်းပေါက်တစ်ခု ပေါ်လာမည်။ အချက်အလက်များကို အပလီကေးရှင်းတွင် ထည့်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/14_is.png",
+          "text": "မိုဘိုင်းအပလီကေးရှင်းဗားရှင်းကိုလည်း ဒေါင်းလုဒ်လုပ်နိုင်သည်။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/15_is.png",
+          "text": "“ဆက်သွယ်ရန် သတင်းအချက်အလက်ရှိသည်” ကိုရွေးချယ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/16_is.png",
+          "text": "'သင်၏ဆာဗာကို ဖွင့်စဉ်သွားရန်' ကိုရွေးချယ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/17_is.png",
+          "text": "ဆက်သွယ်ရေးအချက်အလက်များကို ဖြည့်ပြီး “ဆက်သွယ်ပါ” ကိုနှိပ်ပါ။"
+        }
+      ]
+    },
+    {
+      "show": true,
+      "infoBadge": "",
+      "recommend": false,
+      "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_logo.svg",
+      "link": "https://aeza.net/?ref=420618",
+      "linkName": "AEZA",
+      "warning": "",
+      "desc": "",
+      "serversLabel": "ဆာဗာများ",
+      "serversText": "အော်စထရေး၊ ပြင်သစ်၊ ဂျာမနီ၊ နက်ရှယ်လန်၊ ဆွီဒင်၊ ဖင်လန်၊ ရုရှား။",
+      "legalAddressLabel": "ဥပဒေရေးရာလိပ်စာ",
+      "legalAddressText": "ယူကင်းဒေသ",
+      "priceLabel": "ငွေပေးချေမှု",
+      "priceText": "$5.5/လ အထက်မှ",
+      "priceInfo": "Visa/Mastercard (နိုင်ငံခြားဘဏ်များ)၊ ရုရှားဘဏ်ကဒ်များ၊ ဩစတြေးလျ ဘဏ်ကဒ်များ၊ SPB၊ Yandex Pay၊ Tinkoff Pay၊ Steam Pay၊ ငွေကြေးများ၊ USDT၊ YooMoney၊ WebMoney၊ Perfect Money။",
+      "steps": [
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_1.png",
+          "text": "ပထမဦးစွာ 'Sing up' ကိုနှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_2.png",
+          "text": "သင့်အီးမေးလ်ကိုထည့်ပြီး 'Send a link' ကိုနှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_3.png",
+          "text": "သင့်အီးမေးလ်သို့သွားပြီး - မှတ်ပုံတင်ခြင်းအတည်ပြုရန်ကိုနှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_4.png",
+          "text": "သင့်အကောင့်သို့ပြန်သွားမည်၊ သင်သည် - အထိန်းအတားဆာဗာများကိုရွေးချယ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_5.png",
+          "text": "သင်၏နိုင်ငံနှင့်မတူသောနိုင်ငံကိုရွေးချယ်ပြီး အစိတ်အပိုင်းသက်သာဆုံးကိုရွေးချယ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_6.png",
+          "text": "Ubuntu 22.04 သို့မဟုတ် Debian 11 လုပ်ဆောင်ရေးစနစ်ကိုရွေးချယ်ပါ၊ မလိုအပ်သောရွေးချယ်မှုများကို မသိမ်းပါနှင့်၊ Pay ကိုနှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_7.png",
+          "text": "ငွေပေးချေမှုနည်းလမ်းကိုရွေးချယ်ပါ၊ ပြီးရင် - Pay ကိုနှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_8.png",
+          "text": "သင့်အကောင့်တွင် VPS အကြောင်းအချက်အလက်များပေါ်လာမည်၊ ၎င်း၏အခြေအနေကို Active သို့ပြောင်းလဲရမည်၊ မပြောင်းလဲပါက၊ ခဏစောင့်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_9.png",
+          "text": "ဒါမှမဟုတ် ဆာဗာအမည်ကိုနှိပ်ပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_10.png",
+          "text": "ဆာဗာအကြောင်းအချက်အလက်များရှိသော ပြတင်းပေါက်တစ်ခု ပေါ်လာမည်။ ကျွန်ုပ်တို့ကို အသုံးပြုသူအမည်၊ စကားဝှက်နှင့် IP လိပ်စာတို့လိုအပ်သည်၊ ဤအချက်အလက်များကို ကူးယူပါ။"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_11.png",
+          "text": "အပလီကေးရှင်းကိုဖွင့်ပြီး VPS အချက်အလက်များကိုထည့်ပါ။"
+        }
+      ]
+    }
+  ]
+}
