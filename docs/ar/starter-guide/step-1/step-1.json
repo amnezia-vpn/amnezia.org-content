@@ -464,7 +464,7 @@
     },
 
     {
-      "show": true,
+      "show": false,
       "infoBadge": "",
       "recommend": false,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_logo.svg",
