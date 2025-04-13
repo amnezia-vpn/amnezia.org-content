@@ -9,7 +9,7 @@
       "show": true,
       "infoBadge": "",
       "recommend": false,
-      "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/logo.png",
+      "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/justhost/logo.png",
       "link": "https://justhost.asia/?ref=206025",
       "linkName": "JustHost.asia",
       "warning": "",
@@ -23,51 +23,51 @@
       "priceInfo": "بطاقات ماستركارد/فيزا، PayPal، ApplePay، GooglePay، SamsungPay، UnionPay، Alipay، Perfect Money، الدفع بالعملات الرقمية، التحويل البنكي",
       "steps": [
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/1.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/justhost/1.png",
           "text": "على الشاشة الرئيسية، اختر VPS builder"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/2.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/justhost/2.png",
           "text": "اختر Ubuntu 22.04"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/3.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/justhost/3.png",
           "text": "في أداة البناء، اختر الخيارات كما هو موضح في الصورة."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/4.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/justhost/4.png",
           "text": "فترة الدفع - شهريًا، تقنية RAID - اختر المربع، اضغط على الطلب."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/5.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/justhost/5.png",
           "text": "سوف يُطلب منك تسجيل الدخول إلى حسابك، اختر التسجيل."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/6.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/justhost/6.png",
           "text": "أدخل بريدك الإلكتروني، سيتم إرسال البيانات إليه، ضع علامة في المربع، واختر التسجيل."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/7.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/justhost/7.png",
           "text": "ابحث عن البريد الإلكتروني في صندوق الوارد الخاص بك. انقر على الرابط لتأكيد بريدك الإلكتروني."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/8.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/justhost/8.png",
           "text": "عد إلى الموقع، انقر على الدفع."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/9.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/justhost/9.png",
           "text": "اختر وسيلة دفع مناسبة"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/10.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/justhost/10.png",
           "text": "انقر على متابعة الدفع."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/11.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/justhost/11.png",
           "text": "سوف تتلقى بريدًا إلكترونيًا، انقر على الرابط لتأكيد الدفع."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/12.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/justhost/12.png",
           "text": "بعد ذلك، ستتلقى بريدًا إلكترونيًا يحتوي على تفاصيل الخادم، ستحتاج إلى IP واسم المستخدم وكلمة المرور."
         }
       ]
@@ -90,79 +90,79 @@
       "priceInfo": "ماستركارد/فيزا، PayPal",
       "steps": [
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do1f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/digital-ocean/do1f.png",
           "text": "على الشاشة الرئيسية، تحت علامة التبويب الحلول، اختر استضافة VPS."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do2f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/digital-ocean/do2f.png",
           "text": "انقر على “البدء”."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do3f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/digital-ocean/do3f.png",
           "text": "اختر - “التسجيل عبر البريد.”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do4f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/digital-ocean/do4f.png",
           "text": "أدخل بريدك الإلكتروني، أنشئ كلمة مرور."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do5f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/digital-ocean/do5f.png",
           "text": "قم بالوصول إلى بريدك الإلكتروني وتأكيد التسجيل."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do6f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/digital-ocean/do6f.png",
           "text": "بعد ذلك، سيتم سؤالك عن 4 أسئلة، اختر أي إجابات تعجبك."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do7f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/digital-ocean/do7f.png",
           "text": "أضف بطاقة أو PayPal."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do8f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/digital-ocean/do8f.png",
           "text": "أدخل تفاصيل الدفع، اضغط على “حفظ طريقة الدفع.”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do9f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/digital-ocean/do9f.png",
           "text": "بعد إضافة البطاقة بنجاح، سيتم طلب منك مرة أخرى اختيار خدمة، اختر “نشر آلة افتراضية.”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do10f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/digital-ocean/do10f.png",
           "text": "اختر Ubuntu 22.04 (الإصدارات الأخرى من Ubuntu Debian غير مدعومة)، خطة التعرفة “أساسية.”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do11f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/digital-ocean/do11f.png",
           "text": "اختر “معالج عادي مع SSD”، أرخص خطة."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do12f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/digital-ocean/do12f.png",
           "text": "وموقع الخادم."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do13f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/digital-ocean/do13f.png",
           "text": "كطريقة مصادقة، اختر كلمة مرور، وأنشئها."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do14f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/digital-ocean/do14f.png",
           "text": "بعد التثبيت، في قسم “الموارد” سترى بيانات الاتصال: IP واسم المستخدم وكلمة المرور. هذه هي البيانات للاتصال بالخادم الجديد الخاص بك."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do15f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/digital-ocean/do15f.png",
           "text": "انتظر حتى يتم تثبيت الخادم."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do16f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/digital-ocean/do16f.png",
           "text": "يمكنك أيضًا تنزيل إصدار التطبيق المحمول."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do17f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/digital-ocean/do17f.png",
           "text": "اختر - لدي بيانات الاتصال."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do18f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/digital-ocean/do18f.png",
           "text": "اختر 'تهيئة خادمك.'"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/digital-ocean/do19f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/digital-ocean/do19f.png",
           "text": "أدخل تفاصيل الاتصال وانقر على 'متابعة.'"
         }
       ]
@@ -185,115 +185,115 @@
       "priceInfo": "ماستركارد/فيزا، PayPal Cash Card",
       "steps": [
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws1f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aws/aws1f.jpg",
           "text": "اختر علامة التبويب “المنتج” ثم “الخدمات المميزة” “Amazon VPS”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws2f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aws/aws2f.jpg",
           "text": "انقر على “إكمال التسجيل”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws3f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aws/aws3f.jpg",
           "text": "اختر “المستخدم الجذر” ثم انقر على “التالي”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws4f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aws/aws4f.jpg",
           "text": "أضف بريدك الإلكتروني، وفكر في اسم حساب أمازون الخاص بك، ثم انقر على “تحقق من عنوان البريد الإلكتروني”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws5f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aws/aws5f.jpg",
           "text": "أدخل النص من الصورة وانقر مرة أخرى “تحقق من عنوان البريد الإلكتروني”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws6f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aws/aws6f.png",
           "text": "سيتم إرسال بريد إلكتروني برمز إلى البريد المحدد، أدخل الرمز في السطر، وانقر على “تحقق”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws7f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aws/aws7f.jpg",
           "text": "أنشئ كلمة مرور"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws8f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aws/aws8f.jpg",
           "text": "أدخل تفاصيل التسجيل، ثم انقر على “متابعة”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws9f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aws/aws9f.jpg",
           "text": "أدخل تفاصيل الدفع وعنوان الدفع."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws10f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aws/aws10f.jpg",
           "text": "أضف رقم الهاتف، واضغط على “إرسال رسالة نصية”، وأدخل البيانات من الرسالة النصية."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws11f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aws/aws11f.jpg",
           "text": "اختر مستوى الدعم الأساسي - مجاني، وانقر على إكمال التسجيل"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws12f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aws/aws12f.jpg",
           "text": "اذهب إلى وحدة التحكم، وانقر على “اذهب إلى وحدة تحكم إدارة AWS”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws13f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aws/aws13f.jpg",
           "text": "بعد تسجيل الدخول إلى حسابك الشخصي، في الشريط العلوي، اختر علامة التبويب “الخدمات”، ثم “جميع الخدمات” و“EC2”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws14f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aws/aws14f.png",
           "text": "اختر الدولة التي سيكون خادمك موجودًا فيها."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws15f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aws/aws15f.jpg",
           "text": "في اللوحة اليسرى، اختر علامة التبويب “الحالات”. انقر على “إطلاق الحالات”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws16f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aws/aws16f.png",
           "text": "اختر نظام التشغيل، الإصدار المدعوم رسميًا من Ubuntu 20-22 وDebian 10-11، في هذه الحالة اختر Ubuntu 20.04"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws17f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aws/aws17f.png",
           "text": "اختر متغيرًا مناسبًا للاستخدام المجاني مع شريط أخضر."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws18f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aws/aws18f.jpg",
           "text": "اترك القيم الافتراضية، واضغط على “التالي: إضافة التخزين”."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws19f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aws/aws19f.jpg",
           "text": "بعد ذلك، في عمود الحجم، قم بزيادة مساحة القرص إلى 30 غيغابايت، واضغط على “التالي: إضافة علامات”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws20f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aws/aws20f.jpg",
           "text": "نتجاوز هذه الخطوة “التالي، تكوين مجموعة الأمان”."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws21f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aws/aws21f.jpg",
           "text": "هنا تحتاج إلى فتح المنافذ المستخدمة لـ VPN. أدخلها كما هو موضح في لقطة الشاشة أدناه."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws22f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aws/aws22f.jpg",
           "text": "الخطوة النهائية - انقر على “إطلاق”"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws23f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aws/aws23f.jpg",
           "text": "هنا تحتاج إلى إنشاء زوج من المفاتيح للوصول عن بعد إلى VPS، اختر “إنشاء زوج مفاتيح جديد”، سمهم واضغط على “تحميل زوج المفاتيح”، ثم “إطلاق الحالات”."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws24f.jpg",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aws/aws24f.jpg",
           "text": "اختر علامة التبويب الحالات في اللوحة اليسرى، ثم اختر خادمك الجديد وانقر على “الاتصال”، ستفتح نافذة تحتوي على كلمة مرور الخادم، احفظها، يمكن العثور على IP في الزاوية السفلى اليمنى كما هو موضح في لقطة الشاشة، وبالنسبة لتسجيل الدخول استخدم ubuntu أو root."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws25f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aws/aws25f.png",
           "text": "يمكنك أيضًا تنزيل إصدار التطبيق المحمول."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws26f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aws/aws26f.png",
           "text": "اختر - لدي بيانات للاتصال."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws27f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aws/aws27f.png",
           "text": "اختر 'تكوين خادمك.'"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aws/aws28f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aws/aws28f.png",
           "text": "أدخل تفاصيل الاتصال وانقر على 'متابعة.'"
         }
       ]
@@ -302,7 +302,7 @@
       "show": true,
       "infoBadge": "",
       "recommend": false,
-      "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pq-hosting.svg",
+      "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/pq-hosting/pq-hosting.svg",
       "link": "https://pq.hosting/?from=617316",
       "linkName": "PQhosting",
       "warning": "",
@@ -316,63 +316,63 @@
       "priceInfo": "Mastercard/Visa/MIR (Russian banks), Mastercard/Visa (Foreign banks) PayPal, SPB, Bank transfer for legal entities, Cashless payment for legal entities, QIWI, WebMoney, YouMoney, ApplePay, SamsungPay, GooglePay, Crypto Payment)",
       "steps": [
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh1f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/pq-hosting/pqh1f.png",
           "text": "On the main page on the top panel select VPS/VDS server."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh2f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/pq-hosting/pqh2f.png",
           "text": "Select a server, click ‘Order a server’."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh3f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/pq-hosting/pqh3f.png",
           "text": "Enter the data."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh4f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/pq-hosting/pqh4f.png",
           "text": "Select OS, officially supported version is Ubuntu 22.04, Debian 11; other settings can be left unchanged, add to cart."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh5f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/pq-hosting/pqh5f.png",
           "text": "Click ‘Add to cart’."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh6f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/pq-hosting/pqh6f.png",
           "text": "Next, ‘Pay’."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh7f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/pq-hosting/pqh7f.png",
           "text": "Choose the most suitable payment method."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh8f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/pq-hosting/pqh8f.png",
           "text": "Select a country, click next."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh9f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/pq-hosting/pqh9f.png",
           "text": "In the Contact person column specify the first and last name, fill in the actual address, click ‘next’, in the next window confirm the payment."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh10f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/pq-hosting/pqh10f.png",
           "text": "In your personal cabinet in the menu on the left in the column Virtual Servers, you will see your server data and a notification that the service is ready for use, click on the notification."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh11f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/pq-hosting/pqh11f.png",
           "text": "The notification will have a box with IP address, user, and password. To connect to the VPN we need this data."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh12f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/pq-hosting/pqh12f.png",
           "text": "You can also download the mobile application version."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh13f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/pq-hosting/pqh13f.png",
           "text": "Select - I have the data to connect."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh14f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/pq-hosting/pqh14f.png",
           "text": "Choose ‘Configure your server.’"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/pq-hosting/pqh15f.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/pq-hosting/pqh15f.png",
           "text": "Enter the connection details and click ‘Continue.’"
         }
       ]
@@ -397,67 +397,67 @@
       "priceInfo": "فيزا/ماستركارد، بطاقات البنوك الروسية + SPB وأنظمة الدفع، العملات المشفرة، Intercash، Payeer، Unionpay China، Boleto Brasil، Alipay China",
       "steps": [
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/1_is.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/ishosting/1_is.png",
           "text": "انقر على تسعير VPS."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/2_is.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/ishosting/2_is.png",
           "text": "اختر دولة الخادم وأرخص تعرفة."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/3_is.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/ishosting/3_is.png",
           "text": "اختر نظام التشغيل Ubuntu 22، مدة شهر واحد، واترك بقية المعلمات كما هي."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/4_is.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/ishosting/4_is.png",
           "text": "انقر على الانتقال إلى الدفع."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/5_is.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/ishosting/5_is.png",
           "text": "أدخل بريدك الإلكتروني."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/6_is.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/ishosting/6_is.png",
           "text": "سيسألك النظام عن التسجيل. أنشئ كلمة مرور ولا تنسَ تحديد المربعات، ثم انقر على إنشاء."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/7_is.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/ishosting/7_is.png",
           "text": "انقر على تأكيد الطلب."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/8_is.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/ishosting/8_is.png",
           "text": "أدخل بياناتك الشخصية. قد تختلف هذه التفاصيل حسب طرق الدفع."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/9_is.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/ishosting/9_is.png",
           "text": "بعد الدفع، ستظهر صفحة التأكيد."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/11_is.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/ishosting/11_is.png",
           "text": "اذهب إلى عنوان البريد الإلكتروني الذي قدمته وقم بتأكيد بريدك الإلكتروني."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/12_is.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/ishosting/12_is.png",
           "text": "ارجع إلى حسابك، وانقر على إدارة."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/13_is.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/ishosting/13_is.png",
           "text": "ستظهر نافذة تحتوي على تفاصيل Amnezia IP، بما في ذلك اسم المستخدم وكلمة المرور. أدخلها في التطبيق."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/14_is.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/ishosting/14_is.png",
           "text": "يمكنك أيضًا تنزيل نسخة التطبيق المحمول."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/15_is.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/ishosting/15_is.png",
           "text": "اختر - لدي البيانات للاتصال."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/16_is.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/ishosting/16_is.png",
           "text": "اختر 'تكوين خادمك.'"
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/17_is.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/ishosting/17_is.png",
           "text": "أدخل تفاصيل الاتصال وانقر على 'استمرار.'"
         }
       ]
@@ -481,47 +481,47 @@
       "priceInfo": "فيزا/ماستركارد (البنوك الأجنبية)، بطاقات البنوك الروسية، بطاقات البنوك الأوكرانية، SPB، ياندكس باي، تيكوف باي، ستيم باي، العملات المشفرة، USDT، يوكوموني، ويب موني، بيرفكت موني",
       "steps": [
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_1.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aeza/aeza_en_1.png",
           "text": "أولاً، انقر على تسجيل."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_2.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aeza/aeza_en_2.png",
           "text": "أدخل بريدك الإلكتروني وانقر على 'إرسال رابط'."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_3.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aeza/aeza_en_3.png",
           "text": "اذهب إلى بريدك الإلكتروني وانقر - تأكيد التسجيل."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_4.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aeza/aeza_en_4.png",
           "text": "ستتم إعادة توجيهك إلى حسابك حيث تختار - الخوادم الافتراضية."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_5.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aeza/aeza_en_5.png",
           "text": "اختر دولة مختلفة عن دولتك وأرخص تعرفة."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_6.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aeza/aeza_en_6.png",
           "text": "اختر نظام التشغيل Ubuntu 22.04 أو Debian 11، ألغِ تحديد الخيارات غير الضرورية، ثم انقر على دفع."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_7.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aeza/aeza_en_7.png",
           "text": "اختر طريقة الدفع، ثم - دفع."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_8.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aeza/aeza_en_8.png",
           "text": "في حسابك، ستظهر معلومات عن VPS الخاص بك، يجب أن يتغير وضعه إلى نشط، إذا لم يحدث ذلك، انتظر بعض الوقت."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_9.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aeza/aeza_en_9.png",
           "text": "ثم انقر على اسم الخادم."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_10.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aeza/aeza_en_10.png",
           "text": "ستفتح نافذة تحتوي على معلومات إضافية حول الخادم. نحتاج إلى اسم المستخدم وكلمة المرور وعنوان IP، انسخ هذه المعلومات."
         },
         {
-          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/aeza/aeza_en_11.png",
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ar/starter-guide/step-1/img/aeza/aeza_en_11.png",
           "text": "افتح التطبيق، وأضف تفاصيل VPS الخاص بنا."
         }
       ]

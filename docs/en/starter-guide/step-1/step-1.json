@@ -522,6 +522,69 @@
           "text": "Open the application, and add the details of our VPS."
         }
       ]
+    },
+    {
+      "show": true,
+      "infoBadge": "",
+      "recommend": false,
+      "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/mCloud/mсloud-logo.png",
+      "link": "https://portal.mcloud.rs/?affid=1452",
+      "linkName": "mCloud",
+      "warning": "",
+      "desc": "",
+      "serversLabel": "Serbia",
+      "serversText": "Serbia",
+      "legalAddressLabel": "Legal Address",
+      "legalAddressText": "Serbia",
+      "priceLabel": "Payment",
+      "priceText": "from 8EUR month",
+      "priceInfo": "Mastercard/Visa (through PayPal processing system), PayPal, Bank transfer for legal entities",
+      "steps": [
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/mCloud/mCloud_en_2.png",
+          "text": "Choose a plan. Any of the plans will work for setting up a VPN on your own server."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/mCloud/mCloud_en_3.png",
+          "text": "Enter the Hostname — you can use the one shown in the screenshot. Click Continue."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/mCloud/mCloud_en_4.png",
+          "text": "Read the Terms of Service, check the checkbox, and click Checkout."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/mCloud/mCloud_en_5.png",
+          "text": "On the left panel, select Billing."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/mCloud/mCloud_en_6.png",
+          "text": "Click the checkbox next to your order, then click Pay selected invoice."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/mCloud/mCloud_en_7.png",
+          "text": "Review the order and click Pay Now!"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/mCloud/mCloud_en_8.png",
+          "text": "Choose, for example, PayPal."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/mCloud/mCloud_en_9.png",
+          "text": "Complete the payment."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/mCloud/mCloud_en_10.png",
+          "text": "In the Dashboard tab, your order will appear — its status should be “Active.” Click on the server name"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/mCloud/mCloud_en_11.png",
+          "text": "In the Overview tab, you’ll need the following details: IP address and console password. The default username will be root."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/mCloud/mCloud_en_12.png",
+          "text": "Open the application, and add the details of our VPS, enter the details from your account."
+        }
+      ]
     }
   ]
 }
