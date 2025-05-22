@@ -374,9 +374,8 @@
 
       ]
     },
-
     {
-      "show": true,
+      "show": false,
       "infoBadge": "",
       "recommend": false,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/starter-guide/step-1/img/pq-hosting/pq-hosting.svg",
@@ -601,9 +600,7 @@
         }
       ]
     }
-
   ]
-  
-  }
+}
 
   
