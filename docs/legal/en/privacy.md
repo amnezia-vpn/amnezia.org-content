@@ -115,7 +115,7 @@ You have the right to:
 - Restrict or object to processing;
 - File a complaint with a supervisory authority;
 
-To exercise your rights, email us at admin@amnezia.org.
+To exercise your rights, email us at privacy@amnezia.org.
 
 ## 10. Children
 Our services are not intended for individuals under 16 years of age. If we become aware that a child has provided us with personal data, we will delete them immediately. Parents or guardians can contact us directly.
@@ -124,4 +124,4 @@ Our services are not intended for individuals under 16 years of age. If we becom
 This Policy may be updated from time to time. All changes will be posted on this page with a new effective date.
 
 ## 12. Contacts
-If you have any questions about our Privacy Policy, please email admin@amnezia.org.
+If you have any questions about our Privacy Policy, please email privacy@amnezia.org.
