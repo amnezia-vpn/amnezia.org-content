@@ -587,7 +587,7 @@
       ]
     },
     {
-      "show": true,
+      "show": false,
       "infoBadge": "",
       "recommend": false,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/amnezia-hosting/amnz-hosting-horiz-white.png",
@@ -629,8 +629,13 @@
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/amnezia-hosting/AmHosting_en_7.png",
-          "text": "In the 'Manage' tab, you’ll find the login credentials. Enter them into the AmneziaVPN app."
+          "text": "In the 'Manage' tab, you’ll find the login credentials. Enter them into the AmneziaVPN app.",
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/amnezia-hosting/AmHosting_en_8.png",
+          "text": "Download the app and enter the data into AmneziaVPN as shown in the image"
         }
+
       ]
     }
   ]

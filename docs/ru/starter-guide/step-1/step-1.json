@@ -601,7 +601,7 @@
       ]
     },
     {
-      "show": true,
+      "show": false,
       "infoBadge": "",
       "recommend": false,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/starter-guide/step-1/img/amnezia-hosting/amnz-hosting-horiz-white.png",
@@ -615,7 +615,7 @@
       "legalAddressText": "Армения",
       "priceLabel": "Оплата",
       "priceText": "от $5 мес",
-      "priceInfo": "Visa/Mastercard (иностранных банков) ",
+      "priceInfo": "Visa/Mastercard (иностранных банков), Карты Российских банков ",
       "steps": [
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/starter-guide/step-1/img/amnezia-hosting/AmHosting_ru_1.png",
@@ -644,6 +644,10 @@
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/starter-guide/step-1/img/amnezia-hosting/AmHosting_ru_7.png",
           "text": "Во вкладке Управление будут Данные для входа, их нужно внести в приложение AmneziaVPN"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/starter-guide/step-1/img/amnezia-hosting/AmHosting_ru_8.png",
+          "text": "Скачайте приложение и внесите данные в AmneziaVPN, как указано на картинке"
         }
       ]
     }
