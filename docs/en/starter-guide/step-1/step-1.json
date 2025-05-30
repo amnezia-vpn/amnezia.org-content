@@ -585,6 +585,53 @@
           "text": "Open the application, and add the details of our VPS, enter the details from your account."
         }
       ]
+    },
+    {
+      "show": true,
+      "infoBadge": "",
+      "recommend": false,
+      "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/AmHosting/amnz-hosting-horiz-white.png",
+      "link": "https://amnezia.host",
+      "linkName": "Amnezia Hosting",
+      "warning": "",
+      "desc": "",
+      "serversLabel": "Servers",
+      "serversText": "Netherlands",
+      "legalAddressLabel": "Legal address",
+      "legalAddressText": "Armenia",
+      "priceLabel": "Price",
+      "priceText": "from $5/month",
+      "priceInfo": "Visa/Mastercard (foreign banks)",
+      "steps": [
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/AmHosting/AmHosting_en_1.png",
+          "text": "Choose the server location, billing period, and click 'Order server'."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/AmHosting/AmHosting_en_2.png",
+          "text": "Click 'Proceed to Checkout'."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/AmHosting/AmHosting_en_3.png",
+          "text": "Enter your personal information and choose a payment method."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/AmHosting/AmHosting_en_4.png",
+          "text": "Enter your card number and click 'Complete Order'."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/AmHosting/AmHosting_en_5.png",
+          "text": "Then click 'Go to Client Area'."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/AmHosting/AmHosting_en_6.png",
+          "text": "Check the 'Active Products/Services' section. Your VPS info will be there. Its status should be 'Active'. Click 'View Details'."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/AmHosting/AmHosting_en_7.png",
+          "text": "In the 'Manage' tab, you’ll find the login credentials. Enter them into the AmneziaVPN app."
+        }
+      ]
     }
   ]
 }
