@@ -6,7 +6,7 @@
   "p2": "Choose a suitable server from the ones below and follow the step-by-step instructions. You can also choose any other VPS provider at your discretion.",
   "hostings":[
     {
-      "show": true,
+      "show": false,
       "infoBadge": "",
       "recommend": false,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/logo.png",
@@ -378,7 +378,7 @@
       ]
     },
     {
-      "show": true,
+      "show": false,
       "infoBadge": "",
           "recommend": false,
           "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/ishosting_logo.png",
@@ -524,7 +524,7 @@
       ]
     },
     {
-      "show": true,
+      "show": false,
       "infoBadge": "",
       "recommend": false,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/mCloud/mcloud-logo.png",
