@@ -23,12 +23,12 @@ When connecting to AmneziaFree, we also process IP addresses. This is necessary 
 If a user engages in actions that harm the service (for example, spam, DDoS), Amnezia may temporarily store the IP address to prevent abuse and protect the infrastructure.
 
 ### 1.3 Amnezia Premium
-When purchasing a subscription through VPN Pay, we collect only the user’s email address. VPN Pay may pass on the user’s IP address to the payment gateway if the gateway requires it, but the IP is not stored.
+When purchasing a subscription through [https://pay.amnezia.org](https://pay.amnezia.org), we collect only the user's email address. The user's IP address may be transmitted to the payment gateway by the [https://pay.amnezia.org](https://pay.amnezia.org) site when necessary, but it is not stored. 
 After connecting to Amnezia Premium through the application, we collect:
 - The application version and operating system (for internal analytics);
 - A device ID (to link keys to the device);
 
-Users’ IP addresses are not collected or stored. The only exception is temporary logging in the event of violations that harm the service, such as using servers for spam, DDoS attacks, or traffic abuse.
+Users' IP addresses are not collected or stored. The exception is temporary logging in cases of violations that harm the service, using servers for spam distribution, DDoS attacks, or traffic abuse.
 
 ### 1.4 Amnezia Affiliate (Partner and Referral Program)
 Under our affiliate program, we collect:
@@ -79,10 +79,12 @@ We use data solely for:
 
 VPN traffic and activity are not used for analytics or advertising.
 
-## 4. Transfer of Data to Third Parties
+## 4. Transfer of Data to Third Parties:
 We do not transfer your data to third parties, except in the following cases:
-- Data from the business form on [https://amnezia.org/business](https://amnezia.org/business) are transferred to the Web3Forms service (see their privacy policy);
-- VPN Pay may transfer data to payment gateways (see the payment gateways’ policies);
+- We do not transfer your data to third parties, except in the following cases:
+
+Data submitted through the business form on [https://amnezia.org/business](https://amnezia.org/business) are transferred to the Web3Forms service (see their privacy policy);
+- Data provided through [https://pay.amnezia.org](https://pay.amnezia.org) may be transferred to payment gateways (see the privacy policy of the respective payment gateway).
 
 No other data are transferred to third parties.
 
