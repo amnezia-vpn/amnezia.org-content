@@ -194,10 +194,6 @@ This version of the Privacy Policy is valid from 08.11.2023.
 
 If you have any questions, suggestions about our Privacy Policy or statements regarding the processing of your personal data, you can contact us at - admin@amnezia.org
 
-
-
-
-
 [Chrome]: https://support.google.com/chrome/answer/95647?hl=ru&co=GENIE.Platform%3DAndroid
 [Firefox]: https://firefx.ru/faq/kak-vklucit-i-otklucit-kuki-v-mozilla-firefox
 [Internet Explorer]: https://support.microsoft.com/ru-ru/windows/%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2-cookie-%D0%B8-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8%D0%BC%D0%B8-168dab11-0753-043d-7c16-ede5947fc64d#:~:text=%D0%92%20Internet%20Explorer%20%D0%B2%D1%8B%D0%B1%D0%B5%D1%80%D0%B8%D1%82%D0%B5%20%D0%BA%D0%BD%D0%BE%D0%BF%D0%BA%D1%83,%E2%80%94%20%D1%80%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B8%D1%82%D1%8C%2C%20%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D

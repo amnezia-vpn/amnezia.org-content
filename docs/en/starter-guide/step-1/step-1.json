@@ -6,12 +6,12 @@
   "p2": "Choose a suitable server from the ones below and follow the step-by-step instructions. You can also choose any other VPS provider at your discretion.",
   "hostings":[
     {
-      "show": false,
+      "show": true,
       "infoBadge": "",
       "recommend": false,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/justhost/logo.png",
-      "link": "https://justhost.asia/?ref=206025",
-      "linkName": "JustHost.asia",
+      "link": "https://just.hosting/?ref=206025",
+      "linkName": "JustHosting",
       "warning": "",
       "desc": "",
       "serversLabel": "Servers",
