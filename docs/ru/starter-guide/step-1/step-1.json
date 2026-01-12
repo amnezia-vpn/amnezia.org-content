@@ -73,7 +73,7 @@
       ]
     },
     {
-      "show": true,
+      "show": false,
       "infoBadge": "",
       "recommend": true,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/starter-guide/step-1/img/inferno1/inferno-logo1.png",
@@ -450,7 +450,7 @@
       ] 
     },
     {
-      "show": true,
+      "show": false,
       "infoBadge": "",
       "recommend": false,
       "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/starter-guide/step-1/img/ishosting/ishosting_logo.png",

@@ -378,7 +378,7 @@
       ]
     },
     {
-      "show": false,
+      "show": true,
       "infoBadge": "",
           "recommend": false,
           "logo": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/en/starter-guide/step-1/img/ishosting/ishosting_logo.png",
