@@ -40,7 +40,7 @@ On the amnezia.org website, we use:
 - Language cookies;
 - Anonymized statistical data (visits, referral sources, downloads, user regions, and devices);
 
-These data are collected via self-hosted Plausible and Cloudflare Insights. The data are anonymized and cannot be used to identify the user.
+These data are collected via self-hosted Matomo and Cloudflare Insights. The data are anonymized and cannot be used to identify the user.
 When submitting the form at [https://amnezia.org/business](https://amnezia.org/business), we collect:
 - Email;
 - Company name;
