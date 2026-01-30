@@ -1,5 +1,5 @@
-# Privacy and Acceptable Use Policy
-**Effective Date: 14.10.2025**
+﻿# Privacy and Acceptable Use Policy
+**Effective Date: 30.01.2026**
 
 At Amnezia, we prioritize the privacy and security of your data above all else. We strive to collect the minimum amount of personal data and remain transparent about what data we collect and why. This Privacy Policy describes how we collect, use, and protect your information, and it complies with applicable data protection laws, including the General Data Protection Regulation (GDPR).
 
@@ -23,7 +23,7 @@ When connecting to AmneziaFree, we also process IP addresses. This is necessary 
 If a user engages in actions that harm the service (for example, spam, DDoS), Amnezia may temporarily store the IP address to prevent abuse and protect the infrastructure.
 
 ### 1.3 Amnezia Premium
-When purchasing a subscription through [https://pay.amnezia.org](https://pay.amnezia.org), we collect only the user's email address. The user's IP address may be transmitted to the payment gateway by the [https://pay.amnezia.org](https://pay.amnezia.org) site when necessary, but it is not stored. 
+When purchasing a subscription through [https://pay.amnezia.org](https://pay.amnezia.org), we collect only the user's email address. The user's IP address may be transmitted to the payment gateway by the [https://pay.amnezia.org](https://pay.amnezia.org) site when necessary, but it is not stored.
 After connecting to Amnezia Premium through the application, we collect:
 - The application version and operating system (for internal analytics);
 - A device ID (to link keys to the device);
@@ -40,7 +40,7 @@ On the amnezia.org website, we use:
 - Language cookies;
 - Anonymized statistical data (visits, referral sources, downloads, user regions, and devices);
 
-These data are collected via self-hosted Matomo and Cloudflare Insights. The data are anonymized and cannot be used to identify the user.
+These data are collected via self-hosted Matomo, Plausible and Cloudflare Insights. The data are anonymized and cannot be used to identify the user.
 When submitting the form at [https://amnezia.org/business](https://amnezia.org/business), we collect:
 - Email;
 - Company name;
@@ -76,17 +76,19 @@ We use data solely for:
 - Processing payments and payouts;
 - Preventing abuse and attacks;
 - Analyzing anonymized statistics to improve the product;
+- Sending offers and product news (you can unsubscribe at any time by clicking the link in the email or by contacting us).
+
+VPN traffic and activity are not used for analytics or advertising.
 
 VPN traffic and activity are not used for analytics or advertising.
 
 ## 4. Transfer of Data to Third Parties:
 We do not transfer your data to third parties, except in the following cases:
-- We do not transfer your data to third parties, except in the following cases:
+- data submitted through the business form at [https://amnezia.org/business](https://amnezia.org/business) are transferred to the Web3Forms service (see their privacy policy);
+- data provided through the [https://pay.amnezia.org](https://pay.amnezia.org) may be transmitted directly to payment providers during checkout (such as the user’s email address and IP address, where required by the payment processor);
+- authorized government authorities only upon a valid, official, and lawful request, and only to the extent required by applicable law.
 
-Data submitted through the business form on [https://amnezia.org/business](https://amnezia.org/business) are transferred to the Web3Forms service (see their privacy policy);
-- Data provided through [https://pay.amnezia.org](https://pay.amnezia.org) may be transferred to payment gateways (see the privacy policy of the respective payment gateway).
-
-No other data are transferred to third parties.
+No other data is transferred to third parties.
 
 ## 5. Cookies and Analytics
 We use cookies only for the proper functioning of the websites:
@@ -129,6 +131,7 @@ Amnezia is not liable for:
 - any indirect or consequential losses, including loss of profit or data;
 - service disruptions caused by external factors, technical limitations, or actions of third parties;
 - consequences arising from the use of the service for purposes that violate applicable law.
+
 To the extent permitted by law, our liability is limited to the minimum extent required by applicable legislation.
 Nothing in this Policy excludes or limits liability where such exclusion or limitation is prohibited by law (for example, in cases of intent or gross negligence).
 
@@ -139,6 +142,7 @@ Users agree to use the VPN service only for lawful purposes and not to engage in
 - distributing, storing, or transmitting prohibited content (including content that infringes copyrights);
 - attacks on networks or services of third parties (such as DDoS);
 - actions that harm other users, our infrastructure, or our partners.
+
 We do not keep activity logs, monitor, or record user traffic.
 However, if we receive credible abuse notifications (for example, from hosting providers, network operators, or copyright holders), we may take necessary measures to protect our infrastructure and comply with legal requirements.
 
@@ -149,5 +153,8 @@ Amnezia is also not responsible for the content of third-party websites linked f
 ## 12. Updates
 This Policy may be updated from time to time. All changes will be posted on this page with a new effective date.
 
-## 13. Contacts
-If you have any questions about our Privacy Policy, please email privacy@amnezia.org
+## 13. Our details
+This Service is operated by ANARCHY LAB S.R.L.
+We are registered in Romania under registration number J2026000670007, and our registered office is at Bucureşti, Sector 3, Bulevardul Unirii, No. 61, Bl. F3, Staircase 4, Floor 2, Apt. 208, Romania.
+
+If you have any questions about our Privacy Policy, please contact us at privacy@amnezia.org.
