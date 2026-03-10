@@ -43,7 +43,7 @@ Users have the right to:
 - withdraw consent (if applicable);
 - file a complaint with a supervisory authority.
 
-Requests can be sent to **abuse@amnezia.host**.
+Requests can be sent to **privacy@amnezia.host**.
 
 ## 7. Data Security
 We implement technical and organizational measures to protect personal data from unauthorized access, alteration, disclosure, or destruction, including encryption, access control, and regular security audits.  
