@@ -42,7 +42,7 @@ Services are provided on a prepaid basis, unless otherwise specified.
 
 Payments may be processed through third-party payment providers. By making a payment, the User agrees to the terms and conditions of the respective payment provider.
 
-Refund and compensation conditions are governed by a separate Refund and Downtime Compensation Policy, published on the website.
+Refund and compensation conditions are governed by a separate [Refund and Downtime Compensation Policy](/refund-policy), published on the website.
 
 ## 6. Service Availability
 The Service is provided on an **"as is"** and **"as available"** basis.
