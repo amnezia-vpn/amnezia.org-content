@@ -1,4 +1,4 @@
-# Refund and Downtime Compensation Policy
+# Refund and Compensation Policy
 
 ## 1. General Provisions
 This Policy governs refunds and downtime (unavailability) compensation for virtual private servers (“**VPS**”) provided by **Amnezia Hosting**.  
