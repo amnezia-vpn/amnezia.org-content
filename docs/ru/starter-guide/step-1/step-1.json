@@ -555,7 +555,7 @@
       "steps": [
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/starter-guide/step-1/img/aeza/aeza_ru_1.png",
-          "text": ":Для начала зарегистрируемся на сайте, для этого нажмите Регистрация ."
+          "text": "Для начала зарегистрируемся на сайте, для этого нажмите Регистрация."
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/starter-guide/step-1/img/aeza/aeza_ru_2.png",
@@ -619,7 +619,7 @@
       "steps": [
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/starter-guide/step-1/img/amnezia-hosting/AmHosting_ru_1.png",
-          "text": ":Выберите страну размещения сервера, период оплаты и нажмите Заказать сервер."
+          "text": "Выберите страну размещения сервера, период оплаты и нажмите Заказать сервер."
         },
         {
           "image": "https://raw.githubusercontent.com/amnezia-vpn/amnezia.org-content/master/docs/ru/starter-guide/step-1/img/amnezia-hosting/AmHosting_ru_2.png",
