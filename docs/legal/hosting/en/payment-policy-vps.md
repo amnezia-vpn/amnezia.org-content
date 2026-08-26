@@ -37,24 +37,31 @@ The User agrees not to use the Service for:
 
 If such activities are detected, access to the Service may be suspended or terminated without prior notice.
 
-## 5. Payment for Services
+## 5. Sanctions Compliance
+The User represents and warrants that they are not subject to applicable EU sanctions and are not purchasing or using the Service, directly or indirectly, on behalf of or for the benefit of any sanctioned person or entity.
+
+The User shall not use the Service in violation of applicable restrictive measures. Where the Service has reasonable grounds to suspect a violation of applicable sanctions laws, it may request additional information, temporarily restrict access to the Service, or terminate the Service.
+
+## 6. Payment for Services
 Services are provided on a prepaid basis, unless otherwise specified.
 
 Payments may be processed through third-party payment providers. By making a payment, the User agrees to the terms and conditions of the respective payment provider.
 
 Refund and compensation conditions are governed by a separate [Refund and Compensation Policy](/refund-policy), published on the website.
 
-## 6. Service Availability
+## 7. Service Availability
 The Service is provided on an **"as is"** and **"as available"** basis.
 
 Despite efforts to ensure stable operation, uninterrupted and error-free service cannot be guaranteed. Temporary interruptions may occur due to maintenance, updates, or infrastructure failures.
 
-## 7. User Content
+VPS resources are provided on a Fair Share basis. Actual performance and availability of shared resources may vary depending on the overall infrastructure load and usage by other users.
+
+## 8. User Content
 The User is fully responsible for any data, software, files, or materials hosted or transmitted through the Service.
 
 The Service does not continuously monitor user content but may take action if this Agreement or applicable laws are violated.
 
-## 8. Suspension and Termination of Access
+## 9. Suspension and Termination of Access
 Access to the Service may be temporarily restricted or completely terminated in cases of:
 
 - violation of this Agreement by the User;
@@ -63,7 +70,7 @@ Access to the Service may be temporarily restricted or completely terminated in 
 
 Such measures may include account suspension, removal of hosted materials, or termination of services.
 
-## 9. Limitation of Liability
+## 10. Limitation of Liability
 To the maximum extent permitted by law, the Service shall not be liable for:
 
 - indirect damages;
@@ -73,12 +80,12 @@ To the maximum extent permitted by law, the Service shall not be liable for:
 
 Nothing in this Agreement excludes liability that cannot be limited under applicable law.
 
-## 10. Changes to the Agreement
+## 11. Changes to the Agreement
 This Agreement may be updated periodically. The current version will be published on this page with the effective date.
 
 Continued use of the Service after changes are published constitutes acceptance of the updated Agreement.
 
-## 11. Contact Information
+## 12. Contact Information
 For questions related to this Agreement, the User may contact:
 
 **Email:** support@amnezia.host
