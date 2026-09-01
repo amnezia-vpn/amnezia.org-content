@@ -82,7 +82,7 @@
       "warning": "",
       "desc": "Provider does not support payment by Russian cards",
       "serversLabel": "Servers",
-      "serversText": "USA, Netherlands, UK, Germany, Canada, Germany, Singapore, India",
+      "serversText": "USA, Netherlands, UK, Germany, Canada, Singapore, India",
       "legalAddressLabel": "Legal address",
       "legalAddressText": "USA",
       "priceLabel": "Payment",
